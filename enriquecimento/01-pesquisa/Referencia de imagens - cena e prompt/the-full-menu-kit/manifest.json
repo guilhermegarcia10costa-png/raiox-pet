@@ -1,0 +1,90 @@
+{
+  "produto": "the-full-menu-kit",
+  "competitor_page": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+  "competitor_store": "pawzndogz.ca",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 16,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_64d939f5-e9d8-490f-a887-16b644c87811.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "flat lay do kit: snuffle + lick + puzzle no mesmo tema",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "30d660efca5d951d",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Glazed_Donut_8.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "os 3 itens em uso ao longo do dia (manhã/tarde/noite)",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "07546589cb43fdc1",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Herby_Pizza_8.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "close no acabamento temático combinando entre as 3 peças",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "7286b1731e5bfcd3",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/GlazedDonut1_36396955-d3bc-433c-a60a-fb5801be9640.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "os 3 itens separados, cada um rotulado com a função",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "9c9fd34e505514c9",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/PXL_20260405_154728185.jpg",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "embalagem do kit / cena de unboxing",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "bfd3e977348eb9e4",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Glazed_Donuts_7.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "comparação visual: preço avulso somado vs preço do kit",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "c356b0aedf14fb8b",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Glazed_Donuts_8.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "lifestyle: prateleira/canto de enriquecimento em casa com o kit",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "2d0c45e98c218f0e",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/4_5b0b4625-20f6-466e-8619-3ed0046b42ce.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/the-party-mix-lick-mat-bundle",
+      "cena": "cão rodando entre os 3 (rotação)",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "f9c4979765588292",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

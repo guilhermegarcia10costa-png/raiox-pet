@@ -1,0 +1,102 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trotter &amp; Co — The Walking Kit With Their Name On It</title>
+<style>
+/* BLUEPRINT — protótipo da loja nova. Imagens reais = placeholder, trocar por produção própria. */
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',-apple-system,sans-serif;color:#2B2B28;background:#fff;line-height:1.55}
+img{max-width:100%;height:auto;display:block}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.bar{background:#1F3A34;color:#E8DDC9;text-align:center;font-size:13px;padding:9px;font-weight:600}
+header.site{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;max-width:1180px;margin:0 auto}
+header.site .logo{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:22px;color:#1F3A34}
+header.site nav a{color:#2B2B28;text-decoration:none;font-size:14px;margin-left:18px;font-weight:500}
+.hero{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;padding:48px 0}
+.hero h1{font-family:'Fraunces',Georgia,serif;font-size:clamp(28px,4vw,44px);line-height:1.1;color:#1F3A34;margin-bottom:14px}
+.hero p{font-size:17px;color:#4a4a44;margin-bottom:22px;max-width:440px}
+.cta{display:inline-block;background:#C56A44;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px}
+.trust{display:flex;gap:22px;margin-top:18px;font-size:13px;color:#7D8A5C;font-weight:600;flex-wrap:wrap}
+.hero .ph{background:#E8DDC9;border-radius:16px;aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;color:#7D8A5C;font-size:13px;text-align:center;padding:20px}
+section{padding:44px 0;border-top:1px solid #eee}
+h2{font-family:'Fraunces',Georgia,serif;font-size:28px;color:#1F3A34;margin-bottom:8px;text-align:center}
+.lead{text-align:center;color:#6a6a63;margin-bottom:26px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+.card{border:1px solid #e6e2d6;border-radius:14px;padding:16px;background:#fdfcf9}
+.card .ph{background:#E8DDC9;border-radius:10px;aspect-ratio:1;margin-bottom:12px}
+.card h3{font-size:15px;color:#1F3A34;margin-bottom:4px}
+.card .price{font-weight:700;color:#C56A44}
+.card .was{color:#999;text-decoration:line-through;font-weight:400;font-size:13px;margin-left:6px}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:760px;margin:0 auto}
+.compare>div{border:1px solid #e6e2d6;border-radius:12px;padding:18px}
+.compare .bad{background:#faf6f2}.compare .good{background:#f2f5ec;border-color:#7D8A5C}
+.compare ul{list-style:none;margin-top:8px}.compare li{padding:5px 0;font-size:14px}
+.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.review{border:1px solid #e6e2d6;border-radius:12px;padding:16px;font-size:14px;background:#fdfcf9}
+.review b{color:#1F3A34}
+.stars{color:#C56A44;letter-spacing:2px}
+.ladder{max-width:620px;margin:0 auto;border:1px solid #e6e2d6;border-radius:14px;overflow:hidden}
+.ladder div{display:flex;justify-content:space-between;padding:13px 18px;border-bottom:1px solid #eee;font-size:14px}
+.ladder div:last-child{border-bottom:0}
+.ladder .t{font-weight:600;color:#1F3A34}
+footer.site{background:#1F3A34;color:#cdd8cf;padding:32px 0;font-size:13px;text-align:center}
+@media(max-width:760px){.hero{grid-template-columns:1fr}.compare{grid-template-columns:1fr}header.site nav{display:none}}
+</style></head>
+<body>
+<div class="bar">SPRING WALKS SALE · Harness + FREE ID tag · Ships from the UK 🇬🇧</div>
+<header class="site"><span class="logo">Trotter &amp; Co</span><nav><a href="#">Shop</a><a href="#">Walking Sets</a><a href="#">Personalise</a><a href="#">Reviews</a></nav></header>
+<div class="wrap">
+<div class="hero">
+  <div>
+    <h1>The walking kit that fits, lasts, and has their name on it.</h1>
+    <p>A no-pull harness sized to your dog, hand-finished with their name. Built to survive the muddiest walk in Britain.</p>
+    <a class="cta" href="#">Build your set — from £24.99</a>
+    <div class="trust"><span>★ 4.8 · 2,100+ reviews</span><span>Ships from UK · 3–6 days</span><span>30-day fit guarantee</span></div>
+  </div>
+  <div class="ph">[HERO — placeholder: foto real do peitoral no cão, trocar por produção própria]</div>
+</div>
+</div>
+
+<section><div class="wrap">
+<h2>Pick your kit</h2><p class="lead">Most owners start with the harness and add the matching lead.</p>
+<div class="grid">
+<div class="card"><div class="ph"></div><h3>Personalised No-Pull Harness</h3><span class="price">£24.99</span><span class="was">£44.99</span></div>
+<div class="card"><div class="ph"></div><h3>Matching Rope Lead</h3><span class="price">£17.99</span><span class="was">£24.99</span></div>
+<div class="card"><div class="ph"></div><h3>Engraved ID Tag</h3><span class="price">£8.99</span></div>
+<div class="card"><div class="ph"></div><h3>Complete Walking Set</h3><span class="price">£49.99</span><span class="was">£89.96</span></div>
+</div>
+</div></section>
+
+<section><div class="wrap">
+<h2>Why owners switch</h2>
+<div class="compare">
+<div class="bad"><b>A generic harness</b><ul><li>✗ Rubs under the legs</li><li>✗ Dog still pulls</li><li>✗ Looks like everyone else's</li><li>✗ Frays after a season</li></ul></div>
+<div class="good"><b>The Trotter &amp; Co harness</b><ul><li>✓ Sized to your dog's measurements</li><li>✓ Front clip that stops the pull</li><li>✓ Their name, hand-finished</li><li>✓ Reinforced stitching, 30-day guarantee</li></ul></div>
+</div>
+</div></section>
+
+<section><div class="wrap">
+<h2>Their name, their kit</h2><p class="lead">Add up to 12 characters. Preview before you buy.</p>
+<div class="ph" style="background:#E8DDC9;border-radius:14px;height:220px;display:flex;align-items:center;justify-content:center;color:#7D8A5C">[Personalisation preview — placeholder]</div>
+</div></section>
+
+<section><div class="wrap">
+<h2>What owners say</h2>
+<div class="reviews">
+<div class="review"><div class="stars">★★★★★</div><b>Finally fits my dachshund</b><br>Ordered by the measuring guide and it's spot on. — Hannah, Leeds</div>
+<div class="review"><div class="stars">★★★★★</div><b>The pulling stopped</b><br>Front clip actually works. Name looks smart too. — Dev, Bristol</div>
+<div class="review"><div class="stars">★★★★☆</div><b>Good quality, quick UK delivery</b><br>Arrived in 4 days. — Marie, Glasgow</div>
+</div>
+<p class="lead" style="margin-top:14px;font-size:13px">Reviews shown are illustrative placeholders for the blueprint — replace with real verified reviews before launch.</p>
+</div></section>
+
+<section><div class="wrap">
+<h2>Build your set</h2>
+<div class="ladder">
+<div><span class="t">Personalised No-Pull Harness</span><span>£24.99</span></div>
+<div><span class="t">+ Insured shipping &amp; 60-day guarantee</span><span>£2.99</span></div>
+<div><span class="t">+ Matching lead &amp; ID tag (after checkout)</span><span>£17.99</span></div>
+<div><span class="t">Complete Walking Set (save £40)</span><span>£49.99</span></div>
+</div>
+</div></section>
+
+<footer class="site"><div class="wrap">Trotter &amp; Co · Ships from the UK · 30-day fit guarantee · Contact · Shipping · Returns<br><small>Blueprint / protótipo — imagens são placeholder, substituir por produção própria.</small></div></footer>
+</body></html>

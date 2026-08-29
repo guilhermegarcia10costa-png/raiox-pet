@@ -1,0 +1,90 @@
+{
+  "produto": "puzzle-feeder",
+  "competitor_page": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+  "competitor_store": "pets-dreams.uk",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 8,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pentagonpinkhero.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "still do puzzle feeder fechado, top-down",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "b82055d6e6775997",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pizzagreenreview.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "cão empurrando as tampas deslizantes com a pata/focinho",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "eab81a8a9171ba56",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pizzablue3.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "close nos compartimentos abertos com petiscos",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "f34cde0754394d2f",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/dog4.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "close no encaixe das peças (sem partes soltas)",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "1fea7736a4a6a07d",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pentagonpinks.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "níveis de dificuldade 2 e 3 lado a lado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "22b167338b18411c",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pentagonpink.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "sequência: dono escondendo os petiscos",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "303ebe3e76968edf",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pizzablue.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "lifestyle: puzzle no tapete da sala com cão focado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "fe0dd233df655538",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/pizzagreen.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/interactive-food-puzzle-for-dogs",
+      "cena": "base antiderrapante por baixo",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "54d9a51fad4ac077",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

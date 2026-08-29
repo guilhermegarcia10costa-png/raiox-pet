@@ -1,0 +1,973 @@
+{
+  "schema_version": "handoff-montar-loja-v2.0",
+  "research": {
+    "name": "Pesquisa Pet Enriquecimento",
+    "mode": "profundo",
+    "scope": "nicho",
+    "generated_at": "2026-08-28",
+    "root": "raio-x/Pesquisa Pet Enriquecimento/01-pesquisa"
+  },
+  "status": "validation_only",
+  "market": {
+    "country": "United Kingdom",
+    "language": "en-GB",
+    "currency": "GBP",
+    "market_decision": "conditional",
+    "operator_decision": "conditional",
+    "evidence_summary": [
+      "'snuffle mat' ~62 anúncios ativos GB, 'cat enrichment toy' ~34, 'automatic interactive pet toy' ~38 (Meta Ad Library, 28/08/2026)",
+      "Três operadores em escala: Pets Dreams 626 ativos / 785 histórico; Marlene's 372 / 788; MK9Plus ~329",
+      "Whisk 8/88 e PawzNDogz 7/25 provam o modelo pequeno: 1 herói + advertorial, ou marca temática",
+      "Ticket herói £20–40 (leve) / £60–90 (bundle premium); mat de silicone/tecido, custo estimado £3–8, frete barato",
+      "Ângulo de criativo dominante e ainda fresco: \"seu cão não é mau, está entediado / 10 min de faro > passeio\"",
+      "Espaço \"separation anxiety\" como PRODUTO é quase nulo (556 anúncios são serviço/treino/seguro) — posicionar como ocupar/distrair, nunca como cura"
+    ],
+    "limitations": [
+      "Sem SimilarWeb nesta rodada — faturamento é proxy de ordem de grandeza",
+      "Custo de produto estimado por categoria, não medido por fornecedor 1:1",
+      "Corpo do criativo e transcrição de vídeo não extraídos (conector devolve só título/datas)",
+      "Catálogo de MK9Plus/Meeting Their Needs e customlickmats não coletado (products.json bloqueado)",
+      "Capturas em 1 viewport (15), não nos 4 exigidos (16)"
+    ]
+  },
+  "brand": {
+    "name": "Rumble & Sniff",
+    "domain_candidate": "rumbleandsniff.co.uk",
+    "positioning": "Mats de enriquecimento (snuffle, lick, puzzle) para cães, com um tema visual próprio (formato de comida). Modelo de marca dropship: mesmo produto genérico de silicone/feltro vendido com identidade, naming de coleção e conteúdo sobre comportamento canino. Nunca promete cura de ansiedade — vende \"algo para o cão fazer\".",
+    "palette": [
+      {
+        "name": "Dark Moss",
+        "hex": "#2E402C",
+        "role": "fundo de marca, header, footer"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F2E8D5",
+        "role": "seções claras, cards"
+      },
+      {
+        "name": "Carrot",
+        "hex": "#E0742F",
+        "role": "CTA, selo de oferta"
+      },
+      {
+        "name": "Pea",
+        "hex": "#8FAE6B",
+        "role": "ícones de confiança, detalhes"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#2B2B28",
+        "role": "texto principal"
+      },
+      {
+        "name": "Paper",
+        "hex": "#FBF7EF",
+        "role": "fundo de card claro"
+      }
+    ],
+    "fonts": {
+      "heading": "Fraunces",
+      "body": "Inter"
+    },
+    "voice": [
+      "calorosa e um pouco nerd sobre comportamento canino",
+      "britânica, seca, sem hype médico",
+      "honesta sobre o que o produto faz e não faz"
+    ],
+    "photography": [
+      "o mat fotografado como um prato de comida (flat lay, luz de janela)",
+      "cão de focinho no mat, foco nos olhos concentrados",
+      "a mão do dono recheando o mat na cozinha antes de sair"
+    ],
+    "forbidden_claims": [
+      "cures / treats separation anxiety",
+      "stops anxiety",
+      "stops barking",
+      "vet approved (sem laudo)",
+      "uso de marca/tema proprietário de concorrente (PawzNDogz naming)"
+    ]
+  },
+  "catalog": {
+    "collections": [
+      {
+        "handle": "enrichment-mats",
+        "title": "Enrichment Mats",
+        "description_html": "<p>Snuffle mats, lick mats and puzzle feeders that give a bored dog a job to do.</p>"
+      },
+      {
+        "handle": "snuffle-mats",
+        "title": "Snuffle Mats",
+        "description_html": "<p>Food-shaped fleece mats for nose work.</p>"
+      },
+      {
+        "handle": "lick-mats",
+        "title": "Lick Mats",
+        "description_html": "<p>Suction mats for the calm-down. Freeze them for longer.</p>"
+      },
+      {
+        "handle": "puzzles",
+        "title": "Puzzle Feeders",
+        "description_html": "<p>Sliding-compartment puzzles for when the mats get too easy.</p>"
+      }
+    ],
+    "products": [
+      {
+        "handle": "themed-snuffle-mat",
+        "title": "The Themed Snuffle Mat",
+        "role": "hero",
+        "product_type": "Snuffle Mat",
+        "vendor": "Rumble & Sniff",
+        "status": "draft",
+        "tags": [
+          "snuffle-mat",
+          "enrichment",
+          "boredom",
+          "sniffing",
+          "themed"
+        ],
+        "collections": [
+          "enrichment-mats",
+          "snuffle-mats"
+        ],
+        "pricing": {
+          "price": "29.99",
+          "compare_at": "54.99",
+          "cost": "6.50",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "AliExpress \"snuffle mat dog\" SortType=total_tranpro_desc; escolher um formato que aceite o TEMA (peça de feltro em formato de comida). Confirmar densidade do feltro, base antiderrapante e lavável na máquina. Amostra obrigatória antes de ready_for_store. Referência de cena: PawzNDogz Forbidden Grapes."
+        },
+        "copy": {
+          "headline": "10 minutes of sniffing does more than a 30-minute walk",
+          "lede": "A snuffle mat shaped like a plate of food. Hide their kibble in it and watch a bored dog switch off — the calm kind of tired.",
+          "body_html": "<p>Sniffing is work. It lowers a dog’s heart rate and burns mental energy the way a walk burns physical energy. Scatter a handful of their normal food into the mat before you leave the house and they have a job to do instead of your skirting board.</p><p>Dense fleece fingers, non-slip backing, machine-washable. Food-grade, no loose parts.</p>",
+          "bullets": [
+            "Turns 30 seconds of feeding into 15–40 minutes of work",
+            "Something to do the moment you leave — not a cure, a job",
+            "Dense fleece, non-slip base, machine-washable",
+            "Food-grade, no small parts to swallow",
+            "Rotate with a second theme when they get quick at it"
+          ],
+          "proof": "Modelar a prova de PawzNDogz (\"As Seen On\" + \"science that turns chaos into calm\"). Sem reviews inventadas no lançamento; usar UGC de \"antes/depois\" quando existir.",
+          "faq": [
+            {
+              "q": "Does this help with separation anxiety?",
+              "a": "It is not a treatment for separation anxiety — talk to a behaviourist for that. What it does is give an under-stimulated dog something absorbing to do, which for a lot of bored dogs is most of the problem."
+            },
+            {
+              "q": "My dog destroys everything — will it survive?",
+              "a": "The fleece is stitched into a rubber base, not glued. It is for foraging, not chewing; supervise a heavy chewer the first few sessions."
+            },
+            {
+              "q": "How do I clean it?",
+              "a": "Shake out the crumbs, cold machine wash in a laundry bag, air dry."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Theme",
+            "values": [
+              "Full English",
+              "Avocado",
+              "Garden"
+            ]
+          },
+          {
+            "name": "Size",
+            "values": [
+              "Standard",
+              "Large"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "RS-SNF-FE-STD",
+            "title": "Full English / Standard",
+            "price": "29.99",
+            "compare_at": "54.99",
+            "option_values": [
+              "Full English",
+              "Standard"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-SNF-AV-STD",
+            "title": "Avocado / Standard",
+            "price": "29.99",
+            "compare_at": "54.99",
+            "option_values": [
+              "Avocado",
+              "Standard"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-SNF-FE-LRG",
+            "title": "Full English / Large",
+            "price": "34.99",
+            "compare_at": "59.99",
+            "option_values": [
+              "Full English",
+              "Large"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-SNF-GD-STD",
+            "title": "Garden / Standard",
+            "price": "29.99",
+            "compare_at": "54.99",
+            "option_values": [
+              "Garden",
+              "Standard"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "The Themed Snuffle Mat | Rumble & Sniff",
+          "description": "A food-shaped snuffle mat that turns feeding time into 15–40 minutes of nose work. Ships from the UK, machine-washable."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/themed-snuffle-mat/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/themed-snuffle-mat/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/themed-snuffle-mat/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/themed-snuffle-mat/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "lick-mat-slow-feeder",
+        "title": "The Lick Mat",
+        "role": "upsell",
+        "product_type": "Lick Mat",
+        "vendor": "Rumble & Sniff",
+        "status": "draft",
+        "tags": [
+          "lick-mat",
+          "enrichment",
+          "calming",
+          "slow-feeder"
+        ],
+        "collections": [
+          "enrichment-mats",
+          "lick-mats"
+        ],
+        "pricing": {
+          "price": "19.99",
+          "compare_at": "29.99",
+          "cost": "4.80",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "AliExpress \"lick mat dog suction\"; base com ventosa forte, silicone food-grade, textura que segure pasta/yoghurt. Amostra obrigatória. Referência de cena: Pets Dreams 2-in-1 slow feeder + lick mat."
+        },
+        "copy": {
+          "headline": "The 5-minute wind-down before you leave",
+          "lede": "Smear it, freeze it, stick it to the floor. Licking is self-soothing — it is what a dog does to calm itself down.",
+          "body_html": "<p>Offered as a one-click add-on after the snuffle mat. Different job: the snuffle mat burns energy, the lick mat brings the arousal back down. Freeze it with wet food or dog-safe yoghurt for a 20-minute version.</p>",
+          "bullets": [
+            "Licking lowers heart rate — a genuine calming behaviour",
+            "Freezes for a longer, harder challenge",
+            "Strong suction base, food-grade silicone",
+            "Dishwasher safe"
+          ],
+          "proof": "PawzNDogz vende \"Lick Mat & Spatula\" a £19.99; posicionar como a metade \"calma\" do kit.",
+          "faq": [
+            {
+              "q": "What do I put on it?",
+              "a": "Wet dog food, plain yoghurt, mashed banana, a little peanut butter (xylitol-free). Freeze for longer."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Theme",
+            "values": [
+              "Full English",
+              "Avocado",
+              "Garden"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "RS-LCK-FE",
+            "title": "Full English",
+            "price": "19.99",
+            "compare_at": "29.99",
+            "option_values": [
+              "Full English"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-LCK-AV",
+            "title": "Avocado",
+            "price": "19.99",
+            "compare_at": "29.99",
+            "option_values": [
+              "Avocado"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "The Lick Mat — Slow Feeder & Calming Mat | Rumble & Sniff",
+          "description": "A suction lick mat for the calm-down after the snuffle mat. Freeze it for a 20-minute challenge. Ships from the UK."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/lick-mat-slow-feeder/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/lick-mat-slow-feeder/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/lick-mat-slow-feeder/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/lick-mat-slow-feeder/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "puzzle-feeder",
+        "title": "The Puzzle Feeder",
+        "role": "cross_sell",
+        "product_type": "Puzzle Feeder",
+        "vendor": "Rumble & Sniff",
+        "status": "draft",
+        "tags": [
+          "puzzle-feeder",
+          "enrichment",
+          "slow-feeder",
+          "problem-solving"
+        ],
+        "collections": [
+          "enrichment-mats",
+          "puzzles"
+        ],
+        "pricing": {
+          "price": "24.99",
+          "compare_at": "39.99",
+          "cost": "7.50",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "AliExpress \"dog puzzle feeder\"; peça rígida com compartimentos deslizantes, sem peças pequenas soltas. Maior risco de RMA (peças/qualidade) — checar amostra com cuidado. Referência de cena: Pets Dreams Interactive Food Puzzle for Dogs."
+        },
+        "copy": {
+          "headline": "When sniffing gets too easy",
+          "lede": "A sliding-compartment puzzle for the dog that has figured out the mats. Level up the difficulty.",
+          "body_html": "<p>Cross-sell for owners who report their dog \"solves it in two minutes\". Harder problem-solving, same principle: work for the food.</p>",
+          "bullets": [
+            "Sliding lids and hidden compartments",
+            "No small removable parts",
+            "Non-slip base",
+            "Wipe clean"
+          ],
+          "proof": "Pets Dreams e British Pets vendem \"#1 Puzzle Feeder\"; aqui é o degrau de dificuldade, não o herói.",
+          "faq": [
+            {
+              "q": "Is it dishwasher safe?",
+              "a": "Top rack only, or wipe clean — the rigid plastic can warp on a hot cycle."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Difficulty",
+            "values": [
+              "Level 2",
+              "Level 3"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "RS-PZL-L2",
+            "title": "Level 2",
+            "price": "24.99",
+            "compare_at": "39.99",
+            "option_values": [
+              "Level 2"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-PZL-L3",
+            "title": "Level 3",
+            "price": "27.99",
+            "compare_at": "42.99",
+            "option_values": [
+              "Level 3"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "The Puzzle Feeder | Rumble & Sniff",
+          "description": "A sliding-compartment dog puzzle feeder for dogs that have outgrown the snuffle mat. Ships from the UK."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/puzzle-feeder/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/puzzle-feeder/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/puzzle-feeder/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/puzzle-feeder/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "the-full-menu-kit",
+        "title": "The Full Menu — 3-Mat Kit",
+        "role": "secondary",
+        "product_type": "Bundle",
+        "vendor": "Rumble & Sniff",
+        "status": "draft",
+        "tags": [
+          "bundle",
+          "kit",
+          "enrichment",
+          "save"
+        ],
+        "collections": [
+          "enrichment-mats"
+        ],
+        "pricing": {
+          "price": "59.99",
+          "compare_at": "104.97",
+          "cost": "17.00",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "Composto do snuffle mat + lick mat + puzzle feeder. Sem sourcing novo. Confirmar margem depois do custo real dos 3."
+        },
+        "copy": {
+          "headline": "Snuffle, lick, puzzle — the whole routine",
+          "lede": "One of each, one theme, £45 off. Rotate them so it never gets boring.",
+          "body_html": "<p>Positioned as the alternative hero for owners who want the full routine up front — modelled on Marlene’s \"BUY 2 GET 2 FREE\" and PawzNDogz \"Exotic Food Bundle\". Rotation is the answer to \"my dog gets bored of it\".</p>",
+          "bullets": [
+            "One snuffle mat, one lick mat, one puzzle — matching theme",
+            "Save £45 vs buying separately",
+            "A different job for different times of day",
+            "Rotate weekly so novelty never runs out"
+          ],
+          "proof": "Marlene’s bundle a £59.99 (BUY 2 GET 2 FREE); PawzNDogz Exotic Food Bundle £88.99.",
+          "faq": [
+            {
+              "q": "Can I pick different themes?",
+              "a": "The kit is single-theme to keep the price down — buy separately to mix."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Theme",
+            "values": [
+              "Full English",
+              "Avocado",
+              "Garden"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "RS-KIT-FE",
+            "title": "Full English",
+            "price": "59.99",
+            "compare_at": "104.97",
+            "option_values": [
+              "Full English"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "RS-KIT-AV",
+            "title": "Avocado",
+            "price": "59.99",
+            "compare_at": "104.97",
+            "option_values": [
+              "Avocado"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "The Full Menu — 3-Mat Dog Enrichment Kit | Rumble & Sniff",
+          "description": "Snuffle mat, lick mat and puzzle feeder in one theme, £45 off. The full enrichment routine. Ships from the UK."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/the-full-menu-kit/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/the-full-menu-kit/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/the-full-menu-kit/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/the-full-menu-kit/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      }
+    ]
+  },
+  "offer": {
+    "hero_handle": "themed-snuffle-mat",
+    "currency": "GBP",
+    "shipping": {
+      "origin": "United Kingdom",
+      "promise": "3–6 working days",
+      "cost_to_customer": "Free over £35, else £3.95",
+      "source": "padrão observado: PawzNDogz \"Free shipping over $X\", Pets Dreams entrega UK"
+    },
+    "guarantee": {
+      "window_days": 30,
+      "type": "money back if your dog ignores it",
+      "source": "PawzNDogz / Marlene's usam garantia de satisfação; enquadrar como \"se seu cão não engajar, devolvemos\""
+    },
+    "bundles": [
+      {
+        "handle": "the-full-menu-kit",
+        "title": "The Full Menu — 3-Mat Kit",
+        "price": "59.99",
+        "compare_at": "104.97",
+        "contains": [
+          "themed-snuffle-mat",
+          "lick-mat-slow-feeder",
+          "puzzle-feeder"
+        ],
+        "accept_rate_estimate": 0.16
+      }
+    ],
+    "order_bump": {
+      "handle": "spatula-freeze-tray",
+      "title": "Spatula + freeze tray",
+      "price": "5.99",
+      "compare_at": "11.99",
+      "placement": "PDP + cart",
+      "accept_rate_estimate": 0.32,
+      "source": "PawzNDogz \"Lick Mat & Spatula\" £19.99; consumível gera recompra"
+    },
+    "economics": {
+      "source": "preços observados nos concorrentes (products.json 28/08/2026) + custo estimado por categoria (não medido por fornecedor)",
+      "assumptions": [
+        "custo herói £6.50 (mat de feltro ~20% do preço)",
+        "taxa de aceite bump 32%",
+        "taxa de aceite upsell 20%",
+        "gateway+embalagem £3.00/pedido",
+        "AOV projetado £35.90",
+        "CPA alvo £14–18",
+        "ROAS break-even ~1.5"
+      ],
+      "target_margin": 0.65
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      {
+        "title": "Shop All",
+        "type": "collection",
+        "target": "enrichment-mats"
+      },
+      {
+        "title": "Snuffle Mats",
+        "type": "collection",
+        "target": "snuffle-mats"
+      },
+      {
+        "title": "Lick Mats",
+        "type": "collection",
+        "target": "lick-mats"
+      },
+      {
+        "title": "The Full Menu Kit",
+        "type": "product",
+        "target": "the-full-menu-kit"
+      },
+      {
+        "title": "Why Enrichment",
+        "type": "page",
+        "target": "why-enrichment"
+      }
+    ],
+    "footer_menu": [
+      {
+        "title": "Shipping & Delivery",
+        "type": "page",
+        "target": "shipping"
+      },
+      {
+        "title": "Returns",
+        "type": "page",
+        "target": "returns"
+      },
+      {
+        "title": "Recipes & Fillings",
+        "type": "page",
+        "target": "recipes"
+      },
+      {
+        "title": "Does it help with anxiety?",
+        "type": "page",
+        "target": "anxiety-faq"
+      },
+      {
+        "title": "Contact",
+        "type": "page",
+        "target": "contact"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "handle": "shipping",
+      "title": "Shipping & Delivery",
+      "kind": "policy",
+      "body_html": "<p>Orders ship from the UK. Standard delivery 3–6 working days. Free over £35, otherwise £3.95. Tracking emailed on dispatch.</p>"
+    },
+    {
+      "handle": "returns",
+      "title": "Returns",
+      "kind": "policy",
+      "body_html": "<p>30-day \"your dog ignored it\" guarantee: if your dog genuinely won’t engage, send it back for a refund. Unused items returnable within 30 days. Modelled on the satisfaction guarantees used by qualified competitors in this research.</p>"
+    },
+    {
+      "handle": "recipes",
+      "title": "Recipes & Fillings",
+      "kind": "guide",
+      "body_html": "<p>Snuffle mat: their normal kibble, scattered. Lick mat: wet food, plain yoghurt, mashed banana, xylitol-free peanut butter — freeze for a 20-minute version. Puzzle: small high-value treats. Rotate.</p>"
+    },
+    {
+      "handle": "anxiety-faq",
+      "title": "Does it help with separation anxiety?",
+      "kind": "info",
+      "body_html": "<p>Honest answer: this is not a treatment for separation anxiety. If your dog panics when left alone, a qualified behaviourist is the right call. What these mats do is give an under-stimulated, bored dog something absorbing to do — and for a lot of dogs, boredom is most of what looks like anxiety. Give the mat 10 minutes before you leave, not as you walk out the door.</p>"
+    },
+    {
+      "handle": "why-enrichment",
+      "title": "Why Enrichment",
+      "kind": "story",
+      "body_html": "<p>Sniffing and licking are work. They lower a dog’s heart rate and use mental energy the way a walk uses physical energy. Ten minutes of nose work can settle a dog more than a lap of the park. That’s the whole idea.</p>"
+    },
+    {
+      "handle": "contact",
+      "title": "Contact",
+      "kind": "info",
+      "body_html": "<p>Email hello@rumbleandsniff.co.uk — we reply within one working day (UK hours).</p>"
+    }
+  ],
+  "store_blueprint": {
+    "home_html": "paginas/mockup-home.html",
+    "pdp_html": "paginas/mockup-pdp.html",
+    "benchmark_html": "paginas/benchmark-visual.html",
+    "theme_target": {
+      "strategy": "use_installed_theme",
+      "preferred_family": "Impact",
+      "minimum_online_store_2": true
+    },
+    "home_sections": [
+      {
+        "id": "announcement-bar",
+        "purpose": "Oferta + \"Ships from the UK\" + prova",
+        "copy_source": "plano-de-acao.html §04",
+        "asset_source": "n/a",
+        "acceptance": "texto <= 60 chars, bandeira UK, link para coleção"
+      },
+      {
+        "id": "hero",
+        "purpose": "Reframe \"cão entediado\" + vídeo do cão no mat + 1 CTA",
+        "copy_source": "brand.positioning + advertorial",
+        "asset_source": "vídeo do cão concentrado no mat (produção própria)",
+        "acceptance": "H1 com a promessa \"10 min of sniffing\", vídeo com poster, 1 CTA, 3 selos acima da dobra"
+      },
+      {
+        "id": "the-routine",
+        "purpose": "Snuffle / lick / puzzle — 3 jobs, 3 momentos do dia",
+        "copy_source": "catalog.products",
+        "asset_source": "flat lay dos 3 mats no tema",
+        "acceptance": "3 cards, cada um com \"what it does\" + preço + âncora"
+      },
+      {
+        "id": "why-it-works",
+        "purpose": "Ciência simples: faro/lamber baixam a frequência cardíaca",
+        "copy_source": "pages.why-enrichment",
+        "asset_source": "ícone/diagrama",
+        "acceptance": "texto curto, sem alegação de cura, linka a página de ansiedade"
+      },
+      {
+        "id": "themed-picker",
+        "purpose": "Escolha o tema (Full English / Avocado / Garden)",
+        "copy_source": "catalog.product.options",
+        "asset_source": "foto de cada tema",
+        "acceptance": "seletor visual de tema, preview grande"
+      },
+      {
+        "id": "reviews",
+        "purpose": "Prova social (UGC antes/depois quando existir)",
+        "copy_source": "reviews reais pós-lançamento",
+        "asset_source": "UGC",
+        "acceptance": "sem reviews inventadas; placeholder marcado até haver reais"
+      },
+      {
+        "id": "offer-ladder",
+        "purpose": "Escada de oferta explícita + kit BOGO-style",
+        "copy_source": "plano-de-acao.html §04",
+        "asset_source": "n/a",
+        "acceptance": "4 linhas: principal, bump, upsell, bundle, com preços"
+      }
+    ],
+    "pdp_sections": [
+      {
+        "id": "gallery",
+        "purpose": "Carrossel do mat (flat lay + cão em uso)",
+        "copy_source": "image_plan.reference_manifest",
+        "asset_source": "carrossel-concorrente + Product Master",
+        "acceptance": "todas as posições auditadas em auditoria-imagens.json"
+      },
+      {
+        "id": "buybox",
+        "purpose": "Preço + âncora + SAVE% + tema + tamanho + order bump",
+        "copy_source": "catalog.product + offer",
+        "asset_source": "n/a",
+        "acceptance": "bump visível no buybox; CTA mostra preço com bump"
+      },
+      {
+        "id": "what-it-does",
+        "purpose": "Quanto tempo ocupa + \"a job, not a cure\"",
+        "copy_source": "copy.bullets",
+        "asset_source": "n/a",
+        "acceptance": ">=4 bullets, honesto sobre ansiedade"
+      },
+      {
+        "id": "how-to-use",
+        "purpose": "Recheie, congele, cole no chão — 3 passos + receitas",
+        "copy_source": "pages.recipes",
+        "asset_source": "foto do recheio",
+        "acceptance": "3 passos ilustrados + link para receitas"
+      },
+      {
+        "id": "faq",
+        "purpose": "FAQ com \"does it help with anxiety?\" resposta honesta + \"will it survive?\"",
+        "copy_source": "copy.faq",
+        "asset_source": "n/a",
+        "acceptance": ">=3 perguntas incluindo ansiedade e durabilidade"
+      },
+      {
+        "id": "reviews",
+        "purpose": "Reviews do produto",
+        "copy_source": "reviews reais",
+        "asset_source": "UGC",
+        "acceptance": "placeholder marcado até haver reais"
+      },
+      {
+        "id": "trust",
+        "purpose": "Ships from UK + 30-day guarantee + food-grade + machine-washable",
+        "copy_source": "offer.shipping + offer.guarantee",
+        "asset_source": "ícones",
+        "acceptance": "4 selos, prazo real, origem UK"
+      }
+    ],
+    "component_map": [
+      {
+        "section": "hero",
+        "theme_component": "video-hero / image-banner"
+      },
+      {
+        "section": "the-routine",
+        "theme_component": "featured-collection (3 items)"
+      },
+      {
+        "section": "why-it-works",
+        "theme_component": "image-with-text"
+      },
+      {
+        "section": "themed-picker",
+        "theme_component": "featured-product / variant swatches"
+      },
+      {
+        "section": "buybox",
+        "theme_component": "main-product + bundle/upsell app block"
+      },
+      {
+        "section": "how-to-use",
+        "theme_component": "multicolumn"
+      },
+      {
+        "section": "faq",
+        "theme_component": "collapsible-content"
+      }
+    ],
+    "responsive_requirements": [
+      "Vídeo do hero com poster e lazy load; nunca autoplay pesado no mobile",
+      "Sem camada fixa cobrindo conteúdo no mobile (o seletor de tema e o CTA precisam ficar acessíveis)",
+      "Cards \"the routine\" empilham em 1 coluna < 760px",
+      "Tabela/lista de receitas rola dentro do próprio container, não na página"
+    ],
+    "performance_budget": {
+      "lcp_seconds": 2.5,
+      "cls": 0.1,
+      "mobile_kb_added": 300
+    }
+  },
+  "creative_strategy": {
+    "angles": [
+      {
+        "name": "Advertorial \"cão desempregado\"",
+        "hook": "Your dog isn't naughty. He's bored out of his mind.",
+        "models": "Whisk / Margaret Ellis",
+        "format": "advertorial em 1ª pessoa → 10 min de faro por dia"
+      },
+      {
+        "name": "Demo \"#1\" com timer",
+        "hook": "The £29 mat that keeps my Lab busy for 40 minutes",
+        "models": "Pets Dreams / PawzNDogz",
+        "format": "vídeo curto do cão focado, timer na tela"
+      },
+      {
+        "name": "Rotina antes de sair",
+        "hook": "What I give my dog 5 minutes before I leave the house",
+        "models": "ângulo do nicho, sem prometer cura",
+        "format": "rotina de saída, mat recheado e congelado"
+      },
+      {
+        "name": "Curiosidade + tema",
+        "hook": "This looks like a slice of avocado. Your dog thinks it's a puzzle.",
+        "models": "PawzNDogz",
+        "format": "foco na estética temática, presente instagramável"
+      },
+      {
+        "name": "Objeção sujeira/destruição",
+        "hook": "Machine-washable, food-grade silicone, survives a Staffie",
+        "models": "Pets Dreams \"bite-proof\"",
+        "format": "demo de resistência + lavagem"
+      }
+    ],
+    "reference_gallery": [
+      {
+        "store": "Whisk",
+        "page_id": "1071263536078181",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=1071263536078181",
+        "use": "advertorial \"cão desempregado\""
+      },
+      {
+        "store": "Pets Dreams UK",
+        "page_id": "122099419748000769",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=122099419748000769",
+        "use": "\"#1 [produto]\" + demo curto"
+      },
+      {
+        "store": "Marlene's Pet Shop",
+        "page_id": "317599658104854",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=317599658104854",
+        "use": "curiosidade + BOGO + história da fundadora"
+      },
+      {
+        "store": "PawzNDogz",
+        "page_id": "110963396945279",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=110963396945279",
+        "use": "marca temática + \"as seen on\""
+      },
+      {
+        "store": "British Pets",
+        "page_id": "1226811687172240",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=1226811687172240",
+        "use": "objeção no título do anúncio"
+      }
+    ],
+    "production_notes": [
+      "Cada anúncio: 1 gancho + 1 ângulo + 1 objeção. Rodar 5 no lançamento, cortar 3 piores em 4–5 dias. O advertorial tem o maior teto — priorizar.",
+      "Sem transcrição frame a frame dos criativos dos concorrentes nesta rodada — modelar a estrutura observável, não copiar copy.",
+      "Nunca usar imagem, logo, naming de tema (PawzNDogz \"Buttery Avocado\"™) ou alegação proprietária de concorrente.",
+      "Linha vermelha de copy: nunca \"cures/stops anxiety\". Usar \"keeps them busy\", \"mental tiredness\", \"something to do before you leave\"."
+    ]
+  },
+  "assets": {
+    "product_references": "Referencia de imagens - cena e prompt/ (por handle) — populado nesta rodada com o carrossel de referência de cada um dos 4 produtos.",
+    "competitor_captures": "capturas-concorrentes/ — home/pdp/carrinho de 5 lojas + mobile das principais",
+    "blueprint_captures": "capturas-blueprint/ — home e PDP do mockup em desktop 1280 e mobile 390",
+    "generated_product_images": "nenhuma — exige Product Master do mat temático + amostra do fornecedor"
+  },
+  "tracking": {
+    "pixel": {
+      "platform": "Meta",
+      "status": "to_install",
+      "notes": "Pixel + dataset ID na fase de montagem"
+    },
+    "capi": {
+      "status": "to_install",
+      "notes": "Conversions API via app nativo do tema ou Shopify Meta channel"
+    },
+    "events": [
+      "PageView",
+      "ViewContent",
+      "AddToCart",
+      "InitiateCheckout",
+      "Purchase"
+    ],
+    "consent": {
+      "region": "UK/EU",
+      "mode": "Consent Mode v2 + banner",
+      "notes": "GDPR/PECR — banner de consentimento obrigatório antes de disparar pixel"
+    }
+  },
+  "execution_policy": {
+    "target_mode": "unpublished_theme_copy",
+    "dry_run_first": true,
+    "backup_required": true,
+    "manual_approval_required": true,
+    "publish_allowed": false,
+    "replace_existing_products": false,
+    "replace_existing_menu": false,
+    "delete_existing_media": false
+  },
+  "validation": {
+    "structural_reviewer": "passed",
+    "responsive_reviewer": "passed",
+    "visual_review": "partial",
+    "product_image_audit": "partial",
+    "handoff_reviewer": "self",
+    "problems": [],
+    "warnings": [
+      "status = validation_only: sem amostra de fornecedor aprovada, sem Product Master, sem imagens finais",
+      "benchmark visual em 1 viewport (15 capturas) em vez de 4 viewports (16)",
+      "custo de produto e tráfego são estimativas, não medições",
+      "tema visual (\"Full English / Avocado / Garden\") é hipótese — validar disponibilidade de sourcing e apelo antes de fixar"
+    ]
+  },
+  "privacy": {
+    "distribution_safe": true,
+    "contains_secrets": false,
+    "contains_internal_store_data": false,
+    "premium_theme_included": false
+  },
+  "decisions_required": [
+    "Confirmar domínio rumbleandsniff.co.uk (+ Instagram) disponível antes de fixar o nome",
+    "Fechar o TEMA visual (comida vs jardim vs paisagem) — define naming, fotografia e todo o conteúdo",
+    "Escolher o formato de snuffle mat que aceita o tema e pedir amostra; confirmar custo real (economia usa £6.50 estimado)",
+    "Abrir a PDP de referência de cada um dos 4 produtos, baixar o carrossel e gerar manifest.json + prompts.json 1:1",
+    "Capturar os 4 viewports (desktop 1280 + mobile 390, home + PDP) dos concorrentes principais para fechar o benchmark visual",
+    "Escrever a página advertorial completa (não só o outline) e passar por revisão de compliance (nada de \"cura de ansiedade\")"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "produto": "themed-snuffle-mat",
+  "competitor_page": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+  "competitor_store": "pawzndogz.ca",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 12,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Snuffle_Mats_with_Plastic_Negative_Logo_1.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "flat lay do snuffle mat como um prato de comida, luz de janela",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "29118c1cd4600cef",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/forbidden-grapes.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "cão de focinho no mat, foco nos olhos concentrados",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "0b07ae2d7496e649",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/1-Copy_db73cf5a-727c-4e5f-9a3f-2110005bf19c.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "close na densidade das tiras de feltro com kibble escondido",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "8ff52398a08a7647",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/3_c93eff8c-6df5-43eb-865f-ae7e5506f5e3.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "close na base antiderrapante por baixo",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "d814dddc51ee2644",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/4_ae3688aa-1eb0-480c-8f76-bb827b84c926.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "sequência de uso: mão espalhando ração no mat",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "eb418201c6447f34",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/5_d6daca5b-c067-48d1-941a-368def302ec4.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "variantes de tema lado a lado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "b2227265897a069b",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/6_6764ffa3-546b-4f6b-9579-462d34d14416.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "lifestyle: mat no chão da cozinha com cão trabalhando, dono ao fundo pegando as chaves",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "7c19eef70c868bdf",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/7_20e20401-dc5d-479f-a246-76f311cb6fda.png",
+      "url_pdp_origem": "https://pawzndogz.ca/products/pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+      "cena": "o mat dobrado / enrolado para lavar na máquina",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "5a43ff29244c9c62",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

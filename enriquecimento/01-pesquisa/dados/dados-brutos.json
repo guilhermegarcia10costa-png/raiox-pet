@@ -1,0 +1,1713 @@
+{
+ "trywoofball.com": {
+  "dominio": "trywoofball.com",
+  "coletado_em": "2026-08-28T14:59:24",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gempages",
+    "loox",
+    "rebuy"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 2,
+   "n_variantes": 2,
+   "preco_min": 38.95,
+   "preco_mediana": 38.95,
+   "preco_max": 38.95,
+   "primeiro_produto": "2026-07-26",
+   "ultimo_produto": "2026-08-12",
+   "vendors": [
+    "WoofBall"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "The WoofBall",
+     "handle": "the-woofball",
+     "preco": 38.95,
+     "publicado": "2026-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0740/0911/6863/files/Capture_d_ecran_le_2025-11-13_a_15.36.09.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "WoofBall - [Free Today]",
+     "handle": "woofball",
+     "preco": 0.0,
+     "publicado": "2026-07-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0740/0911/6863/files/hf_20260720_012629_96370877-66da-4362-aeba-e7f559be43f2.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 4,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "britishpets.uk": {
+  "dominio": "britishpets.uk",
+  "coletado_em": "2026-08-28T14:59:34",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtm",
+    "judge.me",
+    "pinterest"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 1150,
+   "preco_min": 2.95,
+   "preco_mediana": 11.95,
+   "preco_max": 104.95,
+   "primeiro_produto": "2025-05-22",
+   "ultimo_produto": "2026-08-23",
+   "vendors": [
+    "British Pets"
+   ],
+   "tipos": [
+    "",
+    "personalized",
+    "Dog Toys",
+    "for cats and fo dogs",
+    "Leashes and harnesses",
+    "Care and More",
+    "Dog toy",
+    "Dog Toy",
+    "Dog Bed",
+    "Drinking and FoodBowls"
+   ],
+   "produtos": [
+    {
+     "titulo": "Modern Wooden Moon & Star Wall-Mounted Cat Climbing Shelves & Bed Set",
+     "handle": "modern-wooden-moon-star-wall-mounted-cat-climbing-shelves-bed-set",
+     "preco": 16.95,
+     "publicado": "2026-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_ChatGPT_Images_2.0_Edit_2026-08-23_13-54-02.png",
+     "tipo": "Cat bed"
+    },
+    {
+     "titulo": "2-in-1 Interactive Play Cat Bed & Scratcher Hideaway",
+     "handle": "2-in-1-interactive-play-cat-bed-scratcher-hideaway",
+     "preco": 12.95,
+     "publicado": "2026-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/2ndWEAVYJENLATEST_ChatGPTImages2.0Edit_2026-08-23_07-00-21.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Durable Woven Ring Tug & Chew Toy for Dogs",
+     "handle": "durable-woven-ring-tug-chew-toy-for-dogs",
+     "preco": 7.95,
+     "publicado": "2026-08-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_ChatGPT_Images_2.0_Edit_2026-08-22_14-17-55.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Waterproof Pet Blanket – Dual-Sided Couch & Furniture Protector",
+     "handle": "waterproof-pet-blanket-dual-sided-couch-furniture-protector",
+     "preco": 10.95,
+     "publicado": "2026-08-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_ChatGPT_Images_2.0_Edit_2026-08-19_01-00-44.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cat Deshedding Undercoat Rake – Extra-Wide Grooming Tool for Loose Fur & Long Hair",
+     "handle": "cat-deshedding-undercoat-rake-extra-wide-grooming-tool-for-loose-fur-long-hair",
+     "preco": 3.95,
+     "publicado": "2026-08-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/JuvelynnewChatGpt_ChatGPTImages2.0Edit_2026-08-18_16-18-22.png",
+     "tipo": "Care and More"
+    },
+    {
+     "titulo": "Interactive Kangaroo Boxing Hand Puppet Cat Toy",
+     "handle": "interactive-kangaroo-boxing-hand-puppet-cat-toy",
+     "preco": 8.95,
+     "publicado": "2026-08-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/JUVYchatgpt_ChatGPTImages2.0Edit_2026-08-18_09-08-04.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Fluffy Cloud Pet Sofa Bed with Soft Bolsters & Washable Cover",
+     "handle": "fluffy-cloud-pet-sofa-bed-with-soft-bolsters-washable-cover",
+     "preco": 14.95,
+     "publicado": "2026-08-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/paw.png",
+     "tipo": "Dog Bed"
+    },
+    {
+     "titulo": "Foldable Spiral Cat Play Tunnel with Hanging Bell",
+     "handle": "foldable-spiral-cat-play-tunnel-with-hanging-bell",
+     "preco": 6.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_Gemini_3_Nano_Banana_Pro__2026-08-14_06-14-21.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Hands-Free Interactive Cat Wand Toy with Natural Feathers & Suction Cup",
+     "handle": "hands-free-interactive-cat-wand-toy-with-natural-feathers-suction-cup",
+     "preco": 4.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/JUVYchatgpt_ChatGPTImages2.0Edit_2026-08-18_02-44-23.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Safe Small Dog & Cat Car Travel Carrier with Safety Leash & Non-Slip Base",
+     "handle": "safe-small-dog-cat-car-travel-carrier-with-safety-leash-non-slip-base",
+     "preco": 19.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_ChatGPTImages2.0Edit_2026-08-17_11-12-01.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Dog Dental Cleaning Foam – Brighter Teeth & Fresh Breath",
+     "handle": "dog-dental-cleaning-foam-brighter-teeth-fresh-breath",
+     "preco": 4.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/karren_new_chatGPT_ChatGPTImages2.0Edit_2026-08-18_04-06-20.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Luxury Elevated Solid Wood Dog Couch Bed",
+     "handle": "luxury-elevated-solid-wood-dog-couch-bed",
+     "preco": 34.95,
+     "publicado": "2026-08-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/mine_po_SHIERYL_NEW_ChatGPT_Images_2.0_Edit_2026-08-13_14-54-12.png",
+     "tipo": "Dog Bed"
+    },
+    {
+     "titulo": "Durable Squeaky Muscle Buddy Dog Toy",
+     "handle": "durable-squeaky-muscle-buddy-dog-toy",
+     "preco": 6.95,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/bvhero2.png",
+     "tipo": "Dog Toys"
+    },
+    {
+     "titulo": "Squeaky Latex Deer Chew Dog Toy",
+     "handle": "squeaky-latex-deer-chew-dog-toy",
+     "preco": 5.95,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/AngeloChatgpt_ChatGPTImages2.0Edit_2026-08-11_06-01-49.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Interactive Chew & Squeak Animal Dog Toy",
+     "handle": "interactive-chew-squeak-animal-dog-toy",
+     "preco": 7.95,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/brih1.png",
+     "tipo": "Dog Toys"
+    },
+    {
+     "titulo": "Flexible Animal-Shaped Dog Chew Toy",
+     "handle": "flexible-animal-shaped-dog-chew-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/WEAVY_JEN_LATEST_ChatGPT_Images_2.0_Edit_2026-08-10_08-40-57.png",
+     "tipo": "Dog Toys"
+    },
+    {
+     "titulo": "Christmas Catnip Rope Teaser Cat Toy",
+     "handle": "christmas-catnip-rope-teaser-cat-toy",
+     "preco": 3.95,
+     "publicado": "2026-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/KARREN_CHATGPT_NEW_ChatGPT_Images_2.0_Edit_2026-08-10_03-40-13.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Cute Squeaky Ocean Animal Dog Toy",
+     "handle": "cute-squeaky-ocean-animal-dog-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/Elayy_SHIERYL_NEW_1_Gemini_3_Nano_Banana_Pro__2026-08-10_03-38-53.png",
+     "tipo": "Dog toy"
+    },
+    {
+     "titulo": "Durable Eco-Friendly Monster Teeth Cleaning Latex Squeaky Dog Toy",
+     "handle": "durable-eco-friendly-monster-teeth-cleaning-latex-squeaky-dog-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/p2.1..png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Interactive Squeaky Giraffe Toy for Dogs",
+     "handle": "interactive-squeaky-giraffe-toy-for-dogs",
+     "preco": 4.95,
+     "publicado": "2026-08-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/Micko_1_CHATGPT_ChatGPT_Images_2.0_Edit_2026-08-09_03-59-45.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Cute Latex Chew & Squeak Dog Toy",
+     "handle": "cute-latex-chew-squeak-dog-toy",
+     "preco": 6.95,
+     "publicado": "2026-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/Micko_1_CHATGPT_ChatGPT_Images_2.0_Edit_2026-08-08_15-11-33.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Interactive Squeaky Slipper Dog Chew Toy",
+     "handle": "interactive-squeaky-slipper-dog-chew-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/KARREN_CHATGPT_NEW_ChatGPT_Images_2.0_Edit_2026-08-08_10-00-28.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Durable Natural Monster Latex Dental Squeaky Dog Toy",
+     "handle": "durable-natural-monster-latex-dental-squeaky-dog-toy",
+     "preco": 3.95,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/KARREN_CHATGPT_NEW_ChatGPT_Images_2.0_Edit_2026-07-28_22-25-18.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Durable Squeaky Hammer Chew Toy for Dogs",
+     "handle": "durable-squeaky-hammer-chew-toy-for-dogs",
+     "preco": 9.95,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/KARREN_CHATGPT_NEW_ChatGPT_Images_2.0_Edit_2026-08-07_13-44-49.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Interactive Chew & Squeak Puppy Toy",
+     "handle": "interactive-chew-squeak-puppy-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0900/9525/5883/files/KARREN_CHATGPT_NEW_ChatGPT_Images_2.0_Edit_2026-08-04_10-53-58_b79d4a69-d9fa-4bba-8b13-083222a7d99e.png",
+     "tipo": ""
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 6,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "pets-dreams.uk": {
+  "dominio": "pets-dreams.uk",
+  "coletado_em": "2026-08-28T14:59:44",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "klarna",
+    "klaviyo",
+    "pinterest"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 1065,
+   "preco_min": 2.95,
+   "preco_mediana": 11.95,
+   "preco_max": 109.95,
+   "primeiro_produto": "2025-03-25",
+   "ultimo_produto": "2026-08-26",
+   "vendors": [
+    "pets-dreams.uk",
+    "pets-drteams.uk"
+   ],
+   "tipos": [
+    "",
+    "Dog Toys",
+    "Care and More",
+    "Trinking and food",
+    "Dog Toy",
+    "Dog Bed",
+    "Trimmer",
+    "Dog Beds",
+    "Brush",
+    "Furniture Protection"
+   ],
+   "produtos": [
+    {
+     "titulo": "Waterproof Pet Blanket – Dual-Sided Couch & Furniture Protector",
+     "handle": "waterproof-pet-blanket-dual-sided-couch-furniture-protector",
+     "preco": 10.95,
+     "publicado": "2026-08-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/New_Zealand_Pets_-_Junichi_ChatGPT_Images_2.0_Edit_2026-08-20_12-29-24.png",
+     "tipo": "Furniture Protection"
+    },
+    {
+     "titulo": "2-in-1 Interactive Play Cat Bed & Scratcher Hideaway",
+     "handle": "2-in-1-interactive-play-cat-bed-scratcher-hideaway",
+     "preco": 12.95,
+     "publicado": "2026-08-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Francis_Board_Gemini_3.1_Flash_Nano_Banana_2__2026-08-22_15-36-54.png",
+     "tipo": "Cat bed"
+    },
+    {
+     "titulo": "Modern Wooden Moon & Star Wall-Mounted Cat Climbing Shelves & Bed Set",
+     "handle": "modern-wooden-moon-star-wall-mounted-cat-climbing-shelves-bed-set",
+     "preco": 16.95,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/NN.png",
+     "tipo": "Cat bed"
+    },
+    {
+     "titulo": "Christmas Catnip Rope Teaser Cat Toy",
+     "handle": "christmas-catnip-rope-teaser-cat-toy",
+     "preco": 3.95,
+     "publicado": "2026-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/cbthero.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "2-in-1 Silicone Pet Bath & Massage Brush with Shampoo Dispenser",
+     "handle": "2-in-1-silicone-pet-bath-massage-brush-with-shampoo-dispenser",
+     "preco": 4.95,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Jessa_Gemini_3_Nano_Banana_Pro__2026-08-15_16-52-14.png",
+     "tipo": "Care and More"
+    },
+    {
+     "titulo": "360° Interactive Self-Play Cat Teaser",
+     "handle": "360-interactive-self-play-cat-teaser",
+     "preco": 4.95,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/reachhero.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Cat Deshedding Undercoat Rake – Extra-Wide Grooming Tool for Loose Fur & Long Hair",
+     "handle": "this-pet-comb-has-an-arc-shape-and-can-be-used-to-detangle-and-remove-loose-fur-its-made-of-plastic-and-suitable-for-cats-and-dogs-its-a-small-sized-detangling-comb-for-short-fur",
+     "preco": 3.95,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/New-Raniel_HeroImage_2026-08-19_00-14-15.png",
+     "tipo": "Brush"
+    },
+    {
+     "titulo": "Safe Small Dog & Cat Car Travel Carrier with Safety Leash & Non-Slip Base",
+     "handle": "safe-small-dog-cat-car-travel-carrier-with-safety-leash-non-slip-base",
+     "preco": 19.95,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/bagdoghero_f9e9565c-edfc-488f-b21c-e473024265c2.png",
+     "tipo": "For Cars"
+    },
+    {
+     "titulo": "Dog Dental Cleaning Foam – Brighter Teeth & Fresh Breath",
+     "handle": "dog-dental-cleaning-foam-brighter-teeth-fresh-breath",
+     "preco": 4.95,
+     "publicado": "2026-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Hero_1.png",
+     "tipo": "Care and More"
+    },
+    {
+     "titulo": "Interactive Kangaroo Boxing Hand Puppet Cat Toy",
+     "handle": "interactive-kangaroo-boxing-hand-puppet-cat-toy",
+     "preco": 8.95,
+     "publicado": "2026-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/ChatGPT_Image_Aug_20_2026_07_29_01_AM.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Cute Latex Chew & Squeak Dog Toy",
+     "handle": "cute-latex-chew-squeak-dog-toy",
+     "preco": 6.95,
+     "publicado": "2026-08-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/ChatGPTImageJul31_2026_01_27_10PM.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Hands-Free Interactive Cat Wand Toy with Natural Feathers & Suction Cup",
+     "handle": "hands-free-interactive-cat-wand-toy-with-natural-feathers-suction-cup",
+     "preco": 4.95,
+     "publicado": "2026-08-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/ChatGPT_Image_Aug_18_2026_07_58_42_PM.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Durable Squeaky Muscle Buddy Dog Toy",
+     "handle": "durable-squeaky-muscle-buddy-dog-toy",
+     "preco": 6.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Migz_Duplicate_2__Gemini_3_Nano_Banana_Pro__2026-08-08_09-32-07.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Interactive Chew & Squeak Animal Dog Toy",
+     "handle": "interactive-chew-squeak-animal-dog-toy",
+     "preco": 7.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Migz_Duplicate_2__Gemini_3_Nano_Banana_Pro__2026-07-31_10-12-28.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Foldable Spiral Cat Play Tunnel with Hanging Bell",
+     "handle": "foldable-spiral-cat-play-tunnel-with-hanging-bell",
+     "preco": 6.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Migzduplicate_Gemini3_NanoBananaPro__2026-08-15_05-01-51.png",
+     "tipo": "Cat toy"
+    },
+    {
+     "titulo": "Fluffy Cloud Pet Sofa Bed with Soft Bolsters & Washable Cover",
+     "handle": "fluffy-cloud-pet-sofa-bed-with-soft-bolsters-washable-cover",
+     "preco": 14.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Jessa_Gemini_3_Nano_Banana_Pro__2026-08-16_05-51-35.png",
+     "tipo": "Dog Bed"
+    },
+    {
+     "titulo": "Luxury Elevated Solid Wood Dog Couch Bed",
+     "handle": "luxury-elevated-solid-wood-dog-couch-bed",
+     "preco": 34.95,
+     "publicado": "2026-08-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/ChatGPT_Image_Aug_18_2026_05_23_37_AM.png",
+     "tipo": "Dog Bed"
+    },
+    {
+     "titulo": "Interactive Squeaky Slipper Dog Chew Toy",
+     "handle": "interactive-squeaky-slipper-dog-chew-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/a1e4590e-df03-498f-ad2f-6baa8312a739.png",
+     "tipo": "Chew Toys"
+    },
+    {
+     "titulo": "Squeaky Latex Deer Chew Dog Toy",
+     "handle": "squeaky-latex-deer-chew-dog-toy",
+     "preco": 5.95,
+     "publicado": "2026-08-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/ChatGPTImageAug1_2026_11_20_58PM.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Interactive Squeaky Giraffe Toy for Dogs",
+     "handle": "interactive-squeaky-giraffe-toy-for-dogs",
+     "preco": 4.95,
+     "publicado": "2026-08-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/nawa1.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Flexible Animal-Shaped Dog Chew Toy",
+     "handle": "flexible-animal-shaped-dog-chew-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Cherrynew_Gemini3.1Flash_NanoBanana2__2026-08-02_08-27-29.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Durable Eco-Friendly Monster Teeth Cleaning Latex Squeaky Dog Toy",
+     "handle": "durable-eco-friendly-monster-teeth-cleaning-latex-squeaky-dog-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/PD-HERO_83afe4ce-79b2-43d2-a989-12eef2f0fa81.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Colorful Squeaky Donut Dog Toy",
+     "handle": "colorful-squeaky-donut-dog-toy",
+     "preco": 3.95,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Cherry_new_Gemini_3.1_Flash_Nano_Banana_2__2026-07-29_15-03-18.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Interactive Chew & Squeak Puppy Toy",
+     "handle": "interactive-chew-squeak-puppy-toy",
+     "preco": 4.95,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Jessa_Gemini_3_Nano_Banana_Pro__2026-07-28_14-28-46.png",
+     "tipo": "Dog Toy"
+    },
+    {
+     "titulo": "Durable Squeaky Hammer Chew Toy for Dogs",
+     "handle": "durable-squeaky-hammer-chew-toy-for-dogs",
+     "preco": 9.95,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Cherrynew_Gemini3.1Flash_NanoBanana2__2026-08-05_08-07-37.png",
+     "tipo": "Dog Toy"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "rank_atual": 821367,
+   "rank_antigo": 1320954,
+   "dias": 39,
+   "variacao": 499587,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "customlickmats.com": {
+  "dominio": "customlickmats.com",
+  "coletado_em": "2026-08-28T14:59:55",
+  "identificacao": {
+   "plataforma": "woocommerce",
+   "apps": [
+    "bold"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.instagram.com/customlickmats"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "customlickmats": {
+    "seguidores": "457",
+    "posts": "42",
+    "raw": "457 Followers, 236 Following, 42 Posts - See Instagram photos and videos from Custom Lick Mats (&#064;customlickmats)"
+   }
+  }
+ },
+ "brambleandpaw.co.uk": {
+  "dominio": "brambleandpaw.co.uk",
+  "coletado_em": "2026-08-28T15:00:59",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "gtm",
+    "judge.me",
+    "klarna",
+    "pinterest",
+    "recharge"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/share/1lewskxptu",
+    "https://www.instagram.com/brambleandpaww"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 39,
+   "n_variantes": 251,
+   "preco_min": 1.99,
+   "preco_mediana": 19.99,
+   "preco_max": 599.0,
+   "primeiro_produto": "2026-07-09",
+   "ultimo_produto": "2026-08-28",
+   "vendors": [
+    "Gor pets",
+    "My Store",
+    "Bramble and Paw"
+   ],
+   "tipos": [
+    "",
+    "Beds",
+    "Feeder",
+    "Accessories"
+   ],
+   "produtos": [
+    {
+     "titulo": "4L Automatic  Feeder With Timer for Dog and Cat",
+     "handle": "4l-pet-automatic-feeder-with-timer",
+     "preco": 39.99,
+     "publicado": "2026-08-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/e285d889-7857-4d0d-8c24-6ee01f5ebd86.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Smart MAX Fully Automatic Cat Litter Box Large Electric Fully Enclosed",
+     "handle": "smart-max-fully-automatic-cat-litter-box-large-electric-fully-enclosed",
+     "preco": 599.0,
+     "publicado": "2026-08-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/smart-max-fully-automatic-cat-litter-box-large-electric-fully-enclosed-2703622.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "7L Smart Pet Feeder with 2K Camera — App-Controlled Automatic Feeder for Cats & Dogs",
+     "handle": "7l-smart-pet-feeder-2k-camera-laser-automatic-cat-dog-feeder",
+     "preco": 94.99,
+     "publicado": "2026-08-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/7l-smart-pet-feeder-with-2k-camera-app-controlled-automatic-feeder-for-cats-dogs-5973270.jpg",
+     "tipo": "Feeder"
+    },
+    {
+     "titulo": "Reusable Pet Hair Remover Mitt – Washable Lint & Fur Remover Glove for Cats, Dogs, Furniture & Car Seats",
+     "handle": "reusable-pet-hair-remover-mitt-washable-lint-fur-remover-glove-for-cats-dogs-furniture-car-seats",
+     "preco": 7.99,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/reusable-pet-hair-remover-mitt-washable-lint-fur-remover-glove-for-cats-dogs-furniture-car-seats-1527634.png",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "3-in-1 Insulated Dog Water Bottle – Portable Pet Travel Bottle with Food & Water Bowls, Leakproof & BPA-Free",
+     "handle": "3-in-1-insulated-dog-water-bottle-portable-pet-travel-bottle-with-food-water-bowls-leakproof-bpa-free",
+     "preco": 16.99,
+     "publicado": "2026-08-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/3-in-1-insulated-dog-water-bottle-portable-pet-travel-bottle-with-food-water-bowls-leakproof-bpa-free-9261493.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Self-Cooling Ice Silk Pet Mat — No Water or Freezing Needed",
+     "handle": "pet-ice-mat-summer-pet-mat-dog-mat-cat-cooling-mat-pet-supplies-pet-cooling-supplies-pet-mat",
+     "preco": 11.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/self-cooling-ice-silk-pet-mat-no-water-or-freezing-needed-7073184.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Raised Pet Feeding Stand — Double Stainless Steel Bowls for Cats & Small Dogs",
+     "handle": "large-dog-food-feeding-stand-station-stainless-double-raised-bowls-steel-holder",
+     "preco": 29.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/raised-pet-feeding-stand-double-stainless-steel-bowls-for-cats-small-dogs-9934920.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Dog Ball Throwing Machine Dogs Automatic Ball Launcher Indoor Outdoor",
+     "handle": "dog-ball-throwing-machine-dogs-automatic-ball-launcher-indoor-outdoor",
+     "preco": 44.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/dog-ball-throwing-machine-dogs-automatic-ball-launcher-indoor-outdoor-2098861.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Silicone Lick Mat For Pet Dogs Slow Food Plate",
+     "handle": "silicone-lick-mat-for-pet-dogs-slow-food-plate",
+     "preco": 14.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/silicone-lick-mat-for-pet-dogs-slow-food-plate-8006078.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Light Retractable Pet Lead",
+     "handle": "3-and-5m-dog-leash-light-retractable-pet-leads",
+     "preco": 19.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/light-retractable-pet-lead-8987170.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Comb Grooming Scrubber Shower Brush For Bathing Pets",
+     "handle": "comb-grooming-scrubber-shower-brush-for-bathing-pets",
+     "preco": 15.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/comb-grooming-scrubber-shower-brush-for-bathing-pets-7860708.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Pet Grooming Self Cleaning Slicker Brush For Dogs Cats Puppy Rabbit",
+     "handle": "pet-grooming-self-cleaning-slicker-brush-for-dogs-cats-puppy-rabbit",
+     "preco": 19.99,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/pet-grooming-self-cleaning-slicker-brush-for-dogs-cats-puppy-rabbit-1428014.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Automatic Explore Retractable Dog Leash Pet Traction Rope 5M",
+     "handle": "automatic-explore-retractable-dog-leash-pet-traction-rope-5m",
+     "preco": 21.0,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/automatic-explore-retractable-dog-leash-pet-traction-rope-5m-7327882.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Adjustable Pet Cat Dog Car Seat Belt",
+     "handle": "adjustable-pet-cat-dog-car-seat-belt",
+     "preco": 9.99,
+     "publicado": "2026-07-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/adjustable-pet-cat-dog-car-seat-belt-7742860.jpg",
+     "tipo": "Accessories"
+    },
+    {
+     "titulo": "Gravity Pet Feeder & Water Dispenser — 2-in-1, No Electricity",
+     "handle": "automatic-pet-feeder-smart-food-dispenser-for-cats-dogs",
+     "preco": 28.99,
+     "publicado": "2026-07-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/gravity-pet-feeder-water-dispenser-2-in-1-no-electricity-1872493.jpg",
+     "tipo": "Feeder"
+    },
+    {
+     "titulo": "Furry Poop Bag Dispensers",
+     "handle": "furry-poop-bag-dispensers",
+     "preco": 9.99,
+     "publicado": "2026-07-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/furry-poop-bag-dispensers-5299324.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Glacier Blue Gel-Free Ice-Silk Cooling Pad",
+     "handle": "dog-cooling-mat-large-100-75-cm-glacier-blue-gel-free-ice-silk-cooling-pad-machine-washable-waterproof-summer-pet-cool-bed-for-dogs-cats",
+     "preco": 19.99,
+     "publicado": "2026-07-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/glacier-blue-gel-free-ice-silk-cooling-pad-7997156.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Super Fluffy Round Dog Bed \"32\"",
+     "handle": "super-fluffy-round-dog-bed-32",
+     "preco": 39.99,
+     "publicado": "2026-07-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/super-fluffy-round-dog-bed-32-2629649.jpg",
+     "tipo": "Beds"
+    },
+    {
+     "titulo": "Rosewood Fur Blue Box Dog Bed",
+     "handle": "rosewood-fur-blue-box-dog-bed",
+     "preco": 30.99,
+     "publicado": "2026-07-16",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/rosewood-fur-blue-box-dog-bed-1595001.jpg",
+     "tipo": "Beds"
+    },
+    {
+     "titulo": "Transport Box Expedion with Plastic Door Pet Carrier",
+     "handle": "transport-box-expedion-with-plastic-door-pet-carrier",
+     "preco": 25.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/transport-box-expedion-with-plastic-door-pet-carrier-6468457.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Retractable Viva Lead",
+     "handle": "retractable-viva-lead",
+     "preco": 19.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/retractable-viva-lead-7322097.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Sport Reflective Training Long Lead",
+     "handle": "sport-reflective-training-long-lead-10m",
+     "preco": 22.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/sport-reflective-training-long-lead-7408026.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Savic Puppy Trainer Pads - 30 Pads",
+     "handle": "savic-puppy-trainer-pads-medium-30-pads",
+     "preco": 14.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/savic-puppy-trainer-pads-30-pads-2275030.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Biodegrade Poo Bag 4X20 Rolls",
+     "handle": "biodegrade-poo-bag-4x20-rolls",
+     "preco": 4.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/biodegrade-poo-bag-4x20-rolls-8491231.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Degradable Dog Poo Bag 100pc",
+     "handle": "degradable-dog-poo-bag-100pc",
+     "preco": 4.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/1003/5970/0854/files/degradable-dog-poo-bag-100pc-1595196.webp",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "brambleandpaww": {
+    "seguidores": "67",
+    "posts": "7",
+    "raw": "67 Followers, 115 Following, 7 Posts - See Instagram photos and videos from Bramble and Paw (&#064;brambleandpaww)"
+   }
+  }
+ },
+ "meetingthemneeds.com": {
+  "dominio": "meetingthemneeds.com",
+  "coletado_em": "2026-08-28T15:01:09",
+  "identificacao": {
+   "erro": "home inacessivel"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "marlenespetshop.com": {
+  "dominio": "marlenespetshop.com",
+  "coletado_em": "2026-08-28T15:01:16",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gtag",
+    "gtm",
+    "klaviyo",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/marlenespetshop",
+    "https://instagram.com/marlenespetshop"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 129,
+   "n_variantes": 141,
+   "preco_min": 0.5,
+   "preco_mediana": 39.99,
+   "preco_max": 550.0,
+   "primeiro_produto": "2024-05-24",
+   "ultimo_produto": "2026-08-25",
+   "vendors": [
+    "Marlene's Pet Shop"
+   ],
+   "tipos": [
+    "",
+    "cat toy",
+    "toys"
+   ],
+   "produtos": [
+    {
+     "titulo": "Kitty Kurlz™",
+     "handle": "kitty-kurlz-the-interactive-mental-physical-exercise-for-cats-toy-club",
+     "preco": 29.99,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/KittyWheelzMarlenesPetShop2.jpg",
+     "tipo": "toys"
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz-buy-2-get-2-free-kk24",
+     "preco": 59.99,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_2cc7ecfe-5752-4efb-bf29-21feeb351c4d.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz-buy-1-get-1-free-kk24",
+     "preco": 29.99,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_329aed1d-0c69-4657-bfbb-c066a83cc73d.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Wireless Stainless Steel Water Fountain + Filters",
+     "handle": "wireless-fountain-bundle",
+     "preco": 89.99,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/1_c47931f2-3a5b-43b0-9841-1c275a935eb8.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "First Filter Pack",
+     "handle": "first-filter-pack",
+     "preco": 24.99,
+     "publicado": "2026-08-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/4_ee2a30ca-31e5-468d-9762-c70dd09b5f47.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "SUMU Cave™",
+     "handle": "sumu-cave™-copy",
+     "preco": 266.63,
+     "publicado": "2026-08-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/5_e13f7719-2723-4ff7-8b8c-0cb591aeca0b.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Wireless Stainless Steel Water Fountain",
+     "handle": "wireless-stainless-steel-water-fountain",
+     "preco": 149.99,
+     "publicado": "2026-08-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/1_c47931f2-3a5b-43b0-9841-1c275a935eb8.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "dont ship",
+     "handle": "dont-ship",
+     "preco": 0.5,
+     "publicado": "2026-08-17",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz-subscription-buy-2-get-2-free",
+     "preco": 59.99,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/b2g2-active.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz-subscription-buy-1-get-1-free",
+     "preco": 29.99,
+     "publicado": "2026-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/b1g1-active.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-6",
+     "preco": 119.96,
+     "publicado": "2026-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_b7fd1708-ebc0-4e58-b0ba-3422c74c93d0.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz™-buy-1-get-1-free-6",
+     "preco": 59.98,
+     "publicado": "2026-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_4e87ac7e-bd82-427c-a70a-2206f64b59dd.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Subscription Test (internal)",
+     "handle": "subscription-test-internal",
+     "preco": 1.0,
+     "publicado": "2026-08-05",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-5",
+     "preco": 59.99,
+     "publicado": "2026-07-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_a02de5ce-87b8-4e84-8549-efc67c1fbeae.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz™-buy-1-get-1-free-5",
+     "preco": 29.99,
+     "publicado": "2026-07-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_cdc1dfe4-ba91-4acf-bd64-b6cafa23c050.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-4",
+     "preco": 59.99,
+     "publicado": "2026-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_87cfbeb6-9cd3-4b10-a18b-631796da834a.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz™-buy-1-get-1-free-4",
+     "preco": 29.99,
+     "publicado": "2026-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_f592d84f-77b0-4309-89be-41c02e564a4b.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™",
+     "handle": "kitty-kurlz-scratcher-toy-driving-cats-wild",
+     "preco": 29.99,
+     "publicado": "2026-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/KittyWheelzMarlenesPetShop2.jpg",
+     "tipo": "toys"
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-3",
+     "preco": 59.99,
+     "publicado": "2026-07-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_7fd0654b-43c2-4dff-878f-84dc20faeb21.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz™-buy-1-get-1-free-3",
+     "preco": 29.99,
+     "publicado": "2026-07-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_8c4344c8-91f8-4bc3-8be1-cb7ef9d78b00.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-2",
+     "preco": 59.99,
+     "publicado": "2026-07-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_16f29196-4750-4f7a-a239-a6fa447a4860.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 1 GET 1 FREE]",
+     "handle": "kitty-kurlz™-buy-1-get-1-free-2",
+     "preco": 29.99,
+     "publicado": "2026-07-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/new-bundle-kitty-kurlz-feature-image_4a7a7216-8251-4131-8bee-a4f8da85f6dc.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Kitty Kurlz™",
+     "handle": "kitty-kurlz-the-interactive-mental-physical-exercise-for-cats-tariffs",
+     "preco": 29.99,
+     "publicado": "2026-07-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/KittyWheelzMarlenesPetShop2.jpg",
+     "tipo": "toys"
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz-buy-2-get-2-free-kk16",
+     "preco": 59.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_b4e547ce-91a3-4587-bc45-10325b8e29ba.png",
+     "tipo": "toys"
+    },
+    {
+     "titulo": "Kitty Kurlz™ [BUY 2 GET 2 FREE]",
+     "handle": "kitty-kurlz™-buy-2-get-2-free-1",
+     "preco": 59.99,
+     "publicado": "2026-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/0194/5677/files/BOGOx2_718ea314-9102-463f-8d2e-6e6c205a15da.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "rank_atual": 1442033,
+   "rank_antigo": 1492367,
+   "dias": 39,
+   "variacao": 50334,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 17,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "marlenespetshop": {
+    "seguidores": "51K",
+    "posts": "36",
+    "raw": "51K Followers, 5 Following, 36 Posts - See Instagram photos and videos from Marlenes Pet Shop (&#064;marlenespetshop)"
+   }
+  }
+ },
+ "get-whisk.com": {
+  "dominio": "get-whisk.com",
+  "coletado_em": "2026-08-28T15:01:26",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "judge.me",
+    "klarna",
+    "pinterest",
+    "shoppay",
+    "triplewhale",
+    "upcart"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 3,
+   "n_variantes": 7,
+   "preco_min": 19.9,
+   "preco_mediana": 25.9,
+   "preco_max": 59.9,
+   "primeiro_produto": "2026-07-30",
+   "ultimo_produto": "2026-08-12",
+   "vendors": [
+    "Whisk Uk "
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "Whisk Hair Remover Glove",
+     "handle": "whisk-anti-hair-gloves",
+     "preco": 19.9,
+     "publicado": "2026-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0954/8677/1585/files/Captured_ecran2026-08-12a16.37.41.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "The Whisk Giant Play Ball",
+     "handle": "the-whisk-giant-play-ball",
+     "preco": 39.9,
+     "publicado": "2026-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0954/8677/1585/files/Editorial_studio_photograph_for_a_premium_British_-1786172741375.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Whisk Cooling Cat Mat",
+     "handle": "whisk-cooling-cat-mat",
+     "preco": 25.9,
+     "publicado": "2026-07-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0954/8677/1585/files/Captured_ecran2026-07-31a00.10.21_99dd1ac3-afa3-4f5d-95f2-4749a8832860.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "The Whisk Giant Play Ball",
+     "handle": "the-whisk-giant-play-ball",
+     "preco": 39.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0954/8677/1585/files/Editorial_studio_photograph_for_a_premium_British_-1786172741375.png"
+    },
+    {
+     "titulo": "Whisk Hair Remover Glove",
+     "handle": "whisk-anti-hair-gloves",
+     "preco": 19.9,
+     "imagem": "https://cdn.shopify.com/s/files/1/0954/8677/1585/files/Captured_ecran2026-08-12a16.37.41.png"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "pawzndogz.ca": {
+  "dominio": "pawzndogz.ca",
+  "coletado_em": "2026-08-28T15:01:32",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gtag",
+    "gtm",
+    "judge.me",
+    "pinterest",
+    "shoppay",
+    "tiktok",
+    "upcart"
+   ],
+   "pixel_meta": [
+    "376770392189480"
+   ],
+   "perfis_sociais": [
+    "https://www.facebook.com/pawzndogz",
+    "https://www.facebook.com/tr",
+    "https://www.instagram.com/pawzndogz",
+    "https://www.tiktok.com/@pawzndogz"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 44,
+   "n_variantes": 44,
+   "preco_min": 6.99,
+   "preco_mediana": 43.99,
+   "preco_max": 142.18,
+   "primeiro_produto": "2023-06-14",
+   "ultimo_produto": "2026-05-13",
+   "vendors": [
+    "LuvMyFido™",
+    "PawzNDogz™",
+    "PawzNDogz®"
+   ],
+   "tipos": [
+    "Snuffle Mats"
+   ],
+   "produtos": [
+    {
+     "titulo": "The Sizzler Bundle by LuvMyFido",
+     "handle": "the-sizzler-bundle-by-luvmyfido",
+     "preco": 59.99,
+     "publicado": "2026-05-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_1_8a7f4634-d536-4097-ab42-6737a9e2be68.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The East & West Bundle by LuvMyFido",
+     "handle": "the-east-west-by-luvmyfido",
+     "preco": 60.99,
+     "publicado": "2026-05-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_3.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The Exotic Food Bundle by LuvMyFido",
+     "handle": "exotic-food-bundle",
+     "preco": 88.99,
+     "publicado": "2026-05-13",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_7fc4363c-f10e-4f12-8830-749e24fa4783.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The Healthy Fruit Lick Mat Bundle",
+     "handle": "healthy-fruit-lickmat-bundle",
+     "preco": 35.98,
+     "publicado": "2026-04-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_1_2f2e078e-1957-4f1a-8321-21bcebeafa1b.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The Party Mix Lick Mat Bundle",
+     "handle": "the-party-mix-lick-mat-bundle",
+     "preco": 35.98,
+     "publicado": "2026-04-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_64d939f5-e9d8-490f-a887-16b644c87811.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Gourmet Delights™ by LuvMyFido",
+     "handle": "gourmet-delights™-by-luvmyfido-copy",
+     "preco": 34.99,
+     "publicado": "2026-03-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/1_48ddcdf8-4ff9-4fa5-8b01-54c9c20c24a9.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Dreamy Cupcake™ by LuvMyFido",
+     "handle": "dreamy-cupcake™-by-luvmyfido",
+     "preco": 31.99,
+     "publicado": "2026-03-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/1_a873f2bf-d804-4986-8765-0d2f45dff61e.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Cheesy Nachos™ by LuvMyFido",
+     "handle": "cheesy-nachos™-by-luvmyfido",
+     "preco": 32.99,
+     "publicado": "2026-03-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/1_86ef105a-0997-48cb-9eb5-4ce20428a49d.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Crispy Grapes™ Lick Mat & Spatula",
+     "handle": "crispy-grapes-lick-mat",
+     "preco": 19.99,
+     "publicado": "2026-03-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Gemini_Generated_Image_t614f4t614f4t614.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Buttery Avocado™ Lick Mat & Spatula",
+     "handle": "buttery-avocado-lick-mat",
+     "preco": 19.99,
+     "publicado": "2026-03-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Buttery_Avocado_8.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Glazed Donut™ Lick Mat & Spatula",
+     "handle": "glazed-donut-lick-mat",
+     "preco": 19.99,
+     "publicado": "2026-03-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Glazed_Donut_8.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Herby Pizza™ Lick Mat & Spatula",
+     "handle": "herby-pizza-lick-mat",
+     "preco": 19.99,
+     "publicado": "2026-03-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Herby_Pizza_8.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Creamy Hazelnut Lick Mat",
+     "handle": "creamy-hazelnut-lick-pad",
+     "preco": 10.99,
+     "publicado": "2026-03-15",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Pawzndogz_Lick_mat_8.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Yak Cheese Puffs for Dogs – Blueberry",
+     "handle": "yak-cheese-puffs-for-dogs-blueberry",
+     "preco": 14.99,
+     "publicado": "2026-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Yak_Cheese_Puffs_-_Blueberry.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Yak Cheese Puffs for Dogs – Pumpkin",
+     "handle": "yak-cheese-puffs-for-dogs-pumpkin",
+     "preco": 14.99,
+     "publicado": "2026-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Yak_Cheese_Puffs_-_Pumpkin.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Yak Cheese Puffs for Dogs – Original",
+     "handle": "yak-cheese-puffs-for-dogs-original",
+     "preco": 14.99,
+     "publicado": "2026-02-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Yak_Cheese_Puffs_-_Original.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The SeaFood Bundle by LuvMyFido",
+     "handle": "seafood-bundle-by-luvmyfido",
+     "preco": 57.99,
+     "publicado": "2025-12-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_2.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Sassy Stingray by LuvMyFido",
+     "handle": "sassy-stingray-by-luvmyfido",
+     "preco": 30.99,
+     "publicado": "2025-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/LMF2024001_1.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Juicy Hamburger by LuvMyFido",
+     "handle": "juicy-hamburger-by-luvmyfido",
+     "preco": 34.99,
+     "publicado": "2025-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/LMF2024003_1.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Hot Sushi Roll by LuvMyFido",
+     "handle": "hot-sushi-roll-by-luvmyfido",
+     "preco": 32.99,
+     "publicado": "2025-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/LMF2024002_1.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The Kitty Bundle | Level 1",
+     "handle": "the-kitty-bundle-level-1",
+     "preco": 51.99,
+     "publicado": "2025-07-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Product_Bundles_1.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Mesh Laundry Bag for Snuffle Mats - XLarge",
+     "handle": "mesh-laundry-bag-for-snuffle-mats-xlarge",
+     "preco": 8.99,
+     "publicado": "2025-05-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Mesh_Laundry_Bag_4.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "Mesh Laundry Bag for Snuffle Mats - Large",
+     "handle": "mesh-laundry-bag-for-snuffle-mats",
+     "preco": 6.99,
+     "publicado": "2025-05-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Mesh_Laundry_Bag_4.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "The Beauty & Utility Bundle | Level 3",
+     "handle": "delicious-avocado™-butterfly-bundle",
+     "preco": 142.18,
+     "publicado": "2025-05-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/ProductBundles_27e4fbc9-5331-4e76-b3ae-77aed94e77c4.png",
+     "tipo": "Snuffle Mats"
+    },
+    {
+     "titulo": "PawzNDogz Gift Card",
+     "handle": "pawzndogz-gift-card",
+     "preco": 25.0,
+     "publicado": "2024-12-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/PawzNDogzGiftCard.png",
+     "tipo": "Snuffle Mats"
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "bestsellers",
+   "produtos": [
+    {
+     "titulo": "Forbidden Grapes™ Snuffle Mat",
+     "handle": "pawzndogz™-forbidden-grapes-™-snuffle-mat-the-bamboozler-challenge-level-4",
+     "preco": 78.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Snuffle_Mats_with_Plastic_Negative_Logo_1.png"
+    },
+    {
+     "titulo": "Delicious Avocado™ AntiBite Snuffle Mat",
+     "handle": "pawzndogz™-delicious-avocado™-anti-bite-snuffle-mat-challenge-level-3",
+     "preco": 77.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Snuffle_Mats_with_Plastic_Negative_Logo_2.png"
+    },
+    {
+     "titulo": "Radiant Butterfly™ Snuffle Mat",
+     "handle": "pawzndogz™-radiant-butterfly™-snuffle-mat-challenge-level-3-for-large-dogs",
+     "preco": 79.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Butterfly_with_Plastic_Negative_Logo.png"
+    },
+    {
+     "titulo": "Divine Lotus™ AntiBite Snuffle Mat",
+     "handle": "pawzndogz™-divine-lotus™-anti-bite-snuffle-mat-challenge-level-3",
+     "preco": 56.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Lotus_with_Plastic_Negative_Logo.png"
+    },
+    {
+     "titulo": "Fire & Ice™ AntiBite (Fire) Snuffle Mat",
+     "handle": "pawzndogz™-fire-ice™-anti-bite-fire-snuffle-mat-challenge-level-2",
+     "preco": 49.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0768/9263/5436/files/Fire_with_Plastic_Negative_Logo.png"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 9,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "pawzndogz": {
+    "seguidores": "8,759",
+    "posts": "1,064",
+    "raw": "8,759 Followers, 3,085 Following, 1,064 Posts - See Instagram photos and videos from &#x1d477;&#x1d482;&#x1d498;&#x1d49b;&#x1d475;&#x1d46b;&#x1d490;&#x1d488;z&#"
+   }
+  }
+ }
+}

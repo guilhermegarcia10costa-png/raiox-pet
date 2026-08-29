@@ -1,0 +1,1474 @@
+{
+ "ruffrover.com": {
+  "dominio": "ruffrover.com",
+  "coletado_em": "2026-08-28T00:22:33",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "afterpay",
+    "bold",
+    "klaviyo",
+    "loox",
+    "stamped",
+    "triplewhale"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 24,
+   "n_variantes": 114,
+   "preco_min": 4.99,
+   "preco_mediana": 34.99,
+   "preco_max": 169.95,
+   "primeiro_produto": "2024-05-12",
+   "ultimo_produto": "2025-10-17",
+   "vendors": [
+    "RuffRover",
+    "DashDuff",
+    "Ruff Rover"
+   ],
+   "tipos": [
+    "",
+    "IA: Cart Add-On",
+    "UpCart - Shipping Protection"
+   ],
+   "produtos": [
+    {
+     "titulo": "RuffRover - Single Back Seat Extender",
+     "handle": "ruffrover-single-back-seat-extender",
+     "preco": 94.95,
+     "publicado": "2025-10-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover-SingleBackSeatExtenderLogo2_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "RuffRover - Plushy Booster Seat",
+     "handle": "ruff-rover-plushy-booster-seat",
+     "preco": 124.95,
+     "publicado": "2025-08-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover-PlushyBoosterSeat-BLACK2_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Portable Dog Stairs for RuffRover 2.0",
+     "handle": "portable-dog-stairs-for-ruffrover-2-0",
+     "preco": 149.99,
+     "publicado": "2025-07-05",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/PortableDogStairsforRuffRover22_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ruff Rover 2.0™ - Hard Bottom Back Seat Extender + (FREE Dog Bed)",
+     "handle": "ruff-rover-2-0™-hard-bottom-back-seat-extender-free-dog-bed-1",
+     "preco": 166.0,
+     "publicado": "2025-04-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover2.0_-HardBottomBackSeatExtenderDogBedLogo_1_bac8425e-39d8-4bd5-a13d-d83d3727760a.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ruff Rover 2.0™ - Hard Bottom Dog Car Seat Protector",
+     "handle": "ruff-rover-2-0™-hard-bottom-dog-car-seat-protector",
+     "preco": 141.25,
+     "publicado": "2025-04-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover2.0HardBottomDogCarSeatProtectorLogoFIXX_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ruff Rover Pup Passenger Seat Cover",
+     "handle": "ruffrover-passenger-seat-protector-cover",
+     "preco": 49.95,
+     "publicado": "2025-04-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRoverPupPassengerSeatProtectorCoverLOGOShadow-2_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "shipping-protection-3",
+     "preco": 4.99,
+     "publicado": "2025-04-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover_Shipping_Protection_1_841214ea-e92b-4bd7-853d-c80f37a97780.jpg",
+     "tipo": "IA: Cart Add-On"
+    },
+    {
+     "titulo": "VIP Skip The Line Shipping",
+     "handle": "vip-skip-the-line-shipping",
+     "preco": 9.99,
+     "publicado": "2024-11-29",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/VIPShip_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "GlowGuard™ Reflective Waterproof Dog Coat for All Seasons",
+     "handle": "glowguard-reflective-waterproof-dog-coat-for-all-seasons",
+     "preco": 29.95,
+     "publicado": "2024-10-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/Tacticpawdogcoat_1_1.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Doggy Goggies",
+     "handle": "doggy-goggies",
+     "preco": 34.99,
+     "publicado": "2024-10-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/Outdoor-Dog-Pet-Glasses-Dog-Fashion-Sports-Sunglasses-Adjustable-Strap-for-Travel-Skiing-and-Anti-FogPet_jpg.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Poochy Booties - Reflective Waterproof Boots",
+     "handle": "poochy-booties-reflective-waterproof-boots",
+     "preco": 29.99,
+     "publicado": "2024-10-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/4pcs-set-Pet-Dog-Shoes-Reflective-Waterproof-Dog-Boots-Warm-Snow-Rain-Pet-Booties-Anti-slip.jpg__1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "DoorGuard (2-Pack)",
+     "handle": "doorguard-2-pack",
+     "preco": 29.99,
+     "publicado": "2024-10-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/DoorGuard_2-Pack_glow2_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "The Ultimate Leash & Harness Combo",
+     "handle": "the-ultimate-leash-harness-combo",
+     "preco": 29.95,
+     "publicado": "2024-10-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/Harness_Leash20off_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ruff Rover Ultimate Accessories Value Pack",
+     "handle": "ruff-rover-ultimate-accessories-value-pack",
+     "preco": 79.95,
+     "publicado": "2024-10-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRoverValuePackAccessoriesGlow_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Luxe Dog Bed - For The RuffRover 2.0™",
+     "handle": "luxe-dog-bed-for-the-ruffrover-2-0",
+     "preco": 89.95,
+     "publicado": "2024-08-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/LuxeDogBed_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "shipping-protection-2",
+     "preco": 4.99,
+     "publicado": "2024-07-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/shipping-protection-v2_b49581cb-156f-43dc-bf32-f5c7c5f93ec0.png",
+     "tipo": "UpCart - Shipping Protection"
+    },
+    {
+     "titulo": "RuffRover 2.0™ - Hard Bottom Back Seat Extender + (FREE Dog Bed)",
+     "handle": "ruffrover-2-0™-hard-bottom-back-seat-extender-free-dog-bed",
+     "preco": 169.95,
+     "publicado": "2024-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover2.0_-HardBottomBackSeatExtenderDogBedLogo_1_bac8425e-39d8-4bd5-a13d-d83d3727760a.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "shipping-protection-1",
+     "preco": 4.99,
+     "publicado": "2024-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/shipping-protection-v2.png",
+     "tipo": "UpCart - Shipping Protection"
+    },
+    {
+     "titulo": "RuffRover 2.0™ - Hard Bottom Dog Car Seat Protector",
+     "handle": "ruffrover-hard-bottom-dog-car-seat-protector",
+     "preco": 149.95,
+     "publicado": "2024-07-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover2.0HardBottomDogCarSeatProtectorLogoFIXX_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "RuffRover 2.0™ - Hard Bottom Dog Car Seat Protector + (FREE Dog Bed)",
+     "handle": "ruffrover-2-0-hard-bottom-dog-car-seat-protector-free-dog-bed",
+     "preco": 159.95,
+     "publicado": "2024-06-28",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover2.0_-HardBottomBackSeatExtenderDogBedLogo_1_466bb581-017b-46a2-9ba4-70c2c24faafd.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Shipping Protection",
+     "handle": "shipping-protection",
+     "preco": 4.99,
+     "publicado": "2024-05-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/shipping-protection-v2_88308b9f-db33-430f-885b-c35c8a0a4182.png",
+     "tipo": "UpCart - Shipping Protection"
+    },
+    {
+     "titulo": "5-Year Extended Warranty",
+     "handle": "3-year-extended-warranty",
+     "preco": 14.99,
+     "publicado": "2024-05-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/RuffRover_5_year_warranty_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pup Safety Harness Bundle",
+     "handle": "pup-safety-harness-bundle",
+     "preco": 29.95,
+     "publicado": "2024-05-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/ruffroversafetyharness_1_08952258-50cf-46ae-81e5-64142cd7c33b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Extended Heavy Duty Bungee Leash Safety Belt Buckle",
+     "handle": "extended-heavy-duty-bungee-leash",
+     "preco": 24.99,
+     "publicado": "2024-05-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0736/3841/2566/files/ExtendedHeavyDutyBungeeLeashSafetyBeltBuckle_1_e3f193a4-c4c3-47b1-a085-3762fb6c9e2a.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "tidytailsworld.com": {
+  "dominio": "tidytailsworld.com",
+  "coletado_em": "2026-08-28T00:22:44",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "judge.me",
+    "klarna",
+    "pinterest",
+    "snap"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 4,
+   "n_variantes": 36,
+   "preco_min": 27.99,
+   "preco_mediana": 75.0,
+   "preco_max": 75.0,
+   "primeiro_produto": "2025-12-07",
+   "ultimo_produto": "2025-12-09",
+   "vendors": [
+    "TidyTails"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "TidyTails Everyday Leash",
+     "handle": "tidytails-leash-navy-gold",
+     "preco": 29.99,
+     "publicado": "2025-12-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_01_aedfe6d6-93ca-441a-9b87-14a72763c73e.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "TidyTails Comfort Collar",
+     "handle": "tidytails-comfort-collar-navy-gold",
+     "preco": 27.99,
+     "publicado": "2025-12-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_18_f13e940c-f8e2-4391-9635-6fc3a81715e8.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "TidyTails Premium No-Pull Harness",
+     "handle": "tidytails-premium-no-pull-harness-navy-gold",
+     "preco": 42.0,
+     "publicado": "2025-12-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_03_598732b7-6828-4242-8e3f-b046eac1d982.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "TidyTails Walking Set",
+     "handle": "tidytails-premium-walking-set",
+     "preco": 75.0,
+     "publicado": "2025-12-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_19.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 21,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "doggykings.com": {
+  "dominio": "doggykings.com",
+  "coletado_em": "2026-08-28T00:22:54",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "klaviyo",
+    "loox",
+    "shoppay"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 7,
+   "n_variantes": 115,
+   "preco_min": 1.99,
+   "preco_mediana": 19.99,
+   "preco_max": 24.99,
+   "primeiro_produto": "2022-04-07",
+   "ultimo_produto": "2024-09-25",
+   "vendors": [
+    "Uproot Lint Pro",
+    "Doggykings",
+    "DoggyKings"
+   ],
+   "tipos": [
+    "",
+    "Pet Combs & Brushes"
+   ],
+   "produtos": [
+    {
+     "titulo": "DoggyKings™ 3 in 1 Rain Coat",
+     "handle": "raincoat",
+     "preco": 19.99,
+     "publicado": "2024-09-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/files/Photoroom_20240724_105011.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Doggykings Pet Hair Remover™",
+     "handle": "petcleaner",
+     "preco": 9.99,
+     "publicado": "2023-04-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/Sanstitre-2023-04-08T172212.015.png",
+     "tipo": "Pet Combs & Brushes"
+    },
+    {
+     "titulo": "Price adjustment",
+     "handle": "price-adjustment",
+     "preco": 5.0,
+     "publicado": "2022-10-11",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "DoggyKings™ 3 in 1 Leash",
+     "handle": "doggykings-3-in-1-leash",
+     "preco": 15.99,
+     "publicado": "2022-09-30",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/544b010c573f1ca95f19addb5c75ab1f2ca869c6.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "DoggyKings™ Ultimate Personalized No Pull Dog Harness",
+     "handle": "dogharness",
+     "preco": 14.99,
+     "publicado": "2022-09-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/files/Copie_de_Rocky_2_1_282c947d-d7bb-45b6-a6cc-d2d677419aba.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Insured Shipping + 60 day money back guarantee extension",
+     "handle": "insured-shipping-60-day-money-back-guarantee-extension",
+     "preco": 1.99,
+     "publicado": "2022-09-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/CopiedeCopiedeCopiedeGARANTIE1AN.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "DoggyKings™ 3 in 1 Jacket",
+     "handle": "dogjacket",
+     "preco": 19.99,
+     "publicado": "2022-04-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/files/Copie_de_NZ.png",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "ruffandwild.com": {
+  "dominio": "ruffandwild.com",
+  "coletado_em": "2026-08-28T00:23:08",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "afterpay",
+    "bold",
+    "judge.me",
+    "klarna",
+    "pinterest",
+    "snap",
+    "tiktok",
+    "triplewhale"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.tiktok.com/@ruffandwild"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 2,
+   "n_variantes": 5,
+   "preco_min": 9.99,
+   "preco_mediana": 21.99,
+   "preco_max": 74.99,
+   "primeiro_produto": "2025-08-08",
+   "ultimo_produto": "2026-08-17",
+   "vendors": [
+    "My Store",
+    "Ruff & Wild"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "Clean your pet in 60 seconds, No Tub. No Mess. No Stress.",
+     "handle": "clean-your-pet-in-60-seconds-no-tub-no-mess-no-stress-copy",
+     "preco": 21.99,
+     "publicado": "2026-08-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0767/4000/2008/files/New_Listing_IMage.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Eco-Friendly Dental Wipes 50pcs/Pack",
+     "handle": "petcare-eco-friendly-dental-wipes",
+     "preco": 9.99,
+     "publicado": "2025-08-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0767/4000/2008/files/Teeth_wipes_listing_image.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "stridepaws.com": {
+  "dominio": "stridepaws.com",
+  "coletado_em": "2026-08-28T00:23:18",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "pinterest"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/stride.paws"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 55,
+   "n_variantes": 150,
+   "preco_min": 7.99,
+   "preco_mediana": 25.0,
+   "preco_max": 88.49,
+   "primeiro_produto": "2026-02-25",
+   "ultimo_produto": "2026-07-31",
+   "vendors": [
+    "ShopNest",
+    "Stride paws",
+    "stride paws",
+    "Stride Paws"
+   ],
+   "tipos": [
+    ""
+   ],
+   "produtos": [
+    {
+     "titulo": "LED Paw Trimmer",
+     "handle": "led-paw-trimmer",
+     "preco": 23.99,
+     "publicado": "2026-07-31",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/ChatGPTImageJul31_2026_08_06_12PM.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Hair Remover Glove - Buy 1 Get 1 Free",
+     "handle": "pet-hair-remover-glove",
+     "preco": 23.99,
+     "publicado": "2026-07-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/f6142a86-a614-4bce-9bdb-b4b7fd3cb335.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "4x Pet Hair Catcher For Washing Machine",
+     "handle": "4x-pet-hair-catccher-for-washing-machine",
+     "preco": 8.99,
+     "publicado": "2026-07-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/S7a79096be65f4697af46ac8ba9809d36D.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Bath, Massage & Deshedding Gloves",
+     "handle": "bath-massage-deshedding-gloves",
+     "preco": 14.99,
+     "publicado": "2026-07-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/82f4e94e9560b4151745d201ab6f42a1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "FurEase™ Pet Grooming Comb",
+     "handle": "pet-comb",
+     "preco": 14.99,
+     "publicado": "2026-07-10",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/a623a57059789b458030eda073c82869.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Dog Finger Toothbrush Set",
+     "handle": "dog-finger-toothbrush-4-pcs",
+     "preco": 7.99,
+     "publicado": "2026-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/81fsVPKkOZL._AC_SL1500.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Grooming Glove",
+     "handle": "pet-grooming-glove",
+     "preco": 0.0,
+     "publicado": "2026-07-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/007c3f93-8fc6-4e61-a308-774882d63e16.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "FREE Surprise Gift",
+     "handle": "free-surprise-gift",
+     "preco": 0.0,
+     "publicado": "2026-07-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/fbd64e53-b632-481f-a248-837b3cf9b16d.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Paw Float™ Pool Lounger",
+     "handle": "pawfloat-dog-pool-float",
+     "preco": 48.99,
+     "publicado": "2026-07-06",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/a5ceae6c-7aad-483a-8184-7649ef54b547_1.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Waterproof Dog Jacket - Clearance Sale",
+     "handle": "winter-dog-jacket",
+     "preco": 25.0,
+     "publicado": "2026-05-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/ChatGPT_Image_May_2_2026_07_29_37_PM.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Steam Brush for Shedding",
+     "handle": "4-in-1-pet-steam-brush-for-shedding",
+     "preco": 25.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/958ac8dcf4ca41a6ce9bbe03b2522634.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Interactive Ball Toy, Automatic Rolling Ball with Tail",
+     "handle": "cat-interactive-ball-toy-automatic-rolling-ball-with-tail-rechargeable-smart-pet-interactive-toy-intelligent-mouse-for-cat",
+     "preco": 15.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/185f0b590db06374e4727b799387a90b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Midwest Pet Bed Powder Blue",
+     "handle": "midwest-pet-bed-powder-blue-30",
+     "preco": 33.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/MidWest-Quiet-Time-Pet-Bed-Dog-Crate-Mat-Powder-Blue-30_3a6441d7-84b0-4f2a-824c-0c2ce3525bec_1.3d178b509dd804ad8298bddfac0de59b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Ultra Soft Pet Bed with Cute Star Print",
+     "handle": "dog-crate-pad-ultra-soft-pet-bed-with-cute-star-print",
+     "preco": 31.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/Haf6ccded585b4721b144905d059fcbe0B.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "Blue Paw Print Reversible Fleece Dog Bed Designed",
+     "handle": "blue-paw-print-reversible-fleece-dog-bed-designed-to-fit-24-inch-crate",
+     "preco": 30.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/MidWest-Homes-for-Pets-Blue-Paw-Print-Reversible-Fleece-Dog-Bed-Designed-to-fit-24-inch-Crate_b8cf9974-d90d-4ed0-bb0c-6e7898d6383c_2.46b137d8f5823d34b9939e627ddbd96d.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Everyday Comfy Cozy Cuddler Pet Bed",
+     "handle": "everyday-cuddletown-faux-linen-comfy-cozy-cuddler-pet-bed",
+     "preco": 30.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/b148b6cbc0212d8fbbd9511eb1154053.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "14 Pack Dog Squeaky Toys Cute Stuffed Plush Fruits Snacks and Vegetables",
+     "handle": "14-pack-dog-squeaky-toys-cute-stuffed-plush-fruits-snacks-and-vegetables",
+     "preco": 35.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/bbff8ba3df03c5784a8905118797367d.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Electronic Interactive Pet Toy, Yellow",
+     "handle": "canary-frenzy-motion-cat-toy-electronic-interactive-pet-toy-yellow",
+     "preco": 30.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/3beb98b482159182f7b156317a175510.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Bubble Plush Dragons Squeaky Pet Toy",
+     "handle": "bubble-plush-dragons-squeaky-pet-toy",
+     "preco": 24.99,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/2fe2c5e9e220f4302466fe0101af0a76.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Durable Snake Dog Toy with Three Jumbo Squeakers",
+     "handle": "skinneeez-extreme-24-inch-stuffing-free-durable-snake-dog-toy-with-three-jumbo-squeakers",
+     "preco": 28.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/4868fc3549eeecb93c283747088ec5f4.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "round Soft Bristle Hair Brush Pet Grooming Tool",
+     "handle": "round-soft-bristle-hair-brush-pet-grooming-tool",
+     "preco": 30.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/f55183ef272542da149091ff000289f6.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Grooming Brush for Shedding",
+     "handle": "pet-grooming-brush-dog-brush-for-shedding",
+     "preco": 24.99,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/f28e231f1f909d2472a6de64fb227716.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Heavy Duty Dog Chew Toys",
+     "handle": "heavy-duty-dog-chew-toys",
+     "preco": 30.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/a13ddf2119a943e9a23442315cae3e00.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Leak-Proof Dog Travel Bottle",
+     "handle": "leak-proof-water-bowl-dispenser-with-lock-for-hiking",
+     "preco": 33.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/f5d74a9d533264cdb518313bf828de46.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Pet Grooming Hair Remover Brush",
+     "handle": "pet-dog-grooming-gloves-brush-hair-remover",
+     "preco": 25.0,
+     "publicado": "2026-03-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0988/0633/3716/files/d50f80b5e7e0405ba6907f0ae5c9930b.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "stride.paws": {
+    "seguidores": "19",
+    "posts": "28",
+    "raw": "19 Followers, 4 Following, 28 Posts - See Instagram photos and videos from Stride Paws (&#064;stride.paws)"
+   }
+  }
+ },
+ "dogfriendlyco.com": {
+  "dominio": "dogfriendlyco.com",
+  "coletado_em": "2026-08-28T00:23:31",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gorgias",
+    "gtm",
+    "hotjar",
+    "judge.me",
+    "klaviyo",
+    "pinterest",
+    "snap",
+    "stamped",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/dogfriendlyco",
+    "https://www.instagram.com/dogfriendlyco",
+    "https://www.tiktok.com/@dogfriendlyco",
+    "https://www.youtube.com/@dogfriendlyco"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 220,
+   "n_variantes": 1532,
+   "preco_min": 4.5,
+   "preco_mediana": 89.0,
+   "preco_max": 600.0,
+   "primeiro_produto": "2025-03-06",
+   "ultimo_produto": "2026-07-30",
+   "vendors": [
+    "Dog Friendly Co."
+   ],
+   "tipos": [
+    "",
+    "Harnesses",
+    "Rope Leash",
+    "bundle",
+    "Classic Leash",
+    "sam_protect_shipping",
+    "Custom Name Patch",
+    "Short Trainer Leash",
+    "Raincoat",
+    "Upcart - Shipping Protection"
+   ],
+   "produtos": [
+    {
+     "titulo": "Hands Free Leash - Grey Camo",
+     "handle": "hands-free-leash-grey-camo",
+     "preco": 45.0,
+     "publicado": "2026-07-30",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "Hands Free Leash - Green Camo",
+     "handle": "hands-free-leash-green-camo",
+     "preco": 45.0,
+     "publicado": "2026-07-30",
+     "imagem": null,
+     "tipo": ""
+    },
+    {
+     "titulo": "Test Bunlde",
+     "handle": "test-bunlde",
+     "preco": 193.95,
+     "publicado": "2026-06-18",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_SkyBlue_Product_01_1445b3e2-d3f5-4235-8793-4120a0b72249.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Signature Kit - Red - FREE D-Ring",
+     "handle": "signature-kit-red-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Red_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Khaki - FREE D-Ring",
+     "handle": "signature-kit-khaki-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_PremiumKhaki_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Yellow - FREE D-Ring",
+     "handle": "signature-kit-yellow-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Yellow_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Burgundy - FREE D-Ring",
+     "handle": "signature-kit-burgundy-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_PremiumBurgundy_Product_01_86a5f86c-7fd6-44a7-9544-ce8167ea312b.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Purple - FREE D-Ring",
+     "handle": "signature-kit-purple-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Purple_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Brown - FREE D-Ring",
+     "handle": "signature-kit-brown-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_PremiumBrown_Product_01_917fcbe5-ab27-429a-9246-f3d9bf36c870.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Black - FREE D-Ring",
+     "handle": "signature-kit-black-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Black_Product_01_d5a281c6-8599-4152-a600-dbdac0da3015.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Pink - FREE D-Ring",
+     "handle": "signature-kit-pink-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Pink_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Orange - FREE D-Ring",
+     "handle": "signature-kit-orange-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Orange_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Grey Camo - FREE D-Ring",
+     "handle": "signature-kit-grey-camo-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_GreyCamo_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Pink Camo - FREE D-Ring",
+     "handle": "signature-kit-pink-camo-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_PinkCamo_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Neon Green - FREE D-Ring",
+     "handle": "signature-kit-neon-green-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_Green_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Navy Blue - FREE D-Ring",
+     "handle": "signature-kit-navy-blue-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_PremiumNavyBlue_Product_01_40065f10-912a-47b3-8615-4a33613e2438.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Classic Blue - FREE D-Ring",
+     "handle": "signature-kit-classic-blue-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_ClassicBlue_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Green Camo - FREE D-Ring",
+     "handle": "signature-kit-green-camo-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_GreenCamo_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Signature Kit - Sky Blue - FREE D-Ring",
+     "handle": "signature-kit-sky-blue-dring",
+     "preco": 130.5,
+     "publicado": "2026-06-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureKit_SkyBlue_Product_01.webp",
+     "tipo": "Signature Kit"
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Charcoal (Large) (LP)",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-charcoal-large-lp",
+     "preco": 209.0,
+     "publicado": "2026-06-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_Charcoal_Product_01_a732f3c4-90c5-43c1-9f76-1d6800b2b760.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Charcoal (Medium) (LP)",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-charcoal-medium-lp",
+     "preco": 189.0,
+     "publicado": "2026-06-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_Charcoal_Product_01.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Charcoal (Small) (LP)",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-charcoal-small-lp",
+     "preco": 169.0,
+     "publicado": "2026-06-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_Charcoal_Product_01_97852b42-c811-4253-8763-cc5c37f1b3a1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Green Bouclé",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-green-boucle-v2",
+     "preco": 238.5,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_GreenBoucle_Product_01_a0180b8e-0995-495a-884c-dd3d68ec8f09.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Grey Bouclé",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-grey-boucle-v2",
+     "preco": 238.5,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_GreyBoucle_Product_01.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Brown Bouclé",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-brown-boucle-v2",
+     "preco": 238.5,
+     "publicado": "2026-06-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_BrownBoucle_Product_01_def52ff0-845d-4474-91c2-1d9f17d0c544.webp",
+     "tipo": ""
+    }
+   ],
+   "nota": null
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Chill Pill Memory Foam Dog Bed - Charcoal (Small)",
+     "handle": "chill-pill-memory-foam-dog-bed-charcoal-small",
+     "preco": 129.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/ChillPillMemoryFoamDogBed_Charcoal_Product_01_4773c9b0-b0ff-4f74-b956-67e39ec0cdb9.webp"
+    },
+    {
+     "titulo": "Premium Orthopedic Memory Foam Dog Bed - Charcoal",
+     "handle": "premium-orthopedic-memory-foam-dog-bed-charcoal-v2",
+     "preco": 223.5,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/PremiumOrthopedicMemoryFoamDogBed_Charcoal_Product_01_97852b42-c811-4253-8763-cc5c37f1b3a1.webp"
+    },
+    {
+     "titulo": "Ultimate No-Pull Bundle - Black",
+     "handle": "walk-essentials-black",
+     "preco": 105.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/UltimateNo-PullBundle_Black_Product_01_c6de516d-b55d-406e-8c31-0cdae18acd75.webp"
+    },
+    {
+     "titulo": "Personalised Dog Harness - Black",
+     "handle": "dog-harness-black",
+     "preco": 39.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/Harness_Black_Product_01.webp"
+    },
+    {
+     "titulo": "Winter Dog Hoodies - Beige",
+     "handle": "winter-dog-hoodies-beige",
+     "preco": 25.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/SignatureDogHoodie_Beige_Product_01.webp"
+    },
+    {
+     "titulo": "Tactical Dog Collar - Black",
+     "handle": "tactical-dog-collar-black",
+     "preco": 35.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/Collar_Black_Product_01.webp"
+    },
+    {
+     "titulo": "Dog Paw Pad Protectors",
+     "handle": "paw-protector",
+     "preco": 22.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/DogPawPadProtectors_Product_01_b2500d1b-0ff8-4920-9de9-71ddc17be807.webp"
+    },
+    {
+     "titulo": "Bungee Dog Leash - Black",
+     "handle": "bungee-dog-leash-black",
+     "preco": 39.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/BungeeDogLeash_Black_Product_01_d4cbe090-6aa6-4df3-ae43-3cf4c124ca6d.webp"
+    },
+    {
+     "titulo": "Dog Life Jacket",
+     "handle": "df-co-life-jacket",
+     "preco": 69.0,
+     "imagem": "https://cdn.shopify.com/s/files/1/0271/1843/6400/files/DogLifeJacket_SkyBlue_Product_01.webp"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "rank_atual": 191435,
+   "rank_antigo": 284298,
+   "dias": 39,
+   "variacao": 92863,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "dogfriendlyco": {
+    "seguidores": "198K",
+    "posts": "2,545",
+    "raw": "198K Followers, 14 Following, 2,545 Posts - See Instagram photos and videos from Dog Friendly Co. (&#064;dogfriendlyco)"
+   }
+  }
+ },
+ "shopseravi.com": {
+  "dominio": "shopseravi.com",
+  "coletado_em": "2026-08-28T00:23:46",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "klarna",
+    "loox",
+    "shoppay",
+    "upcart"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 395,
+   "preco_min": 4.95,
+   "preco_mediana": 1155.0,
+   "preco_max": 12500.0,
+   "primeiro_produto": "2025-07-11",
+   "ultimo_produto": "2026-08-17",
+   "vendors": [
+    "TDS by New York Barbell",
+    "TAG Fitness",
+    "Pro Clubline by Body-Solid",
+    "York Barbell",
+    "Pro Dual by Body-Solid"
+   ],
+   "tipos": [
+    "",
+    "pet glove",
+    "Kaching Cart Upsell Toggle"
+   ],
+   "produtos": [
+    {
+     "titulo": "Dog Poop Bag Holder",
+     "handle": "dog-poop-bag-holder",
+     "preco": 9.95,
+     "publicado": "2026-08-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-08-17T082009.600.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "Never Lose Them. AirTag Holder",
+     "handle": "never-lose-them-airtag-holder",
+     "preco": 4.95,
+     "publicado": "2026-08-17",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/03063-ezgif.com-video-to-gif-converter_44c12153-6071-4fc7-baa1-86ff54ed4047.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "STRYDE Harness",
+     "handle": "stryde-harness",
+     "preco": 39.95,
+     "publicado": "2026-08-12",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/hf_20260826_222825_91afc2e0-520a-43a6-9f6a-079f83312496.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "The Large Breed Collagen Protocol",
+     "handle": "the-large-breed-collagen-protocol",
+     "preco": 19.95,
+     "publicado": "2026-08-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-08-04T102050.964.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "BarkBarrier Gut Repair",
+     "handle": "barkbarrier-gut-repair",
+     "preco": 29.95,
+     "publicado": "2026-08-04",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-08-04T100652.372.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "BarkBarrier Cold-Pressed Collagen",
+     "handle": "barkbarrier-cold-pressed-collagen",
+     "preco": 29.95,
+     "publicado": "2026-08-02",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/1_25.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "Catnip Tooth Cleaning Toy (5x)",
+     "handle": "catnip-tooth-cleaning-toy-5x",
+     "preco": 29.95,
+     "publicado": "2026-07-27",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-07-27T140606.927.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "cool",
+     "handle": "cool",
+     "preco": 0.0,
+     "publicado": "2026-07-25",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-07-25T130430.412.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "HydraPure Waterproof Mat",
+     "handle": "hydrapure-waterproof-mat",
+     "preco": 24.95,
+     "publicado": "2026-07-22",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/shopping_10.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "Filter Refill Pack (4pc)",
+     "handle": "filter-refill-pack-4pc",
+     "preco": 19.95,
+     "publicado": "2026-07-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/S5d85f571d58c4a68b26cccd8b9be5e73j.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "\"The Silent Kidney Decline\" Ebook",
+     "handle": "the-silent-kidney-decline-ebook",
+     "preco": 29.95,
+     "publicado": "2026-07-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-07-22T114938.607.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "HydraPure 316 Pro Fountain",
+     "handle": "hydrapure-316-pro-fountain",
+     "preco": 89.95,
+     "publicado": "2026-07-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/1_76.webp",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "Pet Automatic Water Dispenser Filter Circulating Flowing Live Water Cat Water Fountain",
+     "handle": "pet-automatic-water-dispenser-filter-circulating-flowing-live-water-cat-water-fountain",
+     "preco": 44.95,
+     "publicado": "2026-07-21",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/76b36b46-d675-4fea-8bbe-86273b87ee23_trans.jpg",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "SkinTru CC Serum",
+     "handle": "skintru-cc-serum",
+     "preco": 39.95,
+     "publicado": "2026-07-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/1c64dbcd-1d4c-4e16-99e9-757f2452bcb1.jpg",
+     "tipo": "Kaching Cart Upsell Toggle"
+    },
+    {
+     "titulo": "KOE",
+     "handle": "koe",
+     "preco": 34.95,
+     "publicado": "2026-07-14",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/1785260671-hf_20260728_174322_8ea912c0-44fa-42aa-b2eb-b5f4a3831ab1.webp",
+     "tipo": ""
+    },
+    {
+     "titulo": "Seravi Paw Balm",
+     "handle": "seravi-paw-balm",
+     "preco": 29.95,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitleddesign-2026-06-26T173240.147.webp",
+     "tipo": "pet glove"
+    },
+    {
+     "titulo": "Pet Gloove",
+     "handle": "pet-gloove",
+     "preco": 29.95,
+     "publicado": "2026-06-26",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/1_64.webp",
+     "tipo": "pet glove"
+    },
+    {
+     "titulo": "TDS Fitness Power Rack in White",
+     "handle": "tds-fitness-power-rack-in-white",
+     "preco": 399.0,
+     "publicado": "2025-10-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/5_6695b34a-c826-476d-afa9-6c7d55b97eb7.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "TDS Fitness Full Power Rack in White",
+     "handle": "tds-fitness-full-power-rack-in-white",
+     "preco": 369.99,
+     "publicado": "2025-10-07",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/6.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vortex Strength Rubber Bumper Plate Pairs in Black",
+     "handle": "vortex-strength-rubber-bumper-plate-pairs-in-black",
+     "preco": 45.0,
+     "publicado": "2025-08-24",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Untitled-design-24_18f70243-0f25-4216-8b86-167c4e38568a.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vortex Strength 8mm Rubber Flooring in Black with Gray Specs",
+     "handle": "vortex-strength-8mm-rubber-flooring-in-black-with-gray-specs",
+     "preco": 250.0,
+     "publicado": "2025-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/VortrexStrength_VRM46_Rubber4ftx6ft20mmGymMatsinBlack_2.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vortex Strength 8mm Rubber Flooring in Black",
+     "handle": "vortex-strength-8mm-rubber-flooring-in-black",
+     "preco": 250.0,
+     "publicado": "2025-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/VortrexStrength_VRM46_Rubber4ftx6ft20mmGymMatsinBlack_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Vortex Strength Rubber 4 ft x 6 ft 20mm Gym Mats in Black",
+     "handle": "vortex-strength-rubber-4-ft-x-6-ft-20mm-gym-mats-in-black",
+     "preco": 130.0,
+     "publicado": "2025-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/VortrexStrength_VRM46_Rubber4ftx6ft20mmGymMatsinBlack.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Body-Solid Horizontal Bar Rack in Black",
+     "handle": "body-solid-horizontal-bar-rack-in-black",
+     "preco": 450.0,
+     "publicado": "2025-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Body-Solid_SBS100_Horizontal10BarsHolder_4.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Body-Solid Pro Clubline Vertical Bar Rack",
+     "handle": "body-solid-pro-clubline-vertical-bar-rack",
+     "preco": 205.0,
+     "publicado": "2025-08-11",
+     "imagem": "https://cdn.shopify.com/s/files/1/0592/2619/4005/files/Body-Solid_SBS60_ProClublineVerticalBarRack_5.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 0,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 5,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ }
+}

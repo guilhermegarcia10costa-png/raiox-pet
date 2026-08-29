@@ -1,0 +1,80 @@
+{
+  "produto": "lick-mat-slow-feeder",
+  "competitor_page": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+  "competitor_store": "pets-dreams.uk",
+  "expected_carousel_count": 7,
+  "carousel_total_at_origin": 7,
+  "downloaded": 7,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Alfonso_New_Gemini_3.1_Flash_Nano_Banana_2__2026-07-10_00-45-50.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "still do lick mat em fundo neutro, textura visível",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "0c72639d427cf8b3",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Alfonso_New_Gemini_3.1_Flash_Nano_Banana_2__2026-07-10_00-44-04.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "lick mat colado no azulejo com pasta espalhada, cão lambendo",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "6a1d88af98000fda",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Alfonso_New_Gemini_3.1_Flash_Nano_Banana_2__2026-07-10_15-37-04.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "close na ventosa de sucção por baixo",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "b737b0b8f6294fe1",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Alfonso_New_Gemini_3.1_Flash_Nano_Banana_2__2026-07-05_13-55-32.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "lick mat recheado e congelado (cristais de gelo)",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "e438b1668d740c75",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/Vaughn_Gemini_3_Nano_Banana_Pro__2026-07-05_13-34-23.png",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "sequência: espatular a pasta no mat",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "18d96949171ca2ba",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/O1CN01ZDnw1Z1Ceb7cLDMMj__2217741190106-0-cib.jpg",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "variantes de tema",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "2869d6bb8ef3f889",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0768/9922/1847/files/O1CN01XPXpYO1Ceb7NyZLbV__2217741190106-0-cib.jpg",
+      "url_pdp_origem": "https://pets-dreams.uk/products/2in1-slow-feeder-dog-bowl-with-lick-mat",
+      "cena": "lifestyle: cão deitado calmo depois de usar o mat",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "612cc9988dc5bb81",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "meta": {
+    "nicho": "Enriquecimento para pet — entreter, tirar o tédio/ansiedade e distrair animais que ficam sozinhos",
+    "marca_nova": "Rumble & Sniff (provisório)",
+    "nivel": "iniciante",
+    "mercado_primario": "Reino Unido (GB)",
+    "mercado_secundario_observado": "EUA (US)",
+    "idioma": "inglês (en-GB)",
+    "moeda": "GBP",
+    "gerado_em": "2026-08-28",
+    "fontes": "Meta Ad Library (conector oficial, ACTIVE e ALL por page_id, 28/08/2026); products.json público de cada loja; capturas Chromium headless; Instagram público; Tranco.",
+    "momentum": "ESCALANDO",
+    "decisao": "VALIDAR COM LIMITE"
+  },
+  "demanda": {
+    "termos": [
+      {
+        "termo": "snuffle mat",
+        "us_ativos": null,
+        "gb_ativos": 62,
+        "confianca": "alta",
+        "nota": "termo limpo; núcleo do nicho de enriquecimento por faro"
+      },
+      {
+        "termo": "lick mat",
+        "us_ativos": null,
+        "gb_ativos": 122,
+        "confianca": "média",
+        "nota": "contagem parcialmente contaminada (novela), mas há operadores dedicados (PawzNDogz, customlickmats)"
+      },
+      {
+        "termo": "dog puzzle toy",
+        "us_ativos": null,
+        "gb_ativos": 210,
+        "confianca": "baixa",
+        "nota": "matching frouxo inflou; usar contagem por concorrente"
+      },
+      {
+        "termo": "cat enrichment toy",
+        "us_ativos": null,
+        "gb_ativos": 34,
+        "confianca": "alta",
+        "nota": "pequeno e limpo; Marlene's e Pets Dreams dominam"
+      },
+      {
+        "termo": "automatic interactive pet toy",
+        "us_ativos": null,
+        "gb_ativos": 38,
+        "confianca": "alta",
+        "nota": "brinquedo automático (bola/laser) para pet sozinho — nicho pequeno e claro"
+      },
+      {
+        "termo": "dog separation anxiety",
+        "us_ativos": null,
+        "gb_ativos": 556,
+        "confianca": "baixa",
+        "nota": "dominado por SERVIÇOS (vet comportamental, cursos de treino, seguro), não por produto — não é onde um dropshipper entra"
+      }
+    ],
+    "quantitativos": [
+      {
+        "dado": "'snuffle mat' — anúncios ativos GB",
+        "valor": "~62",
+        "tipo": "medido",
+        "implicacao": "demanda paga real e estável para enriquecimento por faro no Reino Unido; sustenta um teste pequeno"
+      },
+      {
+        "dado": "Pets Dreams UK — anúncios ativos / histórico (por page_id)",
+        "valor": "626 / 785",
+        "tipo": "medido",
+        "implicacao": "operador em escala industrial no nicho de brinquedo/conforto para pet; prova de que converte no volume"
+      },
+      {
+        "dado": "Marlene's Pet Shop — anúncios ativos / histórico",
+        "valor": "372 / 788",
+        "tipo": "medido",
+        "implicacao": "marca de enriquecimento para GATO escalando com criativo advertorial + BOGO; 51K IG"
+      },
+      {
+        "dado": "MK9Plus / 'Meeting Their Needs' — anúncios ativos",
+        "valor": "~329",
+        "tipo": "medido",
+        "implicacao": "marca de enriquecimento canino ('Fulfil your breed') em escala no Reino Unido"
+      },
+      {
+        "dado": "Ticket do produto principal nos concorrentes",
+        "valor": "£20–£40 (cluster leve) / £60–£90 (bundle premium)",
+        "tipo": "medido",
+        "implicacao": "AOV bom para dropship: produto leve (mat de silicone/tecido), custo £3–8, frete barato"
+      },
+      {
+        "dado": "Instagram Marlene's / PawzNDogz / MK9Plus",
+        "valor": "51K / 8,7K / (n/d)",
+        "tipo": "medido",
+        "implicacao": "os que constroem conteúdo educativo (por que enriquecimento importa) ganham defensabilidade; dropship puro tem 0 social"
+      },
+      {
+        "dado": "Espaço 'separation anxiety' como PRODUTO",
+        "valor": "quase nulo — 556 anúncios são serviço/treino/seguro",
+        "tipo": "medido",
+        "implicacao": "não prometer 'cura de ansiedade'; posicionar como enriquecimento/tédio, que é o que realmente vende produto"
+      },
+      {
+        "dado": "Ângulo criativo dominante",
+        "valor": "'seu cão não é mau — é entediado / está desempregado'",
+        "tipo": "proxy",
+        "implicacao": "hook fresco e em expansão (Woofball, Margaret Ellis, MK9Plus usam); '10 min de faro cansa o cérebro mais que um passeio'"
+      }
+    ],
+    "voz_do_mercado": [
+      {
+        "objecao": "'Meu cão já tem brinquedos e ignora todos'",
+        "resposta_observada": "reposicionar: não é brincar, é TRABALHO mental / faro; novidade rotativa"
+      },
+      {
+        "objecao": "'Isso resolve a ansiedade de separação?'",
+        "resposta_observada": "concorrentes sérios NÃO prometem cura — falam em 'ocupar', 'distrair', 'gastar energia mental' antes de sair"
+      },
+      {
+        "objecao": "'Vai fazer sujeira / meu cão vai destruir'",
+        "resposta_observada": "material lavável na máquina, silicone atóxico, 'vet-friendly', versões bite-proof"
+      },
+      {
+        "objecao": "'É caro pra um tapete'",
+        "resposta_observada": "ancoragem 2x + bundle 'BUY 1 GET 1 FREE' + tema/estética (comida) que vira presente"
+      }
+    ]
+  },
+  "mercados": [
+    {
+      "pais": "GB",
+      "amplo": "snuffle mat ~62 · cat enrichment ~34 ativos",
+      "angulo": "'cão entediado/desempregado', enriquecimento por faro, gato indoor",
+      "assimetria": "demanda média mas com 3 operadores em escala (Pets Dreams 626, Marlene 372, MK9Plus 329) e ângulo de criativo ainda fresco; espaço para uma marca temática pequena",
+      "leitura": "ENTRAR",
+      "pill": "p-a"
+    },
+    {
+      "pais": "US",
+      "amplo": "mercado maior, mesma categoria",
+      "angulo": "enrichment / indoor cat / anti-boredom",
+      "assimetria": "mais volume e mais criativos para modelar, porém CPMs e concorrência DTC muito mais altos; arriscado para caixa de iniciante",
+      "leitura": "OBSERVAR / expandir depois",
+      "pill": "p-b"
+    }
+  ],
+  "concorrentes": [
+    {
+      "slug": "petsdreams",
+      "nome": "Pets Dreams UK",
+      "dominio": "pets-dreams.uk",
+      "moeda_site": "EUR (alcança GB)",
+      "page_ids": [
+        "122099419748000769"
+      ],
+      "metodo_id": "dominio",
+      "anuncios_ativos": 626,
+      "anuncios_historico": 785,
+      "sobrevivencia_pct": 80,
+      "plataforma": "Shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "judge.me?"
+      ],
+      "catalogo_n": 250,
+      "preco_mediana": 11.95,
+      "preco_min": 2.95,
+      "preco_max": 109.95,
+      "hero": {
+        "titulo": "#1 Self-Play Cat Toy / #1 Cosy Cat Hideaway (rotativo)",
+        "preco": 12.95,
+        "ancora": 25.9,
+        "off_pct": 50
+      },
+      "bump": [
+        {
+          "t": "produtos de £2.95–4.95 no carrinho (rake, foam, dental)",
+          "p": 3.95,
+          "ancora": 7.9
+        }
+      ],
+      "best_sellers": [
+        "2-in-1 Interactive Play Cat Bed & Scratcher £12.95 (de £25.90)",
+        "Moon & Star Wall Cat Climbing £16.95–44.95",
+        "Waterproof Pet Blanket £10.95–44.95 (30 variantes)",
+        "360° Self-Play Cat Teaser £4.95",
+        "Kangaroo Boxing Hand Puppet Cat Toy £8.95"
+      ],
+      "prova_social": "'#1' em todo criativo (não verificado); ancoragem 2x em 100% do catálogo",
+      "criativo_campeao": {
+        "titulo": "#1 Self-Play Cat Toy 🐱",
+        "hook": "rótulo de autoridade '#1' + vídeo curto do produto em uso",
+        "angulo": "catálogo inteiro em rotação, 1 produto por anúncio, sem advertorial",
+        "variacoes": [
+          "#1 Chase the Feather 🪶",
+          "#1 Roo vs Kitty 🦘",
+          "#1 Bite-Proof Toy 🦴",
+          "#1 Fluffy Pet Bed 🐾"
+        ]
+      },
+      "ritmo_criativo": "firehose — centenas de anúncios ativos, 1 por SKU, testados em rotação; sobrevivência 80%",
+      "identidade": "genérico Shopify multi-produto, foco no vídeo de demonstração + selo '#1' + preço riscado",
+      "veredito": "MODELAR",
+      "veredito_pill": "p-a",
+      "nivel_operacional": 8,
+      "defensabilidade": "ARBITRAGEM",
+      "leitura": "A aula de VOLUME e de arquitetura de catálogo: 250 SKUs baratos, 1 criativo '#1 [produto]' por SKU, ancoragem 2x automática. Quase idêntico ao British Pets (mesmo dono ou mesma rede de fornecedor). Modele o formato de anúncio e o catálogo temático de gato; não tente competir no volume.",
+      "faturamento_est": "£150k–500k",
+      "objecao_resolve": "'meu pet ignora brinquedo' → '#1', novidade rotativa, vídeo de prova",
+      "ref_modelar": [
+        {
+          "o": "Home = catálogo rolável, add-to-cart direto, preço riscado em tudo",
+          "onde": "home inteira"
+        },
+        {
+          "o": "Selo '#1' + emoji no herói acima da dobra",
+          "onde": "PDP topo"
+        },
+        {
+          "o": "Vídeo curto de demonstração como imagem principal do card",
+          "onde": "card de produto"
+        }
+      ]
+    },
+    {
+      "slug": "marlenes",
+      "nome": "Marlene's Pet Shop",
+      "dominio": "marlenespetshop.com",
+      "moeda_site": "USD (alcança GB)",
+      "page_ids": [
+        "317599658104854"
+      ],
+      "metodo_id": "dominio",
+      "anuncios_ativos": 372,
+      "anuncios_historico": 788,
+      "sobrevivencia_pct": 47,
+      "plataforma": "Shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "loox?",
+        "recharge?"
+      ],
+      "catalogo_n": 129,
+      "preco_mediana": 39.99,
+      "preco_min": 0.5,
+      "preco_max": 550.0,
+      "hero": {
+        "titulo": "Kitty Kurlz™ (brinquedo de enriquecimento para gato)",
+        "preco": 29.99,
+        "ancora": 59.99,
+        "off_pct": 50
+      },
+      "bump": [
+        {
+          "t": "Kitty Kurlz [BUY 1 GET 1 FREE]",
+          "p": 29.99,
+          "ancora": 59.99
+        },
+        {
+          "t": "Kitty Kurlz [BUY 2 GET 2 FREE]",
+          "p": 59.99,
+          "ancora": 119.98
+        },
+        {
+          "t": "First Filter Pack (p/ fonte de água)",
+          "p": 24.99
+        }
+      ],
+      "best_sellers": [
+        "Kitty Kurlz™ £29.99 (de £59.99) + BOGO",
+        "Wireless Stainless Steel Water Fountain £89.99–149.99",
+        "SUMU Cave™ £266.63",
+        "The First Scratcher That Fights Back"
+      ],
+      "prova_social": "51K Instagram, Tranco ranqueado, reviews on-site, marca com ™ e história ('Her Final Gift to Indoor Cats')",
+      "criativo_campeao": {
+        "titulo": "The Viral Cat Toy Breaking the Internet",
+        "hook": "curiosidade + prova social ('viral', 'breaking the internet')",
+        "angulo": "advertorial: 'o que seu gato REALMENTE precisa' / gato indoor entediado",
+        "variacoes": [
+          "This Is EXACTLY What Your Cat's Been Missing",
+          "This Is What Your Cat ACTUALLY Needs",
+          "Her Final Gift to Indoor Cats",
+          "The First Scratcher That Fights Back"
+        ]
+      },
+      "ritmo_criativo": "alto e advertorial — blocos de criativo por hook, sobrevivência 47% (testa e corta)",
+      "identidade": "marca de verdade: paleta consistente, fotografia própria, tom de 'guardiã do gato indoor', UGC",
+      "veredito": "MODELAR",
+      "veredito_pill": "p-a",
+      "nivel_operacional": 6,
+      "defensabilidade": "CONSTRUÍVEL",
+      "leitura": "O melhor exemplo de MARCA de enriquecimento (foco gato indoor) + escada de oferta com BOGO agressivo. AOV £30 com bundle chegando a £60. 51K IG e ™ mostram que já passou da fase de teste. Modele a escada BOGO e o ângulo advertorial 'gato entediado'; a marca em si não é replicável no dia 1.",
+      "faturamento_est": "£120k–400k",
+      "objecao_resolve": "'gato indoor entediado' nomeado como problema + 'ACTUALLY needs'",
+      "ref_modelar": [
+        {
+          "o": "Escada BOGO explícita no seletor ('BUY 1 GET 1 FREE' / 'BUY 2 GET 2 FREE')",
+          "onde": "PDP buybox"
+        },
+        {
+          "o": "Bloco de história da fundadora ('Her Final Gift to Indoor Cats')",
+          "onde": "home / advertorial"
+        },
+        {
+          "o": "Fotografia própria consistente + tom de marca com propósito",
+          "onde": "site inteiro"
+        }
+      ]
+    },
+    {
+      "slug": "britishpets",
+      "nome": "British Pets",
+      "dominio": "britishpets.uk",
+      "moeda_site": "EUR (alcança GB)",
+      "page_ids": [
+        "1226811687172240"
+      ],
+      "metodo_id": "dominio",
+      "anuncios_ativos": 147,
+      "anuncios_historico": 191,
+      "sobrevivencia_pct": 77,
+      "plataforma": "Shopify",
+      "apps": [
+        "bold",
+        "gtag"
+      ],
+      "catalogo_n": 250,
+      "preco_mediana": 11.95,
+      "preco_min": 2.95,
+      "preco_max": 104.95,
+      "hero": {
+        "titulo": "#1 Puzzle Feeder 🦦 / #1 Butterfly Toy 🦋 (rotativo)",
+        "preco": 12.95,
+        "ancora": 25.9,
+        "off_pct": 50
+      },
+      "bump": [
+        {
+          "t": "produtos de £3–7 no carrinho",
+          "p": 4.95,
+          "ancora": 9.9
+        }
+      ],
+      "best_sellers": [
+        "2-in-1 Interactive Play Cat Bed & Scratcher £12.95",
+        "Durable Woven Ring Tug & Chew Toy £7.95–9.95",
+        "Foldable Spiral Cat Play Tunnel £6.95",
+        "Hands-Free Interactive Cat Wand £4.95",
+        "Fluffy Cloud Pet Sofa Bed £14.95–34.95"
+      ],
+      "prova_social": "'#1' nos criativos; sem social; ancoragem 2x",
+      "criativo_campeao": {
+        "titulo": "#1 Puzzle Feeder 🦦",
+        "hook": "'#1' + demo de produto",
+        "angulo": "catálogo rotativo, gêmeo do Pets Dreams",
+        "variacoes": [
+          "#1 Butterfly Toy 🦋",
+          "#1 Cat Toy 🐱",
+          "#1 Dog Toy 🐶",
+          "#1 Cat Shelves 🐾"
+        ]
+      },
+      "ritmo_criativo": "médio-alto, mesmo modelo do Pets Dreams em menor escala; sobrevivência 77%",
+      "identidade": "idêntico ao Pets Dreams (mesmo catálogo, mesmo template, mesmo formato de anúncio)",
+      "veredito": "MODELAR",
+      "veredito_pill": "p-a",
+      "nivel_operacional": 8,
+      "defensabilidade": "ARBITRAGEM",
+      "leitura": "Prova de que o modelo Pets Dreams é replicável e roda em escala menor. Catálogo, preços e criativos são cópia-carbono. Serve para confirmar o formato de anúncio '#1 [produto]' e a arquitetura de catálogo de gato barato — não como diferenciação.",
+      "faturamento_est": "£40k–120k",
+      "objecao_resolve": "objeção no próprio título do anúncio ('#1 Bite-Proof Toy')",
+      "ref_modelar": [
+        {
+          "o": "Formato de anúncio '#1 [produto] [emoji]' replicado por SKU",
+          "onde": "biblioteca"
+        },
+        {
+          "o": "Catálogo temático de gato barato com 1 template de card",
+          "onde": "coleção"
+        },
+        {
+          "o": "Ancoragem 2x automática em todo produto",
+          "onde": "PDP e card"
+        }
+      ]
+    },
+    {
+      "slug": "whisk",
+      "nome": "Whisk",
+      "dominio": "get-whisk.com",
+      "moeda_site": "EUR (alcança GB)",
+      "page_ids": [
+        "1071263536078181"
+      ],
+      "metodo_id": "rodape",
+      "anuncios_ativos": 8,
+      "anuncios_historico": 88,
+      "sobrevivencia_pct": 9,
+      "plataforma": "Shopify",
+      "apps": [
+        "bold",
+        "gtag"
+      ],
+      "catalogo_n": 3,
+      "preco_mediana": 25.9,
+      "preco_min": 19.9,
+      "preco_max": 59.9,
+      "hero": {
+        "titulo": "The Whisk Giant Play Ball (bola gigante de pastoreio/exercício)",
+        "preco": 39.9,
+        "ancora": 49.9,
+        "off_pct": 20
+      },
+      "bump": [
+        {
+          "t": "Whisk Cooling Cat Mat",
+          "p": 25.9,
+          "ancora": 34.9
+        },
+        {
+          "t": "Whisk Hair Remover Glove",
+          "p": 19.9
+        }
+      ],
+      "best_sellers": [
+        "The Whisk Giant Play Ball £39.90 (3 tamanhos, até £59.90)",
+        "Whisk Cooling Cat Mat £25.90",
+        "Whisk Hair Remover Glove £19.90"
+      ],
+      "prova_social": "advertorial em página-persona ('Margaret Ellis', 'Laura Bennett'); loja nova (30/07/2026), sem social",
+      "criativo_campeao": {
+        "titulo": "Your dog isn't badly behaved. He's unemployed.",
+        "hook": "reframe forte: comportamento ruim = falta de estímulo mental, não indisciplina",
+        "angulo": "advertorial em 1ª pessoa (dono à beira de devolver o cão) → bola gigante como solução de energia",
+        "variacoes": [
+          "£1,440 On A Dog Walker. It Did Nothing.",
+          "31 Years Of Collies. Then This.",
+          "I Kept A Rescue Centre's Number For 11 Days",
+          "He Wasn't a Bad Dog. He Was Unemployed."
+        ]
+      },
+      "ritmo_criativo": "advertorial em rajada — 88 no histórico, 8 ativos; testa muitos ângulos de história sobre 1 produto",
+      "identidade": "página de venda advertorial longa, tom editorial/confessional, foco na transformação do comportamento",
+      "veredito": "MODELAR",
+      "veredito_pill": "p-a",
+      "nivel_operacional": 8,
+      "defensabilidade": "ARBITRAGEM",
+      "leitura": "A AULA DE CRIATIVO do nicho: o ângulo 'seu cão está desempregado' é o hook mais forte e mais fresco aqui. Loja de 1 herói (£40), advertorial de história real, sem depender de marca. Modele a estrutura do advertorial e o reframe; o produto (bola gigante) é volumoso — prefira um herói leve.",
+      "faturamento_est": "£10k–40k (quando o advertorial está ligado)",
+      "objecao_resolve": "'meu cão é mau' → reframe 'está desempregado / precisa de trabalho mental'",
+      "ref_modelar": [
+        {
+          "o": "Advertorial longo em 1ª pessoa (dono à beira de desistir → transformação)",
+          "onde": "página de venda"
+        },
+        {
+          "o": "Ancorar o preço contra um custo maior que falhou (£1.440 no passeador)",
+          "onde": "advertorial, meio"
+        },
+        {
+          "o": "Loja de 1 herói, catálogo mínimo (3 SKUs)",
+          "onde": "estrutura da loja"
+        }
+      ]
+    },
+    {
+      "slug": "pawzndogz",
+      "nome": "PawzNDogz (LuvMyFido)",
+      "dominio": "pawzndogz.ca",
+      "moeda_site": "CAD (alcança GB)",
+      "page_ids": [
+        "110963396945279"
+      ],
+      "metodo_id": "dominio",
+      "anuncios_ativos": 7,
+      "anuncios_historico": 25,
+      "sobrevivencia_pct": 28,
+      "plataforma": "Shopify",
+      "apps": [
+        "bold",
+        "loox?",
+        "recharge?"
+      ],
+      "catalogo_n": 44,
+      "preco_mediana": 43.99,
+      "preco_min": 6.99,
+      "preco_max": 142.18,
+      "hero": {
+        "titulo": "Forbidden Grapes™ Snuffle Mat / themed lick mats (LuvMyFido)",
+        "preco": 78.99,
+        "ancora": null,
+        "off_pct": null
+      },
+      "bump": [
+        {
+          "t": "Lick Mat & Spatula (Crispy Grapes / Buttery Avocado)",
+          "p": 19.99
+        },
+        {
+          "t": "Party Mix Lick Mat Bundle",
+          "p": 35.98,
+          "ancora": 39.98
+        }
+      ],
+      "best_sellers": [
+        "Forbidden Grapes™ Snuffle Mat £78.99",
+        "The Exotic Food Bundle £88.99",
+        "Gourmet Delights™ Lick Mat £34.99",
+        "Dreamy Cupcake™ £31.99",
+        "Cheesy Nachos™ £32.99"
+      ],
+      "prova_social": "8,7K Instagram, 1.064 posts, marca ™ com linha de produtos temáticos (comida), Loox reviews",
+      "criativo_campeao": {
+        "titulo": "Transform mealtime into playtime",
+        "hook": "transformar a refeição em enriquecimento; estética de comida real",
+        "angulo": "marca temática — lick/snuffle mats em formato de alimentos ('Buttery Avocado', 'Cheesy Nachos'); presente instagramável",
+        "variacoes": [
+          "The Party Mix Lick Mat Bundle",
+          "Gourmet Delights™"
+        ]
+      },
+      "ritmo_criativo": "baixo (7 ativos) mas contínuo; opera pequeno com forte orgânico (IG) e catálogo temático",
+      "identidade": "marca-produto real: naming temático ™, fotografia de comida estilizada, paleta apetitosa, forte no Instagram",
+      "veredito": "MODELAR",
+      "veredito_pill": "p-a",
+      "nivel_operacional": 7,
+      "defensabilidade": "CONSTRUÍVEL",
+      "leitura": "A AULA DE DIFERENCIAÇÃO: mesmo produto genérico (lick/snuffle mat de silicone) vendido a £35–89 porque é TEMÁTICO e instagramável. É o caminho de marca defensável para um iniciante neste nicho: escolher um tema, nomear a linha, vender o mesmo mat 2–3x mais caro. Modele o naming e a fotografia; o AOV alto sustenta o CPA.",
+      "faturamento_est": "£15k–50k",
+      "objecao_resolve": "'é caro pra um tapete' → tema/estética de comida + 'science that turns chaos into calm' + 'As Seen On'",
+      "ref_modelar": [
+        {
+          "o": "Naming temático com ™ por linha (Buttery Avocado, Cheesy Nachos)",
+          "onde": "catálogo"
+        },
+        {
+          "o": "Fotografia de comida estilizada como identidade visual",
+          "onde": "site inteiro"
+        },
+        {
+          "o": "Faixa 'As Seen On' com logos de imprensa + bundles temáticos",
+          "onde": "home"
+        }
+      ]
+    }
+  ],
+  "contexto_extra": [
+    {
+      "nome": "MK9Plus / Meeting Their Needs",
+      "dominio": "meetingthemneeds.com",
+      "page_ids": [
+        "109527958227632"
+      ],
+      "ativos": 329,
+      "historico": null,
+      "nota": "Marca de enriquecimento canino em escala real no Reino Unido ('Fulfil your breed', 'Licking Isn't a Job'). products.json bloqueado — catálogo não coletado, por isso NÃO vira ficha completa. Referência de posicionamento: enriquecimento como 'necessidade da raça', não como brinquedo."
+    },
+    {
+      "nome": "Woofball",
+      "dominio": "trywoofball.com",
+      "page_ids": [
+        "1267973109730123"
+      ],
+      "ativos": 8,
+      "historico": 9,
+      "nota": "Loja nova (26/07/2026), 2 produtos, funil 'WoofBalls FREE — just cover shipping'. Bola de faro. Modelo free+frete para construir lista; ângulo '10 min de faro cansa mais que um passeio'."
+    },
+    {
+      "nome": "Bramble and Paw",
+      "dominio": "brambleandpaw.co.uk",
+      "page_ids": [
+        "871191159420516"
+      ],
+      "ativos": 12,
+      "historico": 23,
+      "nota": "Loja UK nova (09/07/2026), 39 SKUs, começou em slow feeder ('Does Your Dog Eat Too Fast?') e já testa 'travel'. Exemplo de iniciante em fase de achar o herói."
+    },
+    {
+      "nome": "customlickmats",
+      "dominio": "customlickmats.com",
+      "page_ids": [
+        "1064724410068306"
+      ],
+      "ativos": null,
+      "historico": null,
+      "nota": "WooCommerce, UK, lick mats PERSONALIZADOS. products.json bloqueado. Prova de que personalização é um sub-ângulo viável no nicho."
+    }
+  ],
+  "lacunas": [
+    {
+      "campo": "Corpo do criativo (copy/advertorial completo) e transcrição de vídeo",
+      "fontes_tentadas": "conector Meta ads_library_search (só título + datas); WebFetch no snapshot (403)",
+      "impacto": "Anatomia dos Vencedores reconstruída de título + ângulo + PDP, não frame a frame",
+      "alternativa": "abrir cada ad_snapshot_url no navegador; minerador headless dedicado"
+    },
+    {
+      "campo": "Catálogo de MK9Plus/Meeting Their Needs e customlickmats",
+      "fontes_tentadas": "products.json (bloqueado / plataforma não-Shopify)",
+      "impacto": "dois operadores relevantes (329 ativos e personalização) ficam como contexto, não ficha",
+      "alternativa": "scrape headless da coleção ou dado autorizado"
+    },
+    {
+      "campo": "Tráfego mensal (SimilarWeb) por loja",
+      "fontes_tentadas": "não executado nesta rodada",
+      "impacto": "faturamento estimado em faixa larga, ancorado em nº de anúncios + AOV",
+      "alternativa": "trafego.js em background com retries"
+    },
+    {
+      "campo": "Custo real de produto (fornecedor 1:1)",
+      "fontes_tentadas": "não coletado — exige busca AliExpress/1688 por foto",
+      "impacto": "P&L usa faixa estimada por categoria (silicone/tecido: £3–8)",
+      "alternativa": "sourcing por imagem na fase de montagem"
+    },
+    {
+      "campo": "Contagem de reviews verificável por loja",
+      "fontes_tentadas": "Judge.me/Loox público bloqueado; número lido da PDP quando visível",
+      "impacto": "prova social tratada como proxy declarado",
+      "alternativa": "inspeção XHR da PDP via Playwright"
+    },
+    {
+      "campo": "Capturas nos 4 viewports (desktop 1280 + mobile 390, home + PDP)",
+      "fontes_tentadas": "prints.js captura full-page em 1 viewport",
+      "impacto": "benchmark visual em cobertura reduzida",
+      "alternativa": "script de captura multi-viewport dedicado"
+    }
+  ],
+  "auditoria_anuncios_ok": true
+}

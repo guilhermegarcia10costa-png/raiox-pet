@@ -1,0 +1,995 @@
+{
+  "schema_version": "handoff-montar-loja-v2.0",
+  "research": {
+    "name": "Pesquisa Pet Acessorios",
+    "mode": "profundo",
+    "scope": "nicho",
+    "generated_at": "2026-08-27",
+    "root": "raio-x/Pesquisa Pet Acessorios/01-pesquisa"
+  },
+  "status": "validation_only",
+  "market": {
+    "country": "United Kingdom",
+    "language": "en-GB",
+    "currency": "GBP",
+    "market_decision": "conditional",
+    "operator_decision": "conditional",
+    "evidence_summary": [
+      "'dog harness' ~1.692 anúncios ativos GB / ~6.106 US (Meta Ad Library, 27/08/2026)",
+      "7 lojas dropship confirmadas rodando mídia e alcançando GB; page_id auditado (0% divergência)",
+      "RuffRover 606 ativos / 1.933 histórico; Luther Bennett 101; DoggyKings 88/944; Stride Paws 26; Ruff & Wild 14/488",
+      "Faixa de ticket herói £15–£190; cluster leve £15–25 viável para iniciante, cluster carro £90–190 não",
+      "Oferta padrão do nicho: âncora agressiva + brinde + order bump barato + personalização"
+    ],
+    "limitations": [
+      "Sem SimilarWeb nesta rodada — faturamento é proxy de ordem de grandeza",
+      "Custo de produto estimado por categoria (30–40%), não medido por fornecedor 1:1",
+      "Corpo do criativo e transcrição de vídeo não extraídos (conector devolve só título/datas)",
+      "Capturas em 1 viewport (12), não nos 4 exigidos (16)",
+      "Reviews dos concorrentes lidos da PDP quando visíveis, não verificados por XHR"
+    ]
+  },
+  "brand": {
+    "name": "Trotter & Co",
+    "domain_candidate": "trotterandco.co.uk",
+    "positioning": "Acessórios de passeio para cães no Reino Unido: peitoral no-pull e kit de passeio dimensionados ao cão e personalizados com o nome, feitos para durar. Modelo dropship de marca com fornecedor de personalização.",
+    "palette": [
+      {
+        "name": "Petrol",
+        "hex": "#1F3A34",
+        "role": "fundo de marca, header, footer"
+      },
+      {
+        "name": "Sand",
+        "hex": "#E8DDC9",
+        "role": "seções claras, placeholders"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C56A44",
+        "role": "CTA, selo de oferta, preço"
+      },
+      {
+        "name": "Moss",
+        "hex": "#7D8A5C",
+        "role": "ícones de confiança, detalhes"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#2B2B28",
+        "role": "texto principal"
+      },
+      {
+        "name": "Paper",
+        "hex": "#FDFCF9",
+        "role": "fundo de card"
+      }
+    ],
+    "fonts": {
+      "heading": "Fraunces",
+      "body": "Inter"
+    },
+    "voice": [
+      "calorosa e prática",
+      "britânica, sem hype médico",
+      "foco em encaixe e durabilidade"
+    ],
+    "photography": [
+      "cão real + dono em ambiente externo britânico (parque, calçada molhada)",
+      "close no acabamento/bordado do nome",
+      "still de produto em fundo areia"
+    ],
+    "forbidden_claims": [
+      "cura de ansiedade",
+      "garantia de que o cão para de puxar 100%",
+      "aprovado por veterinários (sem laudo)",
+      "uso de marca/estampa de concorrente"
+    ]
+  },
+  "catalog": {
+    "collections": [
+      {
+        "handle": "walking-sets",
+        "title": "Walking Sets",
+        "description_html": "<p>Harness, lead, collar and tag — sized to your dog and finished with their name.</p>"
+      },
+      {
+        "handle": "harnesses",
+        "title": "Harnesses",
+        "description_html": "<p>No-pull harnesses in five sizes and four colours.</p>"
+      },
+      {
+        "handle": "leads",
+        "title": "Leads",
+        "description_html": "<p>Matching rope leads with padded handles.</p>"
+      },
+      {
+        "handle": "add-ons",
+        "title": "Add-ons",
+        "description_html": "<p>ID tags, protection and small extras.</p>"
+      }
+    ],
+    "products": [
+      {
+        "handle": "personalised-no-pull-harness",
+        "title": "Personalised No-Pull Dog Harness",
+        "role": "hero",
+        "product_type": "Dog Harness",
+        "vendor": "Trotter & Co",
+        "status": "draft",
+        "tags": [
+          "harness",
+          "no-pull",
+          "personalised",
+          "walking"
+        ],
+        "collections": [
+          "walking-sets",
+          "harnesses"
+        ],
+        "pricing": {
+          "price": "24.99",
+          "compare_at": "44.99",
+          "cost": "5.50",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "Buscar AliExpress \"personalized no pull dog harness\" SortType=total_tranpro_desc; confirmar fornecedor que faz bordado/heat-press do nome e prazo <= 4 dias úteis. Amostra obrigatória antes de ready_for_store."
+        },
+        "copy": {
+          "headline": "The no-pull harness with their name on it",
+          "lede": "Sized to your dog, hand-finished with their name, built for the muddiest walk in Britain.",
+          "body_html": "<p>Front and back D-rings redirect the pull instead of restraining it. Padded Y-front keeps pressure off the throat. Four adjustment points for a real fit, reinforced bar-tack stitching where cheap harnesses fail.</p>",
+          "bullets": [
+            "Front clip that actually stops the pulling",
+            "Padded Y-front — no pressure on the throat",
+            "Four adjustment points for a true fit",
+            "Their name, heat-pressed and washable",
+            "30-day free size exchange"
+          ],
+          "proof": "Modelar prova social de RuffRover (contagem de reviews acima do CTA) e Luther Bennett (selo Trustpilot). Sem reviews inventadas no lançamento.",
+          "faq": [
+            {
+              "q": "What if the size is wrong?",
+              "a": "Free exchange within 30 days — keep the first one until the new size arrives."
+            },
+            {
+              "q": "How long does personalisation take?",
+              "a": "Ships in 2–4 working days from our UK partner, then 2–3 days delivery."
+            },
+            {
+              "q": "Is it good for a heavy puller?",
+              "a": "Yes — use the front clip; it redirects rather than restrains."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          },
+          {
+            "name": "Colour",
+            "values": [
+              "Petrol",
+              "Sand",
+              "Moss",
+              "Terracotta"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "TC-HAR-S-PET",
+            "title": "S / Petrol",
+            "price": "24.99",
+            "compare_at": "44.99",
+            "option_values": [
+              "S",
+              "Petrol"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-HAR-M-PET",
+            "title": "M / Petrol",
+            "price": "24.99",
+            "compare_at": "44.99",
+            "option_values": [
+              "M",
+              "Petrol"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-HAR-L-PET",
+            "title": "L / Petrol",
+            "price": "24.99",
+            "compare_at": "44.99",
+            "option_values": [
+              "L",
+              "Petrol"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-HAR-M-SAN",
+            "title": "M / Sand",
+            "price": "24.99",
+            "compare_at": "44.99",
+            "option_values": [
+              "M",
+              "Sand"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "Personalised No-Pull Dog Harness | Trotter & Co",
+          "description": "A no-pull dog harness sized to your dog and finished with their name. Ships from the UK, 30-day fit guarantee."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "matching-rope-lead",
+        "title": "Matching Personalised Rope Lead",
+        "role": "upsell",
+        "product_type": "Dog Lead",
+        "vendor": "Trotter & Co",
+        "status": "draft",
+        "tags": [
+          "lead",
+          "leash",
+          "personalised",
+          "matching"
+        ],
+        "collections": [
+          "walking-sets",
+          "leads"
+        ],
+        "pricing": {
+          "price": "17.99",
+          "compare_at": "24.99",
+          "cost": "4.50",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "AliExpress \"personalized dog leash rope\"; casar cor com o peitoral herói. Amostra obrigatória."
+        },
+        "copy": {
+          "headline": "The lead that matches the harness",
+          "lede": "Climbing-rope lead with a padded handle and your dog’s name on the collar loop.",
+          "body_html": "<p>Offered as a one-click upsell after the harness. \"1 FREE lead\" is DoggyKings’ top hook — here it becomes a paid upsell at a real discount.</p>",
+          "bullets": [
+            "Matches every harness colour",
+            "Padded handle for heavy pullers",
+            "Reflective tracer for winter walks"
+          ],
+          "proof": "DoggyKings 3-in-1 Leash £15.99 (de £29.99).",
+          "faq": [
+            {
+              "q": "What length?",
+              "a": "1.5m fixed, with a traffic handle."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Colour",
+            "values": [
+              "Petrol",
+              "Sand",
+              "Moss",
+              "Terracotta"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "TC-LEAD-PET",
+            "title": "Petrol",
+            "price": "17.99",
+            "compare_at": "24.99",
+            "option_values": [
+              "Petrol"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-LEAD-SAN",
+            "title": "Sand",
+            "price": "17.99",
+            "compare_at": "24.99",
+            "option_values": [
+              "Sand"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "Matching Personalised Rope Dog Lead | Trotter & Co",
+          "description": "A climbing-rope dog lead that matches your Trotter & Co harness, with your dog’s name."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/matching-rope-lead/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/matching-rope-lead/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/matching-rope-lead/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/matching-rope-lead/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "matching-collar",
+        "title": "Matching Personalised Collar",
+        "role": "cross_sell",
+        "product_type": "Dog Collar",
+        "vendor": "Trotter & Co",
+        "status": "draft",
+        "tags": [
+          "collar",
+          "personalised",
+          "matching",
+          "cross-sell"
+        ],
+        "collections": [
+          "add-ons",
+          "walking-sets"
+        ],
+        "pricing": {
+          "price": "19.99",
+          "compare_at": "27.99",
+          "cost": "3.80",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "AliExpress \"personalized dog collar webbing\"; casar cor e ferragem com o peitoral. Amostra obrigatória. Referência de cena: Tidy Tails comfort collar."
+        },
+        "copy": {
+          "headline": "The collar that matches the kit",
+          "lede": "Webbing collar with a brushed buckle and their name — same colour as the harness.",
+          "body_html": "<p>Cross-sell on the harness PDP and in the cart. Tidy Tails sells a matching collar at £27.99; here it anchors at £27.99 and sells at £19.99.</p>",
+          "bullets": [
+            "Matches every harness colour",
+            "Brushed metal buckle and D-ring",
+            "Name woven or heat-pressed"
+          ],
+          "proof": "Tidy Tails Comfort Collar £27.99; Dog Friendly Co. Signature Kit inclui D-ring.",
+          "faq": [
+            {
+              "q": "Is it strong enough for the lead?",
+              "a": "Yes — the D-ring is rated for a medium dog; for heavy pullers use the harness front clip."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Colour",
+            "values": [
+              "Petrol",
+              "Sand",
+              "Moss",
+              "Terracotta"
+            ]
+          },
+          {
+            "name": "Size",
+            "values": [
+              "S",
+              "M",
+              "L"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "TC-COL-M-PET",
+            "title": "M / Petrol",
+            "price": "19.99",
+            "compare_at": "27.99",
+            "option_values": [
+              "Petrol",
+              "M"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-COL-L-PET",
+            "title": "L / Petrol",
+            "price": "19.99",
+            "compare_at": "27.99",
+            "option_values": [
+              "Petrol",
+              "L"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "Matching Personalised Dog Collar | Trotter & Co",
+          "description": "A webbing dog collar that matches your Trotter & Co harness, with your dog’s name."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/matching-collar/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/matching-collar/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/matching-collar/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/matching-collar/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      },
+      {
+        "handle": "complete-walking-set",
+        "title": "The Complete Walking Set",
+        "role": "secondary",
+        "product_type": "Bundle",
+        "vendor": "Trotter & Co",
+        "status": "draft",
+        "tags": [
+          "bundle",
+          "walking-set",
+          "save"
+        ],
+        "collections": [
+          "walking-sets"
+        ],
+        "pricing": {
+          "price": "49.99",
+          "compare_at": "89.96",
+          "cost": "14.00",
+          "currency": "GBP"
+        },
+        "supplier": {
+          "url": null,
+          "status": "not_obtained",
+          "notes": "Composto dos 3 SKUs físicos acima; sem sourcing novo. Confirmar margem após custo real."
+        },
+        "copy": {
+          "headline": "Harness, lead, collar and tag — all with their name",
+          "lede": "The full kit at £40 off, one box, one delivery.",
+          "body_html": "<p>Positioned as the alternative hero for owners who want everything up front — modelled on Tidy Tails (£75) and Dog Friendly Co. Signature Kit (£87).</p>",
+          "bullets": [
+            "Everything matches",
+            "Save £40 vs buying separately",
+            "One personalisation form for the whole set"
+          ],
+          "proof": "Tidy Tails Walking Set £75 (de £99.99); Dog Friendly Co. Signature Kit £87–£97.",
+          "faq": [
+            {
+              "q": "Can I change one colour?",
+              "a": "The set is single-colour to keep the price down; buy separately to mix."
+            }
+          ]
+        },
+        "options": [
+          {
+            "name": "Colour",
+            "values": [
+              "Petrol",
+              "Sand",
+              "Moss"
+            ]
+          },
+          {
+            "name": "Harness Size",
+            "values": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          }
+        ],
+        "variants": [
+          {
+            "sku": "TC-SET-M-PET",
+            "title": "M / Petrol",
+            "price": "49.99",
+            "compare_at": "89.96",
+            "option_values": [
+              "Petrol",
+              "M"
+            ],
+            "inventory_policy": "continue"
+          },
+          {
+            "sku": "TC-SET-L-PET",
+            "title": "L / Petrol",
+            "price": "49.99",
+            "compare_at": "89.96",
+            "option_values": [
+              "Petrol",
+              "L"
+            ],
+            "inventory_policy": "continue"
+          }
+        ],
+        "seo": {
+          "title": "The Complete Personalised Dog Walking Set | Trotter & Co",
+          "description": "Harness, lead, collar and ID tag — all personalised, £40 off as a set. Ships from the UK."
+        },
+        "image_plan": {
+          "product_master": null,
+          "reference_folder": "Referencia de imagens - cena e prompt/complete-walking-set/carrossel-concorrente",
+          "reference_manifest": "Referencia de imagens - cena e prompt/complete-walking-set/manifest.json",
+          "prompt_manifest": "Referencia de imagens - cena e prompt/complete-walking-set/prompts.json",
+          "pdp_reference_capture": "Referencia de imagens - cena e prompt/complete-walking-set/modelo-pagina-concorrente.jpg",
+          "generated_folder": null,
+          "required_count": 6,
+          "approved_count": 0,
+          "source_status": "sample_required"
+        },
+        "template_suffix": null
+      }
+    ]
+  },
+  "offer": {
+    "hero_handle": "personalised-no-pull-harness",
+    "currency": "GBP",
+    "shipping": {
+      "origin": "United Kingdom",
+      "promise": "3–6 working days",
+      "personalised_addon_days": "2–4 working days",
+      "cost_to_customer": "Free over £30, else £3.95",
+      "source": "padrão observado: RuffRover \"2–5 business days\", Luther Bennett \"Express UK Delivery\""
+    },
+    "guarantee": {
+      "window_days": 30,
+      "type": "fit exchange + money back",
+      "extended_with_bump_days": 60,
+      "source": "RuffRover 30-day, Luther Bennett 45-day, DoggyKings 60-day money-back"
+    },
+    "bundles": [
+      {
+        "handle": "complete-walking-set",
+        "title": "The Complete Walking Set",
+        "price": "49.99",
+        "compare_at": "89.96",
+        "contains": [
+          "personalised-no-pull-harness",
+          "matching-rope-lead",
+          "matching-collar"
+        ],
+        "accept_rate_estimate": 0.18
+      }
+    ],
+    "order_bump": {
+      "handle": "insured-shipping",
+      "price": "2.99",
+      "compare_at": "6.00",
+      "placement": "PDP + cart",
+      "accept_rate_estimate": 0.35,
+      "source": "DoggyKings bump £1.99"
+    },
+    "economics": {
+      "source": "preços observados nos concorrentes (products.json 27/08/2026) + custo estimado por categoria (não medido por fornecedor)",
+      "assumptions": [
+        "custo herói £5.50 (30–40% do preço)",
+        "taxa de aceite bump 35%",
+        "taxa de aceite upsell 22%",
+        "gateway+embalagem £2.20/pedido",
+        "AOV projetado £31.80",
+        "CPA alvo £12–14",
+        "ROAS break-even ~1.7"
+      ],
+      "target_margin": 0.55
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      {
+        "title": "Shop All",
+        "type": "collection",
+        "target": "walking-sets"
+      },
+      {
+        "title": "Harnesses",
+        "type": "collection",
+        "target": "harnesses"
+      },
+      {
+        "title": "Walking Sets",
+        "type": "collection",
+        "target": "walking-sets"
+      },
+      {
+        "title": "Personalise",
+        "type": "product",
+        "target": "personalised-no-pull-harness"
+      },
+      {
+        "title": "Reviews",
+        "type": "page",
+        "target": "reviews"
+      }
+    ],
+    "footer_menu": [
+      {
+        "title": "Shipping & Delivery",
+        "type": "page",
+        "target": "shipping"
+      },
+      {
+        "title": "Returns & Exchanges",
+        "type": "page",
+        "target": "returns"
+      },
+      {
+        "title": "Sizing Guide",
+        "type": "page",
+        "target": "sizing-guide"
+      },
+      {
+        "title": "Contact Us",
+        "type": "page",
+        "target": "contact"
+      },
+      {
+        "title": "About",
+        "type": "page",
+        "target": "about"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "handle": "shipping",
+      "title": "Shipping & Delivery",
+      "kind": "policy",
+      "body_html": "<p>Orders ship from the UK. Standard delivery 3–6 working days. Personalised items add 2–4 working days for finishing. Free delivery over £30, otherwise £3.95. Tracking emailed on dispatch.</p>"
+    },
+    {
+      "handle": "returns",
+      "title": "Returns & Exchanges",
+      "kind": "policy",
+      "body_html": "<p>30-day fit guarantee: if the size is wrong, we swap it free — keep the first one on until the new one arrives. Unused non-personalised items refundable within 30 days. Personalised items only replaced if faulty. Modelled on the \"no-quibble\" language used by qualified competitors in this research.</p>"
+    },
+    {
+      "handle": "sizing-guide",
+      "title": "Sizing Guide",
+      "kind": "guide",
+      "body_html": "<p>Measure chest girth behind the front legs and neck at the base. Match to the table; if between sizes, size up. XS 28–38cm chest … XL 78–96cm chest.</p>"
+    },
+    {
+      "handle": "contact",
+      "title": "Contact Us",
+      "kind": "info",
+      "body_html": "<p>Email hello@trotterandco.co.uk — we reply within one working day (UK hours).</p>"
+    },
+    {
+      "handle": "about",
+      "title": "About Trotter & Co",
+      "kind": "story",
+      "body_html": "<p>Started by UK dog owners tired of harnesses that rubbed, frayed and looked like everyone else’s. One kit, sized properly, with their name on it.</p>"
+    },
+    {
+      "handle": "reviews",
+      "title": "Reviews",
+      "kind": "social-proof",
+      "body_html": "<p>Verified reviews collected post-purchase. No reviews are shown until real ones exist.</p>"
+    }
+  ],
+  "store_blueprint": {
+    "home_html": "paginas/mockup-home.html",
+    "pdp_html": "paginas/mockup-pdp.html",
+    "benchmark_html": "paginas/benchmark-visual.html",
+    "theme_target": {
+      "strategy": "use_installed_theme",
+      "preferred_family": "Impact",
+      "minimum_online_store_2": true
+    },
+    "home_sections": [
+      {
+        "id": "announcement-bar",
+        "purpose": "Oferta + \"Ships from the UK\" + brinde",
+        "copy_source": "plano-de-acao.html §04",
+        "asset_source": "n/a",
+        "acceptance": "texto <= 60 chars, bandeira UK, link para coleção"
+      },
+      {
+        "id": "hero",
+        "purpose": "Promessa de encaixe + nome + durabilidade, CTA \"Build your set\"",
+        "copy_source": "brand.positioning + mockup-home",
+        "asset_source": "foto real do peitoral no cão (produção própria)",
+        "acceptance": "H1 com a promessa, 1 CTA, 3 selos de confiança acima da dobra"
+      },
+      {
+        "id": "kit-picker",
+        "purpose": "Herói + lead + tag + bundle em 4 cards",
+        "copy_source": "catalog.products",
+        "asset_source": "image_plan de cada produto",
+        "acceptance": "4 cards, preço + âncora visíveis, bundle destacado"
+      },
+      {
+        "id": "why-switch",
+        "purpose": "Comparação \"harness genérico vs Trotter\" (modela Ruff & Wild)",
+        "copy_source": "anuncios.html anatomia",
+        "asset_source": "n/a",
+        "acceptance": "2 colunas, >=4 itens cada, sem alegação proibida"
+      },
+      {
+        "id": "personalisation",
+        "purpose": "Preview do nome antes de comprar (modela DoggyKings)",
+        "copy_source": "copy do herói",
+        "asset_source": "mock do preview",
+        "acceptance": "campo de nome + preview visível sem rolar no mobile"
+      },
+      {
+        "id": "reviews",
+        "purpose": "Prova social (modela RuffRover acima do CTA)",
+        "copy_source": "reviews reais pós-lançamento",
+        "asset_source": "UGC quando existir",
+        "acceptance": "sem reviews inventadas; placeholder marcado até haver reais"
+      },
+      {
+        "id": "offer-ladder",
+        "purpose": "Escada de oferta explícita",
+        "copy_source": "plano-de-acao.html §04",
+        "asset_source": "n/a",
+        "acceptance": "4 linhas: principal, bump, upsell, bundle, com preços"
+      }
+    ],
+    "pdp_sections": [
+      {
+        "id": "gallery",
+        "purpose": "Carrossel do produto (contagem = origem)",
+        "copy_source": "image_plan.reference_manifest",
+        "asset_source": "carrossel-concorrente + Product Master",
+        "acceptance": "todas as posições auditadas em auditoria-imagens.json"
+      },
+      {
+        "id": "buybox",
+        "purpose": "Preço + âncora + SAVE% + size + colour + campo de nome + bump",
+        "copy_source": "catalog.product + offer",
+        "asset_source": "n/a",
+        "acceptance": "bump visível no buybox; CTA mostra preço com bump"
+      },
+      {
+        "id": "sizing",
+        "purpose": "Tabela de medidas + \"free exchange if it doesn’t fit\"",
+        "copy_source": "pages.sizing-guide",
+        "asset_source": "diagrama de medição",
+        "acceptance": "tabela com 5 sizes, chest+neck+breeds, resolve objeção nº2 do nicho"
+      },
+      {
+        "id": "mechanism",
+        "purpose": "Por que para o puxão (front clip, Y-front, 4 ajustes, bar-tack)",
+        "copy_source": "copy.bullets",
+        "asset_source": "n/a",
+        "acceptance": ">=4 bullets, mecanismo concreto, sem promessa 100%"
+      },
+      {
+        "id": "faq",
+        "purpose": "FAQ ancorada em objeção real (modela Luther Bennett)",
+        "copy_source": "copy.faq",
+        "asset_source": "n/a",
+        "acceptance": ">=4 perguntas, incluindo \"what if the size is wrong\""
+      },
+      {
+        "id": "reviews",
+        "purpose": "Reviews do produto",
+        "copy_source": "reviews reais",
+        "asset_source": "UGC",
+        "acceptance": "placeholder marcado até haver reais"
+      },
+      {
+        "id": "trust",
+        "purpose": "Ships from UK + 30-day guarantee + secure checkout",
+        "copy_source": "offer.shipping + offer.guarantee",
+        "asset_source": "ícones",
+        "acceptance": "3 selos, prazo real, origem UK"
+      }
+    ],
+    "component_map": [
+      {
+        "section": "hero",
+        "theme_component": "image-banner"
+      },
+      {
+        "section": "kit-picker",
+        "theme_component": "featured-collection"
+      },
+      {
+        "section": "why-switch",
+        "theme_component": "multicolumn"
+      },
+      {
+        "section": "personalisation",
+        "theme_component": "rich-text + product-form line-item property"
+      },
+      {
+        "section": "buybox",
+        "theme_component": "main-product + bundle/upsell app block"
+      },
+      {
+        "section": "sizing",
+        "theme_component": "collapsible-content + image-with-text"
+      },
+      {
+        "section": "faq",
+        "theme_component": "collapsible-content"
+      }
+    ],
+    "responsive_requirements": [
+      "Sem camada fixa cobrindo conteúdo no mobile (o campo de nome e o CTA precisam ficar acessíveis)",
+      "Imagens com width/height; hero prioritário, abaixo da dobra em lazy load",
+      "Comparação \"why switch\" empilha em 1 coluna < 760px",
+      "Tabela de medidas rola dentro do próprio container, não na página"
+    ],
+    "performance_budget": {
+      "lcp_seconds": 2.5,
+      "cls": 0.1,
+      "mobile_kb_added": 300
+    }
+  },
+  "creative_strategy": {
+    "angles": [
+      {
+        "name": "Demo problema-solução",
+        "hook": "Your dog pulls on every walk. Here’s the 30-second fix.",
+        "models": "Ruff & Wild, DoggyKings",
+        "format": "vídeo curto antes/depois"
+      },
+      {
+        "name": "UGC depoimento cético",
+        "hook": "I was skeptical about a £25 harness...",
+        "models": "Calvani/RuffRover",
+        "format": "UGC 30-day review"
+      },
+      {
+        "name": "Personalização",
+        "hook": "Rocky’s harness arrived 🐾",
+        "models": "DoggyKings",
+        "format": "close no bordado"
+      },
+      {
+        "name": "Oferta empilhada",
+        "hook": "Harness + FREE ID tag — this week, ships from UK",
+        "models": "RuffRover",
+        "format": "carrossel de oferta"
+      },
+      {
+        "name": "Objeção de encaixe",
+        "hook": "Will it fit? Measure in 20 seconds",
+        "models": "padrão do nicho",
+        "format": "vídeo tabela de medidas"
+      }
+    ],
+    "reference_gallery": [
+      {
+        "store": "RuffRover",
+        "page_id": "288243917712403",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=288243917712403",
+        "use": "oferta/âncora + UGC"
+      },
+      {
+        "store": "Luther Bennett",
+        "page_id": "106212090986457",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=106212090986457",
+        "use": "marca premium + PDP"
+      },
+      {
+        "store": "DoggyKings",
+        "page_id": "103700115790665",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=103700115790665",
+        "use": "personalização + bundle"
+      },
+      {
+        "store": "Ruff & Wild",
+        "page_id": "780635371798819",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=780635371798819",
+        "use": "demo problema-solução"
+      },
+      {
+        "store": "Stride Paws",
+        "page_id": "906048299262499",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&view_all_page_id=906048299262499",
+        "use": "BOGO / catálogo de grooming"
+      }
+    ],
+    "production_notes": [
+      "Cada anúncio: 1 gancho + 1 ângulo + 1 objeção. Rodar 5 no lançamento, cortar 3 piores em 4–5 dias.",
+      "Sem transcrição frame a frame dos criativos dos concorrentes nesta rodada — modelar a estrutura observável, não copiar copy.",
+      "Nunca usar imagem, logo ou estampa proprietária de concorrente."
+    ]
+  },
+  "assets": {
+    "product_references": "Referencia de imagens - cena e prompt/ (por handle) — NÃO POPULADO nesta rodada: exige abrir a PDP de referência de cada produto e baixar o carrossel. Ver decisions_required.",
+    "competitor_captures": "capturas-concorrentes/ — 15 arquivos (home/pdp/carrinho de 5 lojas), 1 viewport full-page",
+    "blueprint_captures": "capturas-blueprint/ — NÃO POPULADO (mockups recém-criados; capturar em 360px e 1280px antes do handoff final)",
+    "generated_product_images": "nenhuma — exige Product Master do produto novo + amostra do fornecedor"
+  },
+  "tracking": {
+    "pixel": {
+      "platform": "Meta",
+      "status": "to_install",
+      "notes": "Pixel + dataset ID na fase de montagem"
+    },
+    "capi": {
+      "status": "to_install",
+      "notes": "Conversions API via app nativo do tema ou Shopify Meta channel"
+    },
+    "events": [
+      "PageView",
+      "ViewContent",
+      "AddToCart",
+      "InitiateCheckout",
+      "Purchase"
+    ],
+    "consent": {
+      "region": "UK/EU",
+      "mode": "Consent Mode v2 + banner",
+      "notes": "GDPR/PECR — banner de consentimento obrigatório antes de disparar pixel"
+    }
+  },
+  "execution_policy": {
+    "target_mode": "unpublished_theme_copy",
+    "dry_run_first": true,
+    "backup_required": true,
+    "manual_approval_required": true,
+    "publish_allowed": false,
+    "replace_existing_products": false,
+    "replace_existing_menu": false,
+    "delete_existing_media": false
+  },
+  "validation": {
+    "structural_reviewer": "passed",
+    "responsive_reviewer": "passed",
+    "visual_review": "partial",
+    "product_image_audit": "not_run",
+    "handoff_reviewer": "self",
+    "problems": [],
+    "warnings": [
+      "status = validation_only: sem amostra de fornecedor aprovada, sem Product Master, sem imagens finais",
+      "benchmark visual em 1 viewport (12 capturas) em vez de 4 viewports (16)",
+      "referências de imagem por produto e prompts 1:1 não geradas nesta rodada",
+      "custo de produto e tráfego são estimativas, não medições"
+    ]
+  },
+  "privacy": {
+    "distribution_safe": true,
+    "contains_secrets": false,
+    "contains_internal_store_data": false,
+    "premium_theme_included": false
+  },
+  "decisions_required": [
+    "Confirmar domínio trotterandco.co.uk (+ Instagram) disponível antes de fixar o nome da marca",
+    "Escolher fornecedor de personalização (print-on-demand UK vs AliExpress com bordado) — define o prazo prometido na loja",
+    "Pedir amostra física do peitoral herói e confirmar custo real (a economia usa £5.50 estimado)",
+    "Abrir a PDP de referência de cada um dos 5 produtos, baixar o carrossel e gerar manifest.json + prompts.json 1:1",
+    "Capturar os 4 viewports (desktop 1280 + mobile 390, home + PDP) dos 4 concorrentes principais para fechar o benchmark visual",
+    "Gerar auditoria-imagens.json depois que as referências de produto forem baixadas"
+  ]
+}

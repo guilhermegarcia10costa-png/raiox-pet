@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "nicho": "Acessórios para pet (foco cão)",
+    "marca_nova": "Trotter & Co (provisório)",
+    "nivel": "iniciante",
+    "mercado_primario": "Reino Unido (GB)",
+    "mercado_secundario_observado": "EUA (US)",
+    "idioma": "inglês (en-GB)",
+    "moeda": "GBP",
+    "gerado_em": "2026-08-27",
+    "fontes": "Meta Ad Library (conector oficial, consulta ACTIVE e ALL por page_id, 27/08/2026); products.json público de cada loja Shopify; capturas Chromium headless; Instagram público; Tranco.",
+    "momentum": "ESCALANDO",
+    "decisao": "VALIDAR COM LIMITE"
+  },
+  "demanda": {
+    "termos": [
+      {"termo": "dog harness", "us_ativos": 6106, "gb_ativos": 1692, "confianca": "média", "nota": "termo forte e limpo; base de demanda do nicho"},
+      {"termo": "personalized dog collar", "us_ativos": 259, "gb_ativos": 83, "confianca": "alta", "nota": "nicho pequeno e limpo; ângulo de personalização"},
+      {"termo": "dog car seat cover", "us_ativos": null, "gb_ativos": null, "confianca": "baixa", "nota": "contagem por frase contaminada por anúncios de novela (DramaBox); usar contagem por concorrente"},
+      {"termo": "cat litter mat", "us_ativos": null, "gb_ativos": null, "confianca": "baixa", "nota": "idem: matching frouxo inflou o número"},
+      {"termo": "slow feeder dog bowl", "us_ativos": null, "gb_ativos": null, "confianca": "baixa", "nota": "categoria pequena; contagem não confiável"},
+      {"termo": "dog grooming glove", "us_ativos": 155, "gb_ativos": null, "confianca": "média", "nota": "categoria pequena mas com operadores dedicados (Stride Paws, Ruff & Wild)"}
+    ],
+    "quantitativos": [
+      {"dado": "'dog harness' — anúncios ativos GB", "valor": "~1.692", "tipo": "medido", "implicacao": "demanda paga sólida no Reino Unido; o nicho sustenta um teste com orçamento baixo"},
+      {"dado": "'dog harness' — anúncios ativos US", "valor": "~6.106", "tipo": "medido", "implicacao": "EUA ~3,6x maior e mais saturado; UK menos disputado = melhor porta de entrada para iniciante"},
+      {"dado": "Concorrentes DTC que alcançam GB e rodam mídia agora", "valor": "≥7 lojas dropship confirmadas", "tipo": "medido", "implicacao": "há oferta ativa e replicável; passa o portão de concorrência"},
+      {"dado": "RuffRover — anúncios ativos / histórico (por page_id)", "valor": "606 / 1.933", "tipo": "medido", "implicacao": "operador em escala real no sub-nicho de carro/viagem; prova de tração"},
+      {"dado": "Luther Bennett — anúncios ativos (1 produto)", "valor": "101 ativos", "tipo": "medido", "implicacao": "marca UK escalando UM produto (Travel Dog Pod) com ângulo de segurança ISOFIX"},
+      {"dado": "Dog Friendly Co. — anúncios ativos / histórico", "valor": "3.314 / 6.207", "tipo": "medido", "implicacao": "marca consolidada (198K IG, 220 SKUs); referência de benchmark, não de operação replicável"},
+      {"dado": "Faixa de ticket dos concorrentes (produto principal)", "valor": "£15–£190", "tipo": "medido", "implicacao": "dois clusters: acessório leve £15–45 (bom p/ iniciante) e viagem/carro £90–190 (logística pesada)"},
+      {"dado": "Instagram Dog Friendly Co. / Luther Bennett", "valor": "198K / 18K seguidores", "tipo": "medido", "implicacao": "quem constrói orgânico ganha defensabilidade; a maioria dos dropshippers puros tem 0 social"}
+    ],
+    "voz_do_mercado": [
+      {"objecao": "'Já tenho coleira/guia, por que trocar?'", "resposta_observada": "ângulo de bem-estar/segurança (não-puxão, cinto de carro, conforto senior)"},
+      {"objecao": "'Vai servir no meu cão?'", "resposta_observada": "tabela de medidas + '42 variantes' + garantia de troca"},
+      {"objecao": "'Demora e vem de fora?'", "resposta_observada": "'Express UK Delivery', 'Ships from UK', '45-day / 30-day money back'"},
+      {"objecao": "'É barato/frágil?'", "resposta_observada": "'Hard bottom', 'holds 280 lbs', 'ISOFIX', vídeo de demonstração de resistência"}
+    ]
+  },
+  "mercados": [
+    {"pais": "GB", "amplo": "dog harness ~1.692 ativos", "angulo": "no-pull / walking set / ISOFIX car", "assimetria": "demanda média-alta, concorrência DTC madura porém não saturada; regras de ISOFIX abrem ângulo de segurança local", "leitura": "ENTRAR", "pill": "p-a"},
+    {"pais": "US", "amplo": "dog harness ~6.106 ativos", "angulo": "no-pull / car seat / grooming", "assimetria": "maior mercado, mais criativos para modelar, porém CPMs e concorrência bem mais altos; arriscado para caixa de iniciante", "leitura": "OBSERVAR / expandir depois", "pill": "p-b"}
+  ],
+  "concorrentes": [
+    {
+      "slug": "ruffrover", "nome": "RuffRover", "dominio": "ruffrover.com", "moeda_site": "USD (alcança GB)",
+      "page_ids": ["288243917712403"], "metodo_id": "dominio",
+      "anuncios_ativos": 606, "anuncios_historico": 1933, "sobrevivencia_pct": 31,
+      "plataforma": "Shopify", "apps": ["bold","gtag","judge.me","upcart","recharge?"],
+      "catalogo_n": 24, "preco_mediana": 34.99, "preco_min": 4.99, "preco_max": 169.95,
+      "hero": {"titulo": "RuffRover 2.0 — Hard Bottom Dog Car Seat Protector", "preco": 149.95, "ancora": 340.99, "off_pct": 56},
+      "bump": [{"t": "Shipping Protection", "p": 4.99}, {"t": "VIP Skip The Line Shipping", "p": 9.99}],
+      "best_sellers": ["Hard Bottom Back Seat Extender £166 (de £377)", "Plushy Booster Seat £124.95", "Single Back Seat Extender £94.95", "Pup Passenger Seat Cover £49.95", "DoorGuard 2-Pack £29.99"],
+      "prova_social": "'3.534 reviews' na PDP (widget Judge.me); '50.000+ Happy Pets & Parents'; stats 97%/92%/89%",
+      "criativo_campeao": {"titulo": "One Last Road Trip — 56% Off 🚗", "hook": "carta emocional a um cão idoso / 'última viagem'", "angulo": "vínculo dono-cão + ancoragem agressiva 56%", "variacoes": ["Their Ride, Upgraded", "Return The Favor 🐾", "2 Year Anniversary — 56% Off"]},
+      "ritmo_criativo": "altíssimo — dezenas de novos objetos de anúncio por dia sobre o mesmo conceito (teste de audiência/placement em volume)",
+      "identidade": "laranja + preto, tom caloroso/familiar, UGC de dono+cão no banco do carro, badge 'SAVE 56%'",
+      "veredito": "MODELAR", "veredito_pill": "p-a", "nivel_operacional": 6, "defensabilidade": "ARBITRAGEM",
+      "leitura": "Melhor aula de OFERTA e CRIATIVO do nicho, mas o produto (capa de banco rígida) é volumoso: frete caro, devolução cara, caixa alta. Modele o ângulo emocional e a ancoragem, não o SKU."
+    },
+    {
+      "slug": "lutherbennett", "nome": "Luther Bennett", "dominio": "lutherbennett.com", "moeda_site": "GBP",
+      "page_ids": ["106212090986457"], "metodo_id": "dominio",
+      "anuncios_ativos": 101, "anuncios_historico": 101, "sobrevivencia_pct": 100,
+      "plataforma": "Shopify", "apps": ["judge.me?","trustpilot","recharge?"],
+      "catalogo_n": 17, "preco_mediana": 42.0, "preco_min": 10.0, "preco_max": 340.0,
+      "hero": {"titulo": "Travel Dog Pod — Now With ISOFIX", "preco": 190.0, "ancora": null, "off_pct": null},
+      "bump": [{"t": "Dog Pod Strap", "p": 12.0}, {"t": "Safety Leash", "p": 10.0}, {"t": "Replacement Skin", "p": 120.0}, {"t": "Cooper Collar & Leash Set", "p": 35.0}],
+      "best_sellers": ["Travel Dog Pod £190–340", "Honey Comb Dog Coat £42", "Cooper Collar & Leash Set £35", "Dachshund Winter Coat £42"],
+      "prova_social": "'Excellent' Trustpilot; PDP '4.9/5 · 1.571 reviews'; 'Famous Dogs Are Barking About...'; 18K Instagram",
+      "criativo_campeao": {"titulo": "Travel Dog Pod (Now with ISOFIX)", "hook": "'Stay Highway Code Compliant' — segurança + legalidade no carro", "angulo": "1 produto, 1 promessa; ISOFIX como diferencial técnico local (UK)", "variacoes": ["Stress-Free Travel for Your Pet 🐶"]},
+      "ritmo_criativo": "moderado e consistente — mesmo produto e ângulo há semanas, iterando ganchos de vídeo",
+      "identidade": "bege/rosewood/preto, premium/editorial, fotografia de estúdio + lifestyle no carro, tom de 'marca de verdade'",
+      "veredito": "MODELAR", "veredito_pill": "p-a", "nivel_operacional": 5, "defensabilidade": "CONSTRUÍVEL",
+      "leitura": "A referência de MARCA e PDP do nicho no UK. Um produto, funil limpo, Trustpilot, orgânico. AOV £190 exige criativo forte e caixa. Modele o rigor de marca e a PDP; o produto (pod dobrável) tem frete/estoque pesado."
+    },
+    {
+      "slug": "doggykings", "nome": "DoggyKings", "dominio": "doggykings.com", "moeda_site": "EUR (alcança GB)",
+      "page_ids": ["103700115790665"], "metodo_id": "dominio",
+      "anuncios_ativos": 88, "anuncios_historico": 944, "sobrevivencia_pct": 9,
+      "plataforma": "Shopify", "apps": ["bold","gtag"],
+      "catalogo_n": 7, "preco_mediana": 19.99, "preco_min": 1.99, "preco_max": 24.99,
+      "hero": {"titulo": "DoggyKings Ultimate Personalized No-Pull Dog Harness", "preco": 19.99, "ancora": 39.99, "off_pct": 50},
+      "bump": [{"t": "Insured Shipping + 60-day money-back extension", "p": 1.99, "ancora": 5.0}],
+      "best_sellers": ["Personalized No-Pull Harness £14.99–19.99 (42 variantes)", "3-in-1 Leash £15.99 (de £29.99)", "3-in-1 Raincoat £19.99–24.99", "Pet Hair Remover £9.99–16.99"],
+      "prova_social": "widget de reviews on-site (não Judge.me público); âncora '£39.99'; '60-day money back'",
+      "criativo_campeao": {"titulo": "50% OFF + 1 FREE Lead Today", "hook": "oferta pura: metade do preço + guia grátis", "angulo": "preço/bundle agressivo + personalização (nome do cão bordado)", "variacoes": ["50% OFF Today"]},
+      "ritmo_criativo": "em rajadas — bloco grande de anúncios idênticos por lançamento de oferta, depois pausa (sobrevivência 9%)",
+      "identidade": "azul/branco, funcional, foco em foto de produto + selo de desconto, pouca marca",
+      "veredito": "MODELAR", "veredito_pill": "p-a", "nivel_operacional": 9, "defensabilidade": "ARBITRAGEM",
+      "leitura": "O molde mais copiável para iniciante: 7 SKUs, AOV £20, produto leve (guia/coleira/peitoral), personalização como diferencial, order bump de £1.99 que quase todo mundo aceita. Modele a arquitetura de oferta inteira."
+    },
+    {
+      "slug": "ruffandwild", "nome": "Ruff & Wild", "dominio": "ruffandwild.com", "moeda_site": "USD (alcança GB)",
+      "page_ids": ["780635371798819"], "metodo_id": "dominio",
+      "anuncios_ativos": 14, "anuncios_historico": 488, "sobrevivencia_pct": 3,
+      "plataforma": "Shopify", "apps": ["afterpay","bold","judge.me","klarna","triplewhale","tiktok"],
+      "catalogo_n": 2, "preco_mediana": 21.99, "preco_min": 9.99, "preco_max": 74.99,
+      "hero": {"titulo": "Clean Your Pet in 60 Seconds — No Tub. No Mess. No Stress.", "preco": 21.99, "ancora": 59.99, "off_pct": 63},
+      "bump": [{"t": "Eco-Friendly Dental Wipes 50pcs", "p": 9.99, "ancora": 19.99}],
+      "best_sellers": ["Rinse-free cleaning mitt/glove £21.99–74.99 (bundles escalonados)", "Dental Wipes £9.99–17.99"],
+      "prova_social": "Judge.me presente; bundles de 2–3 unidades; 'January Sale' perene",
+      "criativo_campeao": {"titulo": "No Bath. No Mess. No Stress.", "hook": "problema-agitação: dar banho é um pesadelo", "angulo": "demonstração do produto resolvendo dor concreta; 3 negações em ritmo", "variacoes": ["Hypoallergenic Pet Cleaning Glove Wipes | Unscented"]},
+      "ritmo_criativo": "rajada forte e pausa — 488 no histórico, só 14 ativos hoje (liga/desliga campanha)",
+      "identidade": "verde/natural, 'eco', foto de produto em uso, pouca construção de marca",
+      "veredito": "MODELAR", "veredito_pill": "p-a", "nivel_operacional": 9, "defensabilidade": "ARBITRAGEM",
+      "leitura": "Aula de CRIATIVO problema-solução e de produto de 1 SKU leve e barato (£3–5 de custo). O 'liga/desliga' sugere que rentabilidade é sensível. Modele o hook e o formato demo; some order bump para salvar a margem."
+    },
+    {
+      "slug": "stridepaws", "nome": "Stride Paws", "dominio": "stridepaws.com", "moeda_site": "USD (alcança GB)",
+      "page_ids": ["906048299262499"], "metodo_id": "dominio",
+      "anuncios_ativos": 26, "anuncios_historico": 26, "sobrevivencia_pct": 100,
+      "plataforma": "Shopify", "apps": ["bold","gtag","judge.me","pinterest"],
+      "catalogo_n": 55, "preco_mediana": 25.0, "preco_min": 7.99, "preco_max": 88.49,
+      "hero": {"titulo": "Pet Hair Remover Glove — Buy 1 Get 1 Free", "preco": 23.99, "ancora": 40.99, "off_pct": 41},
+      "bump": [{"t": "Dog Finger Toothbrush Set", "p": 7.99, "ancora": 19.99}, {"t": "FurEase Pet Grooming Comb", "p": 14.99}, {"t": "4x Pet Hair Catcher (máquina de lavar)", "p": 8.99}],
+      "best_sellers": ["Pet Hair Remover Glove (BOGO) £23.99", "LED Paw Trimmer £23.99 (de £42.99)", "Deshedding Gloves £14.99", "Steam Brush £25", "Paw Float Pool Lounger £48.99–88.49"],
+      "prova_social": "Judge.me; 'FREE Surprise Gift' no carrinho; BOGO",
+      "criativo_campeao": {"titulo": "🚨 Best Grooming Deal You'll Find 🚨", "hook": "oferta/urgência + demo de remoção de pelo", "angulo": "deal-led (BOGO) sobre categoria de grooming barata", "variacoes": ["Limited Time: Buy 1, Get 1 Free!", "{{product.name}} (catálogo/DPA)"]},
+      "ritmo_criativo": "baixo e estável — 26 ativos = 26 histórico; opera pequeno mas contínuo há ~5 meses",
+      "identidade": "genérico Shopify, foco em GIF/vídeo de demonstração, selo de oferta",
+      "veredito": "MODELAR", "veredito_pill": "p-a", "nivel_operacional": 8, "defensabilidade": "ARBITRAGEM",
+      "leitura": "O concorrente mais próximo de 'acessórios em geral': 55 SKUs de grooming + acessórios, AOV £24, BOGO e brinde. Modele a arquitetura de catálogo e o mix de bumps; o volume de anúncio baixo sugere operação pequena (bom sinal de que dá pra entrar)."
+    },
+    {
+      "slug": "dogfriendlyco", "nome": "Dog Friendly Co.", "dominio": "dogfriendlyco.com", "moeda_site": "GBP/AUD",
+      "page_ids": ["102837007868128"], "metodo_id": "dominio",
+      "anuncios_ativos": 3314, "anuncios_historico": 6207, "sobrevivencia_pct": 53,
+      "plataforma": "Shopify", "apps": ["klaviyo","gorgias","hotjar","clarity","stamped","tiktok","gtm"],
+      "catalogo_n": 220, "preco_mediana": 89.0, "preco_min": 4.5, "preco_max": 600.0,
+      "hero": {"titulo": "Signature Kit (peitoral + guia + acessórios) — FREE D-Ring", "preco": 87.0, "ancora": 97.0, "off_pct": 10},
+      "bump": [{"t": "Hands Free Leash", "p": 39.0, "ancora": 45.0}],
+      "best_sellers": ["Signature Kit £87–97 (18 variantes de cor)", "Chill Pill Memory Foam Dog Bed £129", "Hands Free Leash £39"],
+      "prova_social": "198K Instagram, Tranco 191.435 subindo, Stamped reviews, comunidade real",
+      "criativo_campeao": {"titulo": "Rated #1 By Dog Owners", "hook": "autoridade / prova social", "angulo": "marca lifestyle com kit modular e cor", "variacoes": []},
+      "ritmo_criativo": "industrial — 3.314 ativos, catálogo inteiro em DPA + criativo de marca",
+      "identidade": "marca forte, paleta de cores por coleção, fotografia própria consistente, UGC massivo",
+      "veredito": "OBSERVAR", "veredito_pill": "p-b", "nivel_operacional": 3, "defensabilidade": "CONSTRUÍVEL",
+      "leitura": "Marca consolidada: 220 SKUs, 198K IG, fotografia própria, comunidade. NÃO é replicável por um iniciante. Serve como teto de aspiração: mostra pra onde o modelo 'walking set' evolui (kit modular + cor + comunidade)."
+    }
+  ],
+  "contexto_extra": [
+    {"nome": "Tidy Tails", "dominio": "tidytailsworld.com", "page_ids": ["857617360763275"], "ativos": 9, "historico": 37, "nota": "Loja nova (dez/2025), FR+UK. Walking Set £75 (de £99.99) = peitoral+coleira+guia. Exemplo do formato hero-bundle mínimo; evidência ainda fina (9 ativos)."},
+    {"nome": "Calvani", "dominio": "não confirmado (anúncio aponta p/ funil de terceiro)", "page_ids": ["795967740273258"], "ativos": 9, "historico": 79, "nota": "Peitoral no-pull com criativo advertorial ('A Skeptical Husband's 30-Day Review', 'Read this before you get a prong collar'). Loja não confirmada pelo domínio -> NÃO vira ficha; guardado só como referência de ÂNGULO de criativo advertorial."}
+  ],
+  "lacunas": [
+    {"campo": "Corpo do criativo (copy completa) e URL de mídia dos anúncios", "fontes_tentadas": "conector Meta ads_library_search (só retorna título, datas, snapshot URL); WebFetch no snapshot (403)", "impacto": "Anatomia dos Vencedores feita a partir de título+ângulo observável, não da transcrição frame a frame", "alternativa": "abrir cada ad_snapshot_url manualmente no navegador, ou minerador headless dedicado"},
+    {"campo": "Tráfego mensal (SimilarWeb) por loja", "fontes_tentadas": "não executado nesta rodada (SimilarWeb bloqueia automação com frequência)", "impacto": "faturamento estimado fica em faixa larga, ancorado em nº de anúncios + AOV", "alternativa": "trafego.js em background com retries, ou dado autorizado do operador"},
+    {"campo": "Custo real de produto (fornecedor 1:1)", "fontes_tentadas": "não coletado — exige busca AliExpress/1688 por foto", "impacto": "P&L usa faixa de custo estimada por categoria (30–40% do preço de venda)", "alternativa": "sourcing por imagem na fase de montagem"},
+    {"campo": "Contagem de reviews verificável por loja", "fontes_tentadas": "Judge.me público bloqueado em 5/7 lojas; número lido da PDP quando visível", "impacto": "prova social tratada como proxy declarado, não medida", "alternativa": "inspeção XHR da PDP via Playwright"},
+    {"campo": "Capturas nos 4 viewports (desktop 1280 + mobile 390, home + PDP)", "fontes_tentadas": "prints.js captura full-page em 1 viewport (home/PDP/carrinho)", "impacto": "benchmark visual em cobertura reduzida (12 capturas em vez de 16)", "alternativa": "script de captura multi-viewport dedicado"}
+  ],
+  "auditoria_anuncios_ok": true
+}

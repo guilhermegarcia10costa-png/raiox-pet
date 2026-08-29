@@ -1,0 +1,57 @@
+{
+  "data": "2026-08-27",
+  "review_method": [
+    "abertura e revisão visual semântica de cada arquivo baixado nesta sessão (produto correto, variante, cena, integridade, correspondência com o manifesto)"
+  ],
+  "produtos": [
+    {
+      "handle": "themed-snuffle-mat",
+      "expected": 8,
+      "downloaded": 8,
+      "correct_product": 8,
+      "wrong_product": 0,
+      "unique_scenes": 8,
+      "broken_files": 0,
+      "nota": "revisado visualmente: 8/8 conferem (produto correto, cena bate com o manifesto)"
+    },
+    {
+      "handle": "lick-mat-slow-feeder",
+      "expected": 7,
+      "downloaded": 7,
+      "correct_product": 7,
+      "wrong_product": 0,
+      "unique_scenes": 7,
+      "broken_files": 0,
+      "nota": "revisado visualmente: 7/7 conferem (produto correto, cena bate com o manifesto)"
+    },
+    {
+      "handle": "puzzle-feeder",
+      "expected": 8,
+      "downloaded": 8,
+      "correct_product": 8,
+      "wrong_product": 0,
+      "unique_scenes": 8,
+      "broken_files": 0,
+      "nota": "revisado visualmente: 8/8 conferem (produto correto, cena bate com o manifesto)"
+    },
+    {
+      "handle": "the-full-menu-kit",
+      "expected": 8,
+      "downloaded": 8,
+      "correct_product": 8,
+      "wrong_product": 0,
+      "unique_scenes": 8,
+      "broken_files": 0,
+      "nota": "revisado visualmente: 8/8 conferem (produto correto, cena bate com o manifesto)"
+    }
+  ],
+  "summary": {
+    "expected": 31,
+    "downloaded": 31,
+    "correct_product": 31,
+    "unique_scenes": 31,
+    "source_duplicates": 0,
+    "wrong_product": 0,
+    "broken_files": 0
+  }
+}

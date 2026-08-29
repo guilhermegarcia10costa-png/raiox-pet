@@ -1,0 +1,200 @@
+{
+  "data": "2026-08-27",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "RuffRover",
+      "dominio": "ruffrover.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "288243917712403"
+      ],
+      "tentativas": [
+        "search_terms=ruffrover.com -> page_id 288243917712403",
+        "resolvido por snapshot -> ruffrover.com"
+      ],
+      "reportado": {
+        "ativos": 606,
+        "historico": 1933
+      },
+      "biblioteca": {
+        "ativos": 606,
+        "historico": 1933
+      },
+      "nota": "chamada ACTIVE e ALL rodaram separadamente; histórico > ativos ok"
+    },
+    {
+      "loja": "Luther Bennett",
+      "dominio": "lutherbennett.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "106212090986457"
+      ],
+      "tentativas": [
+        "search_terms via snapshot -> lutherbennett.com",
+        "page_id 106212090986457"
+      ],
+      "reportado": {
+        "ativos": 101,
+        "historico": 101
+      },
+      "biblioteca": {
+        "ativos": 101,
+        "historico": 101
+      },
+      "nota": "ativos == historico: página relativamente nova / não pausou anúncios; ALL rodou (retornou o mesmo conjunto)"
+    },
+    {
+      "loja": "DoggyKings",
+      "dominio": "doggykings.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "103700115790665"
+      ],
+      "tentativas": [
+        "snapshot -> doggykings.com",
+        "page_id 103700115790665"
+      ],
+      "reportado": {
+        "ativos": 88,
+        "historico": 944
+      },
+      "biblioteca": {
+        "ativos": 88,
+        "historico": 944
+      },
+      "nota": "sobrevivência 9% — opera em rajadas de oferta"
+    },
+    {
+      "loja": "Ruff & Wild",
+      "dominio": "ruffandwild.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "780635371798819"
+      ],
+      "tentativas": [
+        "snapshot -> ruffandwild.com",
+        "page_id 780635371798819"
+      ],
+      "reportado": {
+        "ativos": 14,
+        "historico": 488
+      },
+      "biblioteca": {
+        "ativos": 14,
+        "historico": 488
+      },
+      "nota": "sobrevivência 3% — liga/desliga campanha"
+    },
+    {
+      "loja": "Stride Paws",
+      "dominio": "stridepaws.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "906048299262499"
+      ],
+      "tentativas": [
+        "snapshot -> stridepaws.com",
+        "page_id 906048299262499"
+      ],
+      "reportado": {
+        "ativos": 26,
+        "historico": 26
+      },
+      "biblioteca": {
+        "ativos": 26,
+        "historico": 26
+      },
+      "nota": "ativos == historico: operação pequena e contínua; ALL rodou (mesmo conjunto retornado, contagem baixa plausível)"
+    },
+    {
+      "loja": "Dog Friendly Co.",
+      "dominio": "dogfriendlyco.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "102837007868128"
+      ],
+      "tentativas": [
+        "snapshot -> dogfriendlyco.com",
+        "page_id 102837007868128"
+      ],
+      "reportado": {
+        "ativos": 3314,
+        "historico": 6207
+      },
+      "biblioteca": {
+        "ativos": 3314,
+        "historico": 6207
+      },
+      "nota": "marca consolidada; DPA de catálogo inteiro; OBSERVAR, não vira ficha completa"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-08-28",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "metodo": "dominio",
+        "reportado_ativos": 606,
+        "biblioteca_ativos": 606,
+        "biblioteca_historico": 1933,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "metodo": "dominio",
+        "reportado_ativos": 101,
+        "biblioteca_ativos": 101,
+        "biblioteca_historico": 101,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "DoggyKings",
+        "dominio": "doggykings.com",
+        "metodo": "dominio",
+        "reportado_ativos": 88,
+        "biblioteca_ativos": 88,
+        "biblioteca_historico": 944,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Ruff & Wild",
+        "dominio": "ruffandwild.com",
+        "metodo": "dominio",
+        "reportado_ativos": 14,
+        "biblioteca_ativos": 14,
+        "biblioteca_historico": 488,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Stride Paws",
+        "dominio": "stridepaws.com",
+        "metodo": "dominio",
+        "reportado_ativos": 26,
+        "biblioteca_ativos": 26,
+        "biblioteca_historico": 26,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Dog Friendly Co.",
+        "dominio": "dogfriendlyco.com",
+        "metodo": "dominio",
+        "reportado_ativos": 3314,
+        "biblioteca_ativos": 3314,
+        "biblioteca_historico": 6207,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

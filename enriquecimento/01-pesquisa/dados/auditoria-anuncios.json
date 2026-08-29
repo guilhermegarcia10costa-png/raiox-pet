@@ -1,0 +1,170 @@
+{
+  "data": "2026-08-28",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "Pets Dreams UK",
+      "dominio": "pets-dreams.uk",
+      "metodo": "dominio",
+      "page_ids": [
+        "122099419748000769"
+      ],
+      "tentativas": [
+        "snapshot -> pets-dreams.uk",
+        "page_id 122099419748000769"
+      ],
+      "reportado": {
+        "ativos": 626,
+        "historico": 785
+      },
+      "biblioteca": {
+        "ativos": 626,
+        "historico": 785
+      },
+      "nota": "catálogo em rotação; sobrevivência 80%; ACTIVE e ALL rodaram separadamente"
+    },
+    {
+      "loja": "Marlene's Pet Shop",
+      "dominio": "marlenespetshop.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "317599658104854"
+      ],
+      "tentativas": [
+        "snapshot -> marlenespetshop.com",
+        "page_id 317599658104854"
+      ],
+      "reportado": {
+        "ativos": 372,
+        "historico": 788
+      },
+      "biblioteca": {
+        "ativos": 372,
+        "historico": 788
+      },
+      "nota": "advertorial + BOGO; sobrevivência 47% (testa e corta)"
+    },
+    {
+      "loja": "British Pets",
+      "dominio": "britishpets.uk",
+      "metodo": "dominio",
+      "page_ids": [
+        "1226811687172240"
+      ],
+      "tentativas": [
+        "snapshot -> britishpets.uk",
+        "page_id 1226811687172240"
+      ],
+      "reportado": {
+        "ativos": 147,
+        "historico": 191
+      },
+      "biblioteca": {
+        "ativos": 147,
+        "historico": 191
+      },
+      "nota": "gêmeo do Pets Dreams em menor escala; sobrevivência 77%"
+    },
+    {
+      "loja": "Whisk",
+      "dominio": "get-whisk.com",
+      "metodo": "rodape",
+      "page_ids": [
+        "1071263536078181"
+      ],
+      "tentativas": [
+        "snapshot -> get-whisk.com",
+        "página-persona 'Margaret Ellis' confirmada pelo destino do anúncio",
+        "page_id 1071263536078181"
+      ],
+      "reportado": {
+        "ativos": 8,
+        "historico": 88
+      },
+      "biblioteca": {
+        "ativos": 8,
+        "historico": 88
+      },
+      "nota": "advertorial em página-persona; loja nova (30/07/2026); sobrevivência 9% (testa muitos ângulos de história)"
+    },
+    {
+      "loja": "PawzNDogz (LuvMyFido)",
+      "dominio": "pawzndogz.ca",
+      "metodo": "dominio",
+      "page_ids": [
+        "110963396945279"
+      ],
+      "tentativas": [
+        "snapshot -> pawzndogz.ca",
+        "page_id 110963396945279"
+      ],
+      "reportado": {
+        "ativos": 7,
+        "historico": 25
+      },
+      "biblioteca": {
+        "ativos": 7,
+        "historico": 25
+      },
+      "nota": "opera pequeno com forte orgânico (8,7K IG); marca temática; sobrevivência 28%"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-08-28",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Pets Dreams UK",
+        "dominio": "pets-dreams.uk",
+        "metodo": "dominio",
+        "reportado_ativos": 626,
+        "biblioteca_ativos": 626,
+        "biblioteca_historico": 785,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Marlene's Pet Shop",
+        "dominio": "marlenespetshop.com",
+        "metodo": "dominio",
+        "reportado_ativos": 372,
+        "biblioteca_ativos": 372,
+        "biblioteca_historico": 788,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "British Pets",
+        "dominio": "britishpets.uk",
+        "metodo": "dominio",
+        "reportado_ativos": 147,
+        "biblioteca_ativos": 147,
+        "biblioteca_historico": 191,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Whisk",
+        "dominio": "get-whisk.com",
+        "metodo": "rodape",
+        "reportado_ativos": 8,
+        "biblioteca_ativos": 8,
+        "biblioteca_historico": 88,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "PawzNDogz (LuvMyFido)",
+        "dominio": "pawzndogz.ca",
+        "metodo": "dominio",
+        "reportado_ativos": 7,
+        "biblioteca_ativos": 7,
+        "biblioteca_historico": 25,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}
